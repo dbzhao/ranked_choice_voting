@@ -1,3 +1,4 @@
+import copy
 import logging
 import pandas as pd
 import re
@@ -9,10 +10,10 @@ class RankedChoiceElection:
 
     def __init__(self, votes, candidates):
         self.votes = votes
-        self.candidates = candidates
+        self.candidates = copy.deepcopy(candidates)
 
 
-    def tally_votes(votes, candidates):
+    def tally_votes(self, votes, candidates):
 
         tallied = pd.DataFrame(columns=['First Choice', 'Second Choice', 'Third Choice'])
 
@@ -26,7 +27,7 @@ class RankedChoiceElection:
         return tallied
 
 
-    def get_winner(df):
+    def get_winner(self, df):
         total_votes = df['First Choice'].sum()
         if total_votes == 0:
             print 'Not enough votes'
@@ -39,22 +40,22 @@ class RankedChoiceElection:
             return (False, '')
 
 
-    def get_loser(df):
+    def get_loser(self, df):
         # Return loser, ties broken by random shuffling based on random_state=1
         # TODO: Add logging for tiebreaks
         return df[df['First Choice']==min(df['First Choice'])].sample(frac=1, random_state=1).index[0]
 
 
-    def remove_candidate(df, candidate_column):
+    def remove_candidate(self, df, candidate_column):
 
         new_votes = pd.DataFrame()
 
         for i in df.index:
             id_row = df.ix[i][['Timestamp', 'Email Address']]
             vote_row = df.ix[i][~df.columns.isin(['Timestamp', 'Email Address'])].drop(candidate_column)
-            vote_row = vote_row.map(vote_map)
+            vote_row = vote_row.map(self.vote_map)
             vote_row = vote_row.rank() # TODO: Add logging for who votes have been redistributed to
-            vote_row = vote_row.map(rank_map)
+            vote_row = vote_row.map(self.rank_map)
             vote_row = pd.concat([id_row, vote_row])
             new_votes = pd.concat([new_votes, pd.DataFrame(vote_row).transpose()])
 
@@ -63,4 +64,6 @@ class RankedChoiceElection:
         if candidate in self.candidates:
             self.candidates.remove(candidate)
 
-        return new_votes
+        self.votes = new_votes
+        
+        return

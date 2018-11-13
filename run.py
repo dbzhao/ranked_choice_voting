@@ -16,23 +16,23 @@ def main(args):
     df = load_data.check_duplicates(df, keep='last')
 
     # Parse out questions, candidates and votes
-    questions, candidates, votes = load_data.parse_questions_candidates_votes()
+    questions, candidates, votes = load_data.parse_questions_candidates_votes(df)
 
     # Evaluate each election
     for question in questions:
         rce = election.RankedChoiceElection(votes[question], candidates)
 
         # Tally and check for winner
-        tally = rce.tally_votes(rce.candidates, rce.votes)
+        tally = rce.tally_votes(rce.votes, rce.candidates)
         has_winner, winner = rce.get_winner(tally)
 
         # If not, iterate through candidates until winner is found
         while has_winner == False:
             # Log this
-            loser = rce.get_loser(new_tally)
+            loser = rce.get_loser(tally)
             rce.remove_candidate(rce.votes, loser)
 
-            tally = rce.tally_votes(rce.candidates, rce.votes)
+            tally = rce.tally_votes(rce.votes, rce.candidates)
             has_winner, winner = rce.get_winner(tally)
 
             # TODO: Write logs to txt?
