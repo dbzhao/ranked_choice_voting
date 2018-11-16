@@ -9,7 +9,7 @@ def check_duplicates(df, keep=False):
     # Setting keep_invalid to False will drop all duplicated records, 'last' will preserve only last record
     df = df[~df['Email Address'].duplicated(keep=keep)]
 
-    # logging.INFO('') # TODO: Log whether there are any duplicates and who the offenders are
+    # TODO: Log whether there are any duplicates and who the offenders are
 
     return df
 

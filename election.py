@@ -2,6 +2,7 @@ import copy
 import logging
 import pandas as pd
 import re
+import time
 
 class RankedChoiceElection:
 
@@ -12,6 +13,8 @@ class RankedChoiceElection:
         self.votes = votes
         self.candidates = copy.deepcopy(candidates)
 
+    # TODO: Add function to rerank votes - this can be used in remove_candidate() and can be used in cases where
+    # people vote for 1 and 3 but not 2 or 2 and 3 but not 1.
 
     def tally_votes(self, votes, candidates):
 
@@ -30,13 +33,13 @@ class RankedChoiceElection:
     def get_winner(self, df):
         total_votes = df['First Choice'].sum()
         if total_votes == 0:
-            print 'Not enough votes'
+            print 'Not enough votes'; time.sleep(1)
             return (False, '')
         elif max(df['First Choice']) >= (total_votes / 2) + 1:
-            print 'Winner found'
+            print 'Winner found'; time.sleep(1)
             return (True, df['First Choice'].idxmax())
         else:
-            print 'No winner found'
+            print 'No winner found'; time.sleep(1)
             return (False, '')
 
 
@@ -65,5 +68,5 @@ class RankedChoiceElection:
             self.candidates.remove(candidate)
 
         self.votes = new_votes
-        
+
         return
