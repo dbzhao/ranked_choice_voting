@@ -14,6 +14,10 @@ def check_duplicates(df, keep=False):
     return df
 
 def parse_questions_candidates_votes(df):
+
+    # Remove non-ascii symbols
+    df.columns = [column.decode('utf-8').encode('ascii', 'ignore')  for column in df.columns]
+
     questions_and_candidates = list(df.columns[2:])
 
     questions = list(pd.unique([re.findall('(.+)\[', i)[0].strip() for i in questions_and_candidates]))

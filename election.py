@@ -21,7 +21,7 @@ class RankedChoiceElection:
         tallied = pd.DataFrame(columns=['First Choice', 'Second Choice', 'Third Choice'])
 
         for candidate in candidates:
-            candidate_column = [column for column in votes.columns if re.search(candidate, column)][0]
+            candidate_column = [column for column in votes.columns if candidate in column][0]
             vote_counts = votes[candidate_column].value_counts()
             vote_counts = pd.DataFrame(vote_counts).transpose()
             tallied = pd.concat([tallied, vote_counts])
@@ -33,13 +33,13 @@ class RankedChoiceElection:
     def get_winner(self, df):
         total_votes = df['First Choice'].sum()
         if total_votes == 0:
-            print 'Not enough votes'; time.sleep(1)
+            print 'Not enough votes'
             return (False, '')
         elif max(df['First Choice']) >= (total_votes / 2) + 1:
-            print 'Winner found'; time.sleep(1)
+            print 'Winner found'
             return (True, df['First Choice'].idxmax())
         else:
-            print 'No winner found'; time.sleep(1)
+            print 'No winner found'
             return (False, '')
 
 
