@@ -1,5 +1,4 @@
 import copy
-import logging
 import pandas as pd
 import re
 import time
@@ -33,13 +32,11 @@ class RankedChoiceElection:
     def get_winner(self, df):
         total_votes = df['First Choice'].sum()
         if total_votes == 0:
-            print 'Not enough votes'
+            sys.exit('Not enough votes')
             return (False, '')
         elif max(df['First Choice']) >= (total_votes / 2) + 1:
-            print 'Winner found'
             return (True, df['First Choice'].idxmax())
         else:
-            print 'No winner found'
             return (False, '')
 
 
