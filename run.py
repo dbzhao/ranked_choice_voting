@@ -1,9 +1,8 @@
 import argparse
-import datetime
 import logging
+import numpy as np
 import pandas as pd
 import sys
-import time
 
 import election
 import load_data
@@ -60,10 +59,14 @@ def main(args):
 
         # TODO: also print # of ballots
 
-        logger.info('Winner found')
-        logger.info('The winner for election {question} is {winner} with {votes:.0f} votes'.format(question=question,
+        logger.warning('Out of {} ballots cast:'.format(len(votes[question])))
+        logger.warning('Winner found')
+        logger.warning('The winner for election {question} is {winner} with {votes:.0f} votes'.format(question=question,
             winner=winner,
             votes=int(tally['First Choice'].ix[winner])))
+        
+        # Print 1st-3rd place
+        logger.warning(tally['First Choice'][0:3].sort_values(ascending=False))
 
 # The parser is only called if this script is called as a script/executable (via command line) but not when imported by another script
 if __name__=='__main__':

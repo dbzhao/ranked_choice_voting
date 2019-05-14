@@ -23,7 +23,7 @@ class RankedChoiceElection:
             candidate_column = [column for column in votes.columns if candidate in column][0]
             vote_counts = votes[candidate_column].value_counts()
             vote_counts = pd.DataFrame(vote_counts).transpose()
-            tallied = pd.concat([tallied, vote_counts])
+            tallied = pd.concat([tallied, vote_counts], sort=True)
             tallied = tallied.fillna(0.0)
 
         return tallied
