@@ -30,7 +30,7 @@ def main(args):
     for election in elections:
         logger.warning('Initializing election {}'.format(election))
         winner = run_election(votes[votes['election']==election])
-        logger.warning('{winner} declared winner for {election}'.format(winner=winner,election=election))
+        logger.warning('Election complete: {winner} declared winner for {election}'.format(winner=winner,election=election))
         
     return
 
