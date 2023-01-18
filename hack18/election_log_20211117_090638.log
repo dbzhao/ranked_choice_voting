@@ -1,0 +1,2298 @@
+2021-11-17 09:06:38,131 | WARNI | Initializing election I <3 Engineering
+2021-11-17 09:06:38,136 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     3.0
+Entity Mapping Tools V2                             3.0
+Banana Cattywampus SparkleButt                      3.0
+Break IT Down                                       2.0
+Transforming Fishbowl Recommendations               2.0
+Infra Autobot                                       2.0
+Pick Your Adventure                                 2.0
+DeToxing Fish                                       2.0
+Ask Slack                                           2.0
+The Email of Reckoning                              1.0
+You Have New Translations!                          1.0
+Solo                                                1.0
+Find a job that fits your life!                     1.0
+B2B Salary Tools                                    1.0
+Linguistic Detective                                0.0
+Constrained Self Supervised                         0.0
+CDP                                                 0.0
+Edge                                                0.0
+Search by Region                                    0.0
+Job Title Editor Tool                               0.0
+Single Box Type ahead                               0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,137 | INFO  | No winner found
+2021-11-17 09:06:38,138 | INFO  | Removing Sleepy Nights = Neo4j Insights
+2021-11-17 09:06:38,148 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Banana Cattywampus SparkleButt                      3.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+DeToxing Fish                                       2.0
+Ask Slack                                           2.0
+Transforming Fishbowl Recommendations               2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Constrained Self Supervised                         0.0
+Edge                                                0.0
+Search by Region                                    0.0
+Job Title Editor Tool                               0.0
+Linguistic Detective                                0.0
+Single Box Type ahead                               0.0
+CDP                                                 0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,149 | INFO  | No winner found
+2021-11-17 09:06:38,150 | INFO  | Removing Search by Region
+2021-11-17 09:06:38,156 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+Greendoor 2.0                                       5.0
+BestPlacesToWorkForYou                              5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+Ask Slack                                           2.0
+DeToxing Fish                                       2.0
+Transforming Fishbowl Recommendations               2.0
+Infra Autobot                                       2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Single Box Type ahead                               0.0
+CDP                                                 0.0
+Job Title Editor Tool                               0.0
+Constrained Self Supervised                         0.0
+Linguistic Detective                                0.0
+Edge                                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,157 | INFO  | No winner found
+2021-11-17 09:06:38,157 | INFO  | Removing Single Box Type ahead
+2021-11-17 09:06:38,163 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+Greendoor 2.0                                       5.0
+BestPlacesToWorkForYou                              5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+Infra Autobot                                       2.0
+Pick Your Adventure                                 2.0
+DeToxing Fish                                       2.0
+Ask Slack                                           2.0
+Transforming Fishbowl Recommendations               2.0
+Break IT Down                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Edge                                                0.0
+Job Title Editor Tool                               0.0
+CDP                                                 0.0
+Constrained Self Supervised                         0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,164 | INFO  | No winner found
+2021-11-17 09:06:38,164 | INFO  | Removing Job Title Editor Tool
+2021-11-17 09:06:38,170 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+DeToxing Fish                                       2.0
+Transforming Fishbowl Recommendations               2.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Edge                                                0.0
+CDP                                                 0.0
+Constrained Self Supervised                         0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,171 | INFO  | No winner found
+2021-11-17 09:06:38,171 | INFO  | Removing CDP
+2021-11-17 09:06:38,177 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+DeToxing Fish                                       2.0
+Transforming Fishbowl Recommendations               2.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Edge                                                0.0
+Constrained Self Supervised                         0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,178 | INFO  | No winner found
+2021-11-17 09:06:38,178 | INFO  | Removing Linguistic Detective
+2021-11-17 09:06:38,184 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Transforming Fishbowl Recommendations               2.0
+DeToxing Fish                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Edge                                                0.0
+Constrained Self Supervised                         0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,185 | INFO  | No winner found
+2021-11-17 09:06:38,185 | INFO  | Removing Edge
+2021-11-17 09:06:38,191 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Transforming Fishbowl Recommendations               2.0
+DeToxing Fish                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Constrained Self Supervised                         0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,192 | INFO  | No winner found
+2021-11-17 09:06:38,192 | INFO  | Removing Constrained Self Supervised
+2021-11-17 09:06:38,198 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    13.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+Greendoor 2.0                                       5.0
+BestPlacesToWorkForYou                              5.0
+Alex likes Typescript                               4.0
+Banana Cattywampus SparkleButt                      3.0
+Glassdoor Token                                     3.0
+Entity Mapping Tools V2                             3.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+DeToxing Fish                                       2.0
+Ask Slack                                           2.0
+Transforming Fishbowl Recommendations               2.0
+Break IT Down                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+The Email of Reckoning                              1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,199 | INFO  | No winner found
+2021-11-17 09:06:38,200 | INFO  | Removing The Email of Reckoning
+2021-11-17 09:06:38,205 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Transforming Fishbowl Recommendations               2.0
+DeToxing Fish                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+You Have New Translations!                          1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,206 | INFO  | No winner found
+2021-11-17 09:06:38,207 | INFO  | Removing You Have New Translations!
+2021-11-17 09:06:38,212 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Entity Mapping Tools V2                             3.0
+Glassdoor Token                                     3.0
+Banana Cattywampus SparkleButt                      3.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Pick Your Adventure                                 2.0
+Infra Autobot                                       2.0
+Transforming Fishbowl Recommendations               2.0
+DeToxing Fish                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Find a job that fits your life!                     1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,212 | INFO  | No winner found
+2021-11-17 09:06:38,213 | INFO  | Removing Find a job that fits your life!
+2021-11-17 09:06:38,218 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Alex likes Typescript                               4.0
+Banana Cattywampus SparkleButt                      3.0
+DeToxing Fish                                       3.0
+Glassdoor Token                                     3.0
+Entity Mapping Tools V2                             3.0
+Transforming Fishbowl Recommendations               2.0
+Infra Autobot                                       2.0
+Pick Your Adventure                                 2.0
+Ask Slack                                           2.0
+Break IT Down                                       2.0
+Solo                                                1.0
+B2B Salary Tools                                    1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,218 | INFO  | No winner found
+2021-11-17 09:06:38,219 | INFO  | Removing B2B Salary Tools
+2021-11-17 09:06:38,224 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Banana Cattywampus SparkleButt                      4.0
+Alex likes Typescript                               4.0
+DeToxing Fish                                       3.0
+Glassdoor Token                                     3.0
+Entity Mapping Tools V2                             3.0
+Break IT Down                                       2.0
+Transforming Fishbowl Recommendations               2.0
+Infra Autobot                                       2.0
+Pick Your Adventure                                 2.0
+Ask Slack                                           2.0
+Solo                                                1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,225 | INFO  | No winner found
+2021-11-17 09:06:38,225 | INFO  | Removing Solo
+2021-11-17 09:06:38,230 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Banana Cattywampus SparkleButt                      4.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     4.0
+DeToxing Fish                                       3.0
+Entity Mapping Tools V2                             3.0
+Break IT Down                                       2.0
+Transforming Fishbowl Recommendations               2.0
+Infra Autobot                                       2.0
+Pick Your Adventure                                 2.0
+Ask Slack                                           2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,231 | INFO  | No winner found
+2021-11-17 09:06:38,231 | INFO  | Removing Pick Your Adventure
+2021-11-17 09:06:38,236 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Banana Cattywampus SparkleButt                      4.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     4.0
+Entity Mapping Tools V2                             4.0
+Break IT Down                                       3.0
+DeToxing Fish                                       3.0
+Transforming Fishbowl Recommendations               2.0
+Infra Autobot                                       2.0
+Ask Slack                                           2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,237 | INFO  | No winner found
+2021-11-17 09:06:38,237 | INFO  | Removing Infra Autobot
+2021-11-17 09:06:38,242 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Banana Cattywampus SparkleButt                      5.0
+Break IT Down                                       4.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     4.0
+Entity Mapping Tools V2                             4.0
+DeToxing Fish                                       3.0
+Transforming Fishbowl Recommendations               2.0
+Ask Slack                                           2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,243 | INFO  | No winner found
+2021-11-17 09:06:38,243 | INFO  | Removing Ask Slack
+2021-11-17 09:06:38,248 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      7.0
+BestPlacesToWorkForYou                              5.0
+Greendoor 2.0                                       5.0
+Banana Cattywampus SparkleButt                      5.0
+Entity Mapping Tools V2                             5.0
+Break IT Down                                       4.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     4.0
+Transforming Fishbowl Recommendations               3.0
+DeToxing Fish                                       3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,248 | INFO  | No winner found
+2021-11-17 09:06:38,249 | INFO  | Removing Transforming Fishbowl Recommendations
+2021-11-17 09:06:38,254 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      8.0
+BestPlacesToWorkForYou                              6.0
+Greendoor 2.0                                       6.0
+Banana Cattywampus SparkleButt                      5.0
+Entity Mapping Tools V2                             5.0
+Break IT Down                                       4.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     4.0
+DeToxing Fish                                       3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,254 | INFO  | No winner found
+2021-11-17 09:06:38,255 | INFO  | Removing DeToxing Fish
+2021-11-17 09:06:38,260 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     10.0
+Class of 2022!                                      8.0
+BestPlacesToWorkForYou                              6.0
+Greendoor 2.0                                       6.0
+Banana Cattywampus SparkleButt                      5.0
+Entity Mapping Tools V2                             5.0
+Break IT Down                                       4.0
+Alex likes Typescript                               4.0
+Glassdoor Token                                     4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,260 | INFO  | No winner found
+2021-11-17 09:06:38,261 | INFO  | Removing Break IT Down
+2021-11-17 09:06:38,265 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     11.0
+Class of 2022!                                      8.0
+BestPlacesToWorkForYou                              6.0
+Greendoor 2.0                                       6.0
+Banana Cattywampus SparkleButt                      6.0
+Alex likes Typescript                               5.0
+Entity Mapping Tools V2                             5.0
+Glassdoor Token                                     4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,266 | INFO  | No winner found
+2021-11-17 09:06:38,266 | INFO  | Removing Glassdoor Token
+2021-11-17 09:06:38,271 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    14.0
+GD Bucket List                                     11.0
+Class of 2022!                                      9.0
+BestPlacesToWorkForYou                              7.0
+Banana Cattywampus SparkleButt                      7.0
+Greendoor 2.0                                       6.0
+Alex likes Typescript                               5.0
+Entity Mapping Tools V2                             5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,272 | INFO  | No winner found
+2021-11-17 09:06:38,272 | INFO  | Removing Entity Mapping Tools V2
+2021-11-17 09:06:38,277 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    15.0
+GD Bucket List                                     11.0
+Class of 2022!                                      9.0
+BestPlacesToWorkForYou                              7.0
+Banana Cattywampus SparkleButt                      7.0
+Greendoor 2.0                                       6.0
+Alex likes Typescript                               5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,277 | INFO  | No winner found
+2021-11-17 09:06:38,278 | INFO  | Removing Alex likes Typescript
+2021-11-17 09:06:38,283 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    15.0
+GD Bucket List                                     13.0
+Class of 2022!                                     10.0
+Banana Cattywampus SparkleButt                      8.0
+BestPlacesToWorkForYou                              7.0
+Greendoor 2.0                                       6.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,283 | INFO  | No winner found
+2021-11-17 09:06:38,284 | INFO  | Removing Greendoor 2.0
+2021-11-17 09:06:38,288 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    15.0
+GD Bucket List                                     14.0
+Class of 2022!                                     10.0
+BestPlacesToWorkForYou                              9.0
+Banana Cattywampus SparkleButt                      9.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,289 | INFO  | No winner found
+2021-11-17 09:06:38,289 | INFO  | Removing BestPlacesToWorkForYou
+2021-11-17 09:06:38,294 | INFO  | candidate
+GD Bucket List                                     16.0
+RaaS - Recommendations as a Service using neo4j    16.0
+Class of 2022!                                     11.0
+Banana Cattywampus SparkleButt                      9.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,295 | INFO  | No winner found
+2021-11-17 09:06:38,296 | INFO  | Removing Banana Cattywampus SparkleButt
+2021-11-17 09:06:38,301 | INFO  | candidate
+RaaS - Recommendations as a Service using neo4j    18.0
+GD Bucket List                                     16.0
+Class of 2022!                                     11.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,302 | INFO  | No winner found
+2021-11-17 09:06:38,302 | INFO  | Removing Class of 2022!
+2021-11-17 09:06:38,307 | INFO  | candidate
+GD Bucket List                                     20.0
+RaaS - Recommendations as a Service using neo4j    18.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,307 | WARNI | Winner declared: GD Bucket List with 20.0
+2021-11-17 09:06:38,308 | INFO  | candidate
+GD Bucket List                                     20.0
+RaaS - Recommendations as a Service using neo4j    18.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,308 | WARNI | Election complete: GD Bucket List declared winner for I <3 Engineering
+2021-11-17 09:06:38,308 | WARNI | Initializing election Ambassador of Br
+2021-11-17 09:06:38,312 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+Find a job that fits your life!                     4.0
+DeToxing Fish                                       4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+Banana Cattywampus SparkleButt                      1.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Pick Your Adventure                                 1.0
+Single Box Type ahead                               1.0
+Transforming Fishbowl Recommendations               1.0
+Occo Loco Level Up                                  0.0
+GD Bucket List                                      0.0
+Infra Autobot                                       0.0
+Edge                                                0.0
+Job Title Editor Tool                               0.0
+CDP                                                 0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Entity Mapping Tools V2                             0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,312 | INFO  | No winner found
+2021-11-17 09:06:38,313 | INFO  | Removing Infra Autobot
+2021-11-17 09:06:38,318 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Greendoor 2.0                                       4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+Banana Cattywampus SparkleButt                      1.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Pick Your Adventure                                 1.0
+Single Box Type ahead                               1.0
+Transforming Fishbowl Recommendations               1.0
+GD Bucket List                                      0.0
+Occo Loco Level Up                                  0.0
+Edge                                                0.0
+Job Title Editor Tool                               0.0
+CDP                                                 0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Entity Mapping Tools V2                             0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,319 | INFO  | No winner found
+2021-11-17 09:06:38,319 | INFO  | Removing Sleepy Nights = Neo4j Insights
+2021-11-17 09:06:38,324 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Find a job that fits your life!                     4.0
+Greendoor 2.0                                       4.0
+DeToxing Fish                                       4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Transforming Fishbowl Recommendations               1.0
+Single Box Type ahead                               1.0
+Pick Your Adventure                                 1.0
+Banana Cattywampus SparkleButt                      1.0
+You Have New Translations!                          1.0
+Entity Mapping Tools V2                             0.0
+Linguistic Detective                                0.0
+Occo Loco Level Up                                  0.0
+Edge                                                0.0
+Job Title Editor Tool                               0.0
+CDP                                                 0.0
+GD Bucket List                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,325 | INFO  | No winner found
+2021-11-17 09:06:38,325 | INFO  | Removing CDP
+2021-11-17 09:06:38,330 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     1.0
+You Have New Translations!                          1.0
+Transforming Fishbowl Recommendations               1.0
+Single Box Type ahead                               1.0
+Pick Your Adventure                                 1.0
+Banana Cattywampus SparkleButt                      1.0
+Entity Mapping Tools V2                             0.0
+Linguistic Detective                                0.0
+Occo Loco Level Up                                  0.0
+Edge                                                0.0
+Job Title Editor Tool                               0.0
+GD Bucket List                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,330 | INFO  | No winner found
+2021-11-17 09:06:38,331 | INFO  | Removing Job Title Editor Tool
+2021-11-17 09:06:38,335 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Greendoor 2.0                                       4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Banana Cattywampus SparkleButt                      1.0
+Pick Your Adventure                                 1.0
+Single Box Type ahead                               1.0
+Transforming Fishbowl Recommendations               1.0
+Occo Loco Level Up                                  0.0
+GD Bucket List                                      0.0
+Edge                                                0.0
+Entity Mapping Tools V2                             0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,336 | INFO  | No winner found
+2021-11-17 09:06:38,337 | INFO  | Removing GD Bucket List
+2021-11-17 09:06:38,342 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Greendoor 2.0                                       4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Banana Cattywampus SparkleButt                      1.0
+Pick Your Adventure                                 1.0
+Single Box Type ahead                               1.0
+Transforming Fishbowl Recommendations               1.0
+Occo Loco Level Up                                  0.0
+Edge                                                0.0
+Entity Mapping Tools V2                             0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,343 | INFO  | No winner found
+2021-11-17 09:06:38,343 | INFO  | Removing Entity Mapping Tools V2
+2021-11-17 09:06:38,348 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Greendoor 2.0                                       4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Banana Cattywampus SparkleButt                      1.0
+Pick Your Adventure                                 1.0
+Single Box Type ahead                               1.0
+Transforming Fishbowl Recommendations               1.0
+Occo Loco Level Up                                  0.0
+Edge                                                0.0
+Linguistic Detective                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,348 | INFO  | No winner found
+2021-11-17 09:06:38,349 | INFO  | Removing Linguistic Detective
+2021-11-17 09:06:38,354 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+DeToxing Fish                                       4.0
+Greendoor 2.0                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Transforming Fishbowl Recommendations               1.0
+Banana Cattywampus SparkleButt                      1.0
+Pick Your Adventure                                 1.0
+Single Box Type ahead                               1.0
+Edge                                                0.0
+Occo Loco Level Up                                  0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,355 | INFO  | No winner found
+2021-11-17 09:06:38,355 | INFO  | Removing Occo Loco Level Up
+2021-11-17 09:06:38,360 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+Transforming Fishbowl Recommendations               1.0
+Single Box Type ahead                               1.0
+Pick Your Adventure                                 1.0
+Banana Cattywampus SparkleButt                      1.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Edge                                                0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,361 | INFO  | No winner found
+2021-11-17 09:06:38,361 | INFO  | Removing Edge
+2021-11-17 09:06:38,366 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+Transforming Fishbowl Recommendations               1.0
+Single Box Type ahead                               1.0
+Pick Your Adventure                                 1.0
+Banana Cattywampus SparkleButt                      1.0
+You Have New Translations!                          1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,367 | INFO  | No winner found
+2021-11-17 09:06:38,367 | INFO  | Removing You Have New Translations!
+2021-11-17 09:06:38,373 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+Transforming Fishbowl Recommendations               1.0
+Single Box Type ahead                               1.0
+Pick Your Adventure                                 1.0
+Banana Cattywampus SparkleButt                      1.0
+RaaS - Recommendations as a Service using neo4j     1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,373 | INFO  | No winner found
+2021-11-17 09:06:38,374 | INFO  | Removing Pick Your Adventure
+2021-11-17 09:06:38,379 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+DeToxing Fish                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Transforming Fishbowl Recommendations               1.0
+Single Box Type ahead                               1.0
+Banana Cattywampus SparkleButt                      1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,380 | INFO  | No winner found
+2021-11-17 09:06:38,380 | INFO  | Removing Single Box Type ahead
+2021-11-17 09:06:38,385 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+Class of 2022!                                      6.0
+DeToxing Fish                                       5.0
+Greendoor 2.0                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Transforming Fishbowl Recommendations               1.0
+Banana Cattywampus SparkleButt                      1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,386 | INFO  | No winner found
+2021-11-17 09:06:38,387 | INFO  | Removing Transforming Fishbowl Recommendations
+2021-11-17 09:06:38,392 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+DeToxing Fish                                       6.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Banana Cattywampus SparkleButt                      1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,393 | INFO  | No winner found
+2021-11-17 09:06:38,394 | INFO  | Removing Banana Cattywampus SparkleButt
+2021-11-17 09:06:38,400 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             10.0
+B2B Salary Tools                                    9.0
+DeToxing Fish                                       6.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       4.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,401 | INFO  | No winner found
+2021-11-17 09:06:38,401 | INFO  | Removing Glassdoor Token
+2021-11-17 09:06:38,407 | INFO  | candidate
+The Email of Reckoning                             13.0
+BestPlacesToWorkForYou                             11.0
+B2B Salary Tools                                    9.0
+DeToxing Fish                                       6.0
+Class of 2022!                                      6.0
+Greendoor 2.0                                       5.0
+Find a job that fits your life!                     4.0
+Ask Slack                                           3.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,408 | INFO  | No winner found
+2021-11-17 09:06:38,409 | INFO  | Removing RaaS - Recommendations as a Service using neo4j
+2021-11-17 09:06:38,415 | INFO  | candidate
+The Email of Reckoning             13.0
+BestPlacesToWorkForYou             12.0
+B2B Salary Tools                    9.0
+DeToxing Fish                       7.0
+Class of 2022!                      6.0
+Greendoor 2.0                       5.0
+Find a job that fits your life!     4.0
+Ask Slack                           3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,416 | INFO  | No winner found
+2021-11-17 09:06:38,416 | INFO  | Removing Ask Slack
+2021-11-17 09:06:38,423 | INFO  | candidate
+The Email of Reckoning             15.0
+BestPlacesToWorkForYou             13.0
+B2B Salary Tools                    9.0
+DeToxing Fish                       7.0
+Class of 2022!                      6.0
+Greendoor 2.0                       5.0
+Find a job that fits your life!     4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,423 | INFO  | No winner found
+2021-11-17 09:06:38,424 | INFO  | Removing Find a job that fits your life!
+2021-11-17 09:06:38,430 | INFO  | candidate
+The Email of Reckoning    16.0
+BestPlacesToWorkForYou    14.0
+B2B Salary Tools           9.0
+DeToxing Fish              8.0
+Class of 2022!             6.0
+Greendoor 2.0              5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,431 | INFO  | No winner found
+2021-11-17 09:06:38,431 | INFO  | Removing Greendoor 2.0
+2021-11-17 09:06:38,438 | INFO  | candidate
+The Email of Reckoning    16.0
+BestPlacesToWorkForYou    15.0
+B2B Salary Tools           9.0
+DeToxing Fish              8.0
+Class of 2022!             8.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,438 | INFO  | No winner found
+2021-11-17 09:06:38,439 | INFO  | Removing Class of 2022!
+2021-11-17 09:06:38,445 | INFO  | candidate
+BestPlacesToWorkForYou    16.0
+The Email of Reckoning    16.0
+DeToxing Fish              9.0
+B2B Salary Tools           9.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,446 | INFO  | No winner found
+2021-11-17 09:06:38,446 | INFO  | Removing DeToxing Fish
+2021-11-17 09:06:38,453 | INFO  | candidate
+BestPlacesToWorkForYou    18.0
+The Email of Reckoning    16.0
+B2B Salary Tools          10.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,453 | INFO  | No winner found
+2021-11-17 09:06:38,454 | INFO  | Removing B2B Salary Tools
+2021-11-17 09:06:38,460 | INFO  | candidate
+BestPlacesToWorkForYou    20.0
+The Email of Reckoning    20.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,461 | INFO  | No winner found
+2021-11-17 09:06:38,462 | INFO  | Removing The Email of Reckoning
+2021-11-17 09:06:38,468 | INFO  | candidate
+BestPlacesToWorkForYou    24.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,469 | WARNI | Winner declared: BestPlacesToWorkForYou with 24.0
+2021-11-17 09:06:38,469 | INFO  | candidate
+BestPlacesToWorkForYou    24.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,470 | WARNI | Election complete: BestPlacesToWorkForYou declared winner for Ambassador of Br
+2021-11-17 09:06:38,470 | WARNI | Initializing election Core StrengthCon
+2021-11-17 09:06:38,474 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                7.0
+Pick Your Adventure                                 5.0
+Find a job that fits your life!                     5.0
+Greendoor 2.0                                       3.0
+Banana Cattywampus SparkleButt                      2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+Infra Autobot                                       1.0
+DeToxing Fish                                       1.0
+Ask Slack                                           1.0
+B2B Salary Tools                                    1.0
+CDP                                                 1.0
+Transforming Fishbowl Recommendations               1.0
+Linguistic Detective                                1.0
+Occo Loco Level Up                                  0.0
+GD Bucket List                                      0.0
+Search by Region                                    0.0
+You Have New Translations!                          0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,476 | INFO  | No winner found
+2021-11-17 09:06:38,476 | INFO  | Removing GD Bucket List
+2021-11-17 09:06:38,483 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                7.0
+Pick Your Adventure                                 5.0
+Find a job that fits your life!                     5.0
+Greendoor 2.0                                       3.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+Glassdoor Token                                     2.0
+Banana Cattywampus SparkleButt                      2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+Infra Autobot                                       1.0
+DeToxing Fish                                       1.0
+Ask Slack                                           1.0
+B2B Salary Tools                                    1.0
+CDP                                                 1.0
+Transforming Fishbowl Recommendations               1.0
+Linguistic Detective                                1.0
+Occo Loco Level Up                                  0.0
+Search by Region                                    0.0
+You Have New Translations!                          0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,484 | INFO  | No winner found
+2021-11-17 09:06:38,484 | INFO  | Removing Sleepy Nights = Neo4j Insights
+2021-11-17 09:06:38,490 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                7.0
+Find a job that fits your life!                     5.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+Banana Cattywampus SparkleButt                      2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+Glassdoor Token                                     2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+DeToxing Fish                                       1.0
+Ask Slack                                           1.0
+B2B Salary Tools                                    1.0
+Infra Autobot                                       1.0
+CDP                                                 1.0
+Transforming Fishbowl Recommendations               1.0
+Linguistic Detective                                1.0
+Occo Loco Level Up                                  0.0
+Search by Region                                    0.0
+You Have New Translations!                          0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,491 | INFO  | No winner found
+2021-11-17 09:06:38,492 | INFO  | Removing Search by Region
+2021-11-17 09:06:38,498 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                7.0
+Find a job that fits your life!                     5.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+DeToxing Fish                                       1.0
+Ask Slack                                           1.0
+B2B Salary Tools                                    1.0
+Infra Autobot                                       1.0
+CDP                                                 1.0
+Transforming Fishbowl Recommendations               1.0
+Linguistic Detective                                1.0
+Occo Loco Level Up                                  0.0
+You Have New Translations!                          0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,499 | INFO  | No winner found
+2021-11-17 09:06:38,500 | INFO  | Removing You Have New Translations!
+2021-11-17 09:06:38,506 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                7.0
+Find a job that fits your life!                     5.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+DeToxing Fish                                       1.0
+Ask Slack                                           1.0
+B2B Salary Tools                                    1.0
+Infra Autobot                                       1.0
+CDP                                                 1.0
+Transforming Fishbowl Recommendations               1.0
+Linguistic Detective                                1.0
+Occo Loco Level Up                                  0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,507 | INFO  | No winner found
+2021-11-17 09:06:38,508 | INFO  | Removing Occo Loco Level Up
+2021-11-17 09:06:38,514 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                7.0
+Pick Your Adventure                                 5.0
+Find a job that fits your life!                     5.0
+Greendoor 2.0                                       3.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+Ask Slack                                           1.0
+B2B Salary Tools                                    1.0
+DeToxing Fish                                       1.0
+Transforming Fishbowl Recommendations               1.0
+Infra Autobot                                       1.0
+CDP                                                 1.0
+Linguistic Detective                                1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,515 | INFO  | No winner found
+2021-11-17 09:06:38,515 | INFO  | Removing B2B Salary Tools
+2021-11-17 09:06:38,521 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                8.0
+Pick Your Adventure                                 5.0
+Find a job that fits your life!                     5.0
+Greendoor 2.0                                       3.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Single Box Type ahead                               2.0
+Ask Slack                                           1.0
+DeToxing Fish                                       1.0
+Transforming Fishbowl Recommendations               1.0
+Infra Autobot                                       1.0
+CDP                                                 1.0
+Linguistic Detective                                1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,522 | INFO  | No winner found
+2021-11-17 09:06:38,523 | INFO  | Removing Ask Slack
+2021-11-17 09:06:38,529 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                8.0
+Pick Your Adventure                                 5.0
+Find a job that fits your life!                     5.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     2.0
+Entity Mapping Tools V2                             2.0
+The Email of Reckoning                              2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Banana Cattywampus SparkleButt                      2.0
+Single Box Type ahead                               2.0
+CDP                                                 2.0
+DeToxing Fish                                       1.0
+Transforming Fishbowl Recommendations               1.0
+Infra Autobot                                       1.0
+Linguistic Detective                                1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,529 | INFO  | No winner found
+2021-11-17 09:06:38,530 | INFO  | Removing DeToxing Fish
+2021-11-17 09:06:38,536 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                8.0
+Pick Your Adventure                                 5.0
+Find a job that fits your life!                     5.0
+Greendoor 2.0                                       3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+The Email of Reckoning                              2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Linguistic Detective                                1.0
+Transforming Fishbowl Recommendations               1.0
+Infra Autobot                                       1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,537 | INFO  | No winner found
+2021-11-17 09:06:38,537 | INFO  | Removing Transforming Fishbowl Recommendations
+2021-11-17 09:06:38,543 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                8.0
+Find a job that fits your life!                     6.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+The Email of Reckoning                              2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Linguistic Detective                                1.0
+Infra Autobot                                       1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,544 | INFO  | No winner found
+2021-11-17 09:06:38,544 | INFO  | Removing Linguistic Detective
+2021-11-17 09:06:38,550 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                8.0
+Find a job that fits your life!                     6.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+The Email of Reckoning                              2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Infra Autobot                                       1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,551 | INFO  | No winner found
+2021-11-17 09:06:38,551 | INFO  | Removing Infra Autobot
+2021-11-17 09:06:38,557 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                              9.0
+Edge                                                8.0
+Find a job that fits your life!                     6.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Banana Cattywampus SparkleButt                      2.0
+Glassdoor Token                                     2.0
+The Email of Reckoning                              2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,558 | INFO  | No winner found
+2021-11-17 09:06:38,558 | INFO  | Removing The Email of Reckoning
+2021-11-17 09:06:38,563 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                             10.0
+Edge                                                8.0
+Find a job that fits your life!                     6.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Banana Cattywampus SparkleButt                      2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,564 | INFO  | No winner found
+2021-11-17 09:06:38,565 | INFO  | Removing Entity Mapping Tools V2
+2021-11-17 09:06:38,570 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                             10.0
+Edge                                                8.0
+Find a job that fits your life!                     6.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Banana Cattywampus SparkleButt                      2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,570 | INFO  | No winner found
+2021-11-17 09:06:38,571 | INFO  | Removing Banana Cattywampus SparkleButt
+2021-11-17 09:06:38,576 | INFO  | candidate
+Class of 2022!                                     22.0
+BestPlacesToWorkForYou                             10.0
+Edge                                                8.0
+Find a job that fits your life!                     7.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+CDP                                                 2.0
+Single Box Type ahead                               2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,577 | INFO  | No winner found
+2021-11-17 09:06:38,577 | INFO  | Removing CDP
+2021-11-17 09:06:38,583 | INFO  | candidate
+Class of 2022!                                     23.0
+BestPlacesToWorkForYou                             10.0
+Edge                                                8.0
+Find a job that fits your life!                     7.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       4.0
+Glassdoor Token                                     3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Single Box Type ahead                               2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,584 | INFO  | No winner found
+2021-11-17 09:06:38,584 | INFO  | Removing Single Box Type ahead
+2021-11-17 09:06:38,590 | INFO  | candidate
+Class of 2022!                                     23.0
+BestPlacesToWorkForYou                             11.0
+Edge                                                8.0
+Find a job that fits your life!                     8.0
+Pick Your Adventure                                 5.0
+Greendoor 2.0                                       4.0
+Glassdoor Token                                     3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,590 | INFO  | No winner found
+2021-11-17 09:06:38,591 | INFO  | Removing RaaS - Recommendations as a Service using neo4j
+2021-11-17 09:06:38,597 | INFO  | candidate
+Class of 2022!                     24.0
+BestPlacesToWorkForYou             12.0
+Edge                                8.0
+Find a job that fits your life!     8.0
+Pick Your Adventure                 5.0
+Greendoor 2.0                       5.0
+Glassdoor Token                     3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,597 | INFO  | No winner found
+2021-11-17 09:06:38,598 | INFO  | Removing Glassdoor Token
+2021-11-17 09:06:38,603 | INFO  | candidate
+Class of 2022!                     24.0
+BestPlacesToWorkForYou             13.0
+Edge                                8.0
+Find a job that fits your life!     8.0
+Pick Your Adventure                 6.0
+Greendoor 2.0                       5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,604 | INFO  | No winner found
+2021-11-17 09:06:38,605 | INFO  | Removing Greendoor 2.0
+2021-11-17 09:06:38,610 | INFO  | candidate
+Class of 2022!                     24.0
+BestPlacesToWorkForYou             13.0
+Edge                                9.0
+Find a job that fits your life!     8.0
+Pick Your Adventure                 6.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,611 | INFO  | No winner found
+2021-11-17 09:06:38,611 | INFO  | Removing Pick Your Adventure
+2021-11-17 09:06:38,616 | INFO  | candidate
+Class of 2022!                     25.0
+BestPlacesToWorkForYou             14.0
+Find a job that fits your life!    10.0
+Edge                                9.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,617 | INFO  | No winner found
+2021-11-17 09:06:38,618 | INFO  | Removing Edge
+2021-11-17 09:06:38,624 | INFO  | candidate
+Class of 2022!                     30.0
+BestPlacesToWorkForYou             14.0
+Find a job that fits your life!    10.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,625 | WARNI | Winner declared: Class of 2022! with 30.0
+2021-11-17 09:06:38,625 | INFO  | candidate
+Class of 2022!                     30.0
+BestPlacesToWorkForYou             14.0
+Find a job that fits your life!    10.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,626 | WARNI | Election complete: Class of 2022! declared winner for Core StrengthCon
+2021-11-17 09:06:38,626 | WARNI | Initializing election Ship It!Hack tha
+2021-11-17 09:06:38,630 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       4.0
+BestPlacesToWorkForYou                              4.0
+Ask Slack                                           4.0
+You Have New Translations!                          3.0
+Occo Loco Level Up                                  3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Pick Your Adventure                                 0.0
+Search by Region                                    0.0
+Alex likes Typescript                               0.0
+B2B Salary Tools                                    0.0
+Glassdoor Token                                     0.0
+CDP                                                 0.0
+Transforming Fishbowl Recommendations               0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,631 | INFO  | No winner found
+2021-11-17 09:06:38,632 | INFO  | Removing Search by Region
+2021-11-17 09:06:38,638 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       4.0
+BestPlacesToWorkForYou                              4.0
+Ask Slack                                           4.0
+You Have New Translations!                          3.0
+Occo Loco Level Up                                  3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Pick Your Adventure                                 0.0
+Alex likes Typescript                               0.0
+B2B Salary Tools                                    0.0
+Glassdoor Token                                     0.0
+CDP                                                 0.0
+Transforming Fishbowl Recommendations               0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,639 | INFO  | No winner found
+2021-11-17 09:06:38,640 | INFO  | Removing Pick Your Adventure
+2021-11-17 09:06:38,646 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Greendoor 2.0                                       4.0
+BestPlacesToWorkForYou                              4.0
+Ask Slack                                           4.0
+Banana Cattywampus SparkleButt                      4.0
+You Have New Translations!                          3.0
+Occo Loco Level Up                                  3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Alex likes Typescript                               0.0
+B2B Salary Tools                                    0.0
+Glassdoor Token                                     0.0
+CDP                                                 0.0
+Transforming Fishbowl Recommendations               0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,647 | INFO  | No winner found
+2021-11-17 09:06:38,647 | INFO  | Removing Transforming Fishbowl Recommendations
+2021-11-17 09:06:38,653 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Banana Cattywampus SparkleButt                      4.0
+BestPlacesToWorkForYou                              4.0
+Ask Slack                                           4.0
+Greendoor 2.0                                       4.0
+You Have New Translations!                          3.0
+Occo Loco Level Up                                  3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Alex likes Typescript                               0.0
+B2B Salary Tools                                    0.0
+Glassdoor Token                                     0.0
+CDP                                                 0.0
+Sleepy Nights = Neo4j Insights                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,654 | INFO  | No winner found
+2021-11-17 09:06:38,655 | INFO  | Removing Sleepy Nights = Neo4j Insights
+2021-11-17 09:06:38,660 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Job Title Editor Tool                               3.0
+Edge                                                3.0
+Occo Loco Level Up                                  3.0
+You Have New Translations!                          3.0
+Find a job that fits your life!                     2.0
+DeToxing Fish                                       2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Glassdoor Token                                     0.0
+B2B Salary Tools                                    0.0
+Alex likes Typescript                               0.0
+CDP                                                 0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,661 | INFO  | No winner found
+2021-11-17 09:06:38,662 | INFO  | Removing CDP
+2021-11-17 09:06:38,668 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Job Title Editor Tool                               3.0
+Edge                                                3.0
+Occo Loco Level Up                                  3.0
+You Have New Translations!                          3.0
+Find a job that fits your life!                     2.0
+DeToxing Fish                                       2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Glassdoor Token                                     0.0
+B2B Salary Tools                                    0.0
+Alex likes Typescript                               0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,669 | INFO  | No winner found
+2021-11-17 09:06:38,669 | INFO  | Removing Glassdoor Token
+2021-11-17 09:06:38,675 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Job Title Editor Tool                               3.0
+Edge                                                3.0
+Occo Loco Level Up                                  3.0
+You Have New Translations!                          3.0
+Find a job that fits your life!                     2.0
+DeToxing Fish                                       2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+B2B Salary Tools                                    0.0
+Alex likes Typescript                               0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,676 | INFO  | No winner found
+2021-11-17 09:06:38,677 | INFO  | Removing B2B Salary Tools
+2021-11-17 09:06:38,683 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Ask Slack                                           4.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Occo Loco Level Up                                  3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Alex likes Typescript                               0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,684 | INFO  | No winner found
+2021-11-17 09:06:38,684 | INFO  | Removing Alex likes Typescript
+2021-11-17 09:06:38,690 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Ask Slack                                           4.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Occo Loco Level Up                                  3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Infra Autobot                                       1.0
+Single Box Type ahead                               1.0
+Break IT Down                                       1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,691 | INFO  | No winner found
+2021-11-17 09:06:38,691 | INFO  | Removing Single Box Type ahead
+2021-11-17 09:06:38,697 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      6.0
+Entity Mapping Tools V2                             5.0
+The Email of Reckoning                              5.0
+Ask Slack                                           4.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Occo Loco Level Up                                  3.0
+Edge                                                3.0
+Job Title Editor Tool                               3.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Break IT Down                                       2.0
+Infra Autobot                                       1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,698 | INFO  | No winner found
+2021-11-17 09:06:38,699 | INFO  | Removing Infra Autobot
+2021-11-17 09:06:38,704 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      7.0
+The Email of Reckoning                              5.0
+Entity Mapping Tools V2                             5.0
+BestPlacesToWorkForYou                              4.0
+Greendoor 2.0                                       4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+Occo Loco Level Up                                  3.0
+Job Title Editor Tool                               3.0
+Edge                                                3.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Break IT Down                                       2.0
+DeToxing Fish                                       2.0
+Find a job that fits your life!                     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,705 | INFO  | No winner found
+2021-11-17 09:06:38,705 | INFO  | Removing DeToxing Fish
+2021-11-17 09:06:38,711 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      7.0
+Greendoor 2.0                                       5.0
+The Email of Reckoning                              5.0
+Entity Mapping Tools V2                             5.0
+BestPlacesToWorkForYou                              4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+Occo Loco Level Up                                  3.0
+Job Title Editor Tool                               3.0
+Edge                                                3.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Break IT Down                                       2.0
+Find a job that fits your life!                     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,711 | INFO  | No winner found
+2021-11-17 09:06:38,712 | INFO  | Removing Break IT Down
+2021-11-17 09:06:38,717 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      7.0
+Greendoor 2.0                                       5.0
+The Email of Reckoning                              5.0
+Entity Mapping Tools V2                             5.0
+BestPlacesToWorkForYou                              4.0
+Edge                                                4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+Occo Loco Level Up                                  3.0
+Job Title Editor Tool                               3.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Find a job that fits your life!                     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,718 | INFO  | No winner found
+2021-11-17 09:06:38,718 | INFO  | Removing Find a job that fits your life!
+2021-11-17 09:06:38,723 | INFO  | candidate
+Class of 2022!                                     18.0
+GD Bucket List                                      7.0
+Edge                                                5.0
+Greendoor 2.0                                       5.0
+The Email of Reckoning                              5.0
+Entity Mapping Tools V2                             5.0
+BestPlacesToWorkForYou                              4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+Occo Loco Level Up                                  3.0
+Job Title Editor Tool                               3.0
+You Have New Translations!                          3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,724 | INFO  | No winner found
+2021-11-17 09:06:38,724 | INFO  | Removing You Have New Translations!
+2021-11-17 09:06:38,730 | INFO  | candidate
+Class of 2022!                                     19.0
+GD Bucket List                                      8.0
+The Email of Reckoning                              6.0
+Edge                                                5.0
+Greendoor 2.0                                       5.0
+Entity Mapping Tools V2                             5.0
+BestPlacesToWorkForYou                              4.0
+Banana Cattywampus SparkleButt                      4.0
+Ask Slack                                           4.0
+Occo Loco Level Up                                  3.0
+Job Title Editor Tool                               3.0
+RaaS - Recommendations as a Service using neo4j     3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,731 | INFO  | No winner found
+2021-11-17 09:06:38,731 | INFO  | Removing RaaS - Recommendations as a Service using neo4j
+2021-11-17 09:06:38,736 | INFO  | candidate
+Class of 2022!                    20.0
+GD Bucket List                     8.0
+The Email of Reckoning             6.0
+Edge                               5.0
+Greendoor 2.0                      5.0
+Entity Mapping Tools V2            5.0
+BestPlacesToWorkForYou             4.0
+Banana Cattywampus SparkleButt     4.0
+Ask Slack                          4.0
+Occo Loco Level Up                 3.0
+Job Title Editor Tool              3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,737 | INFO  | No winner found
+2021-11-17 09:06:38,737 | INFO  | Removing Occo Loco Level Up
+2021-11-17 09:06:38,742 | INFO  | candidate
+Class of 2022!                    20.0
+GD Bucket List                     8.0
+The Email of Reckoning             7.0
+Job Title Editor Tool              5.0
+Edge                               5.0
+Greendoor 2.0                      5.0
+Entity Mapping Tools V2            5.0
+BestPlacesToWorkForYou             4.0
+Banana Cattywampus SparkleButt     4.0
+Ask Slack                          4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,743 | INFO  | No winner found
+2021-11-17 09:06:38,743 | INFO  | Removing BestPlacesToWorkForYou
+2021-11-17 09:06:38,748 | INFO  | candidate
+Class of 2022!                    21.0
+GD Bucket List                     9.0
+The Email of Reckoning             7.0
+Job Title Editor Tool              5.0
+Edge                               5.0
+Greendoor 2.0                      5.0
+Ask Slack                          5.0
+Entity Mapping Tools V2            5.0
+Banana Cattywampus SparkleButt     4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,749 | INFO  | No winner found
+2021-11-17 09:06:38,749 | INFO  | Removing Banana Cattywampus SparkleButt
+2021-11-17 09:06:38,754 | INFO  | candidate
+Class of 2022!             21.0
+GD Bucket List             10.0
+The Email of Reckoning      7.0
+Greendoor 2.0               6.0
+Entity Mapping Tools V2     6.0
+Job Title Editor Tool       5.0
+Edge                        5.0
+Ask Slack                   5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,755 | INFO  | No winner found
+2021-11-17 09:06:38,756 | INFO  | Removing Job Title Editor Tool
+2021-11-17 09:06:38,761 | INFO  | candidate
+Class of 2022!             22.0
+GD Bucket List             11.0
+The Email of Reckoning      7.0
+Entity Mapping Tools V2     7.0
+Greendoor 2.0               6.0
+Edge                        5.0
+Ask Slack                   5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,761 | INFO  | No winner found
+2021-11-17 09:06:38,762 | INFO  | Removing Edge
+2021-11-17 09:06:38,767 | INFO  | candidate
+Class of 2022!             24.0
+GD Bucket List             11.0
+The Email of Reckoning      7.0
+Entity Mapping Tools V2     7.0
+Greendoor 2.0               6.0
+Ask Slack                   5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,768 | INFO  | No winner found
+2021-11-17 09:06:38,768 | INFO  | Removing Ask Slack
+2021-11-17 09:06:38,773 | INFO  | candidate
+Class of 2022!             25.0
+GD Bucket List             11.0
+The Email of Reckoning      9.0
+Entity Mapping Tools V2     7.0
+Greendoor 2.0               6.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,774 | INFO  | No winner found
+2021-11-17 09:06:38,774 | INFO  | Removing Greendoor 2.0
+2021-11-17 09:06:38,779 | INFO  | candidate
+Class of 2022!             26.0
+GD Bucket List             13.0
+The Email of Reckoning      9.0
+Entity Mapping Tools V2     7.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,780 | INFO  | No winner found
+2021-11-17 09:06:38,780 | INFO  | Removing Entity Mapping Tools V2
+2021-11-17 09:06:38,785 | INFO  | candidate
+Class of 2022!            28.0
+GD Bucket List            14.0
+The Email of Reckoning     9.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,786 | WARNI | Winner declared: Class of 2022! with 28.0
+2021-11-17 09:06:38,786 | INFO  | candidate
+Class of 2022!            28.0
+GD Bucket List            14.0
+The Email of Reckoning     9.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,786 | WARNI | Election complete: Class of 2022! declared winner for Ship It!Hack tha
+2021-11-17 09:06:38,786 | WARNI | Initializing election Inclusion AwardT
+2021-11-17 09:06:38,790 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Linguistic Detective                      1.0
+Banana Cattywampus SparkleButt            1.0
+Alex likes Typescript                     1.0
+Glassdoor Token                           0.0
+The Email of Reckoning                    0.0
+Sleepy Nights = Neo4j Insights            0.0
+GD Bucket List                            0.0
+B2B Salary Tools                          0.0
+Constrained Self Supervised               0.0
+Edge                                      0.0
+Single Box Type ahead                     0.0
+Solo                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,791 | INFO  | No winner found
+2021-11-17 09:06:38,791 | INFO  | Removing Sleepy Nights = Neo4j Insights
+2021-11-17 09:06:38,797 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+You Have New Translations!                3.0
+BestPlacesToWorkForYou                    3.0
+Ask Slack                                 2.0
+Pick Your Adventure                       2.0
+Linguistic Detective                      1.0
+Alex likes Typescript                     1.0
+Banana Cattywampus SparkleButt            1.0
+Infra Autobot                             1.0
+Search by Region                          1.0
+GD Bucket List                            0.0
+Edge                                      0.0
+B2B Salary Tools                          0.0
+Glassdoor Token                           0.0
+Single Box Type ahead                     0.0
+Constrained Self Supervised               0.0
+The Email of Reckoning                    0.0
+Solo                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,797 | INFO  | No winner found
+2021-11-17 09:06:38,798 | INFO  | Removing Single Box Type ahead
+2021-11-17 09:06:38,803 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+You Have New Translations!                3.0
+BestPlacesToWorkForYou                    3.0
+Ask Slack                                 2.0
+Pick Your Adventure                       2.0
+Alex likes Typescript                     1.0
+Banana Cattywampus SparkleButt            1.0
+Linguistic Detective                      1.0
+Infra Autobot                             1.0
+Search by Region                          1.0
+GD Bucket List                            0.0
+Edge                                      0.0
+B2B Salary Tools                          0.0
+Glassdoor Token                           0.0
+Constrained Self Supervised               0.0
+The Email of Reckoning                    0.0
+Solo                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,803 | INFO  | No winner found
+2021-11-17 09:06:38,804 | INFO  | Removing Constrained Self Supervised
+2021-11-17 09:06:38,809 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Banana Cattywampus SparkleButt            1.0
+Linguistic Detective                      1.0
+Alex likes Typescript                     1.0
+The Email of Reckoning                    0.0
+Solo                                      0.0
+Glassdoor Token                           0.0
+B2B Salary Tools                          0.0
+Edge                                      0.0
+GD Bucket List                            0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,810 | INFO  | No winner found
+2021-11-17 09:06:38,810 | INFO  | Removing Edge
+2021-11-17 09:06:38,815 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Banana Cattywampus SparkleButt            1.0
+Linguistic Detective                      1.0
+Alex likes Typescript                     1.0
+The Email of Reckoning                    0.0
+Solo                                      0.0
+Glassdoor Token                           0.0
+B2B Salary Tools                          0.0
+GD Bucket List                            0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,816 | INFO  | No winner found
+2021-11-17 09:06:38,816 | INFO  | Removing Glassdoor Token
+2021-11-17 09:06:38,821 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+You Have New Translations!                3.0
+BestPlacesToWorkForYou                    3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Banana Cattywampus SparkleButt            1.0
+Linguistic Detective                      1.0
+Alex likes Typescript                     1.0
+The Email of Reckoning                    0.0
+Solo                                      0.0
+B2B Salary Tools                          0.0
+GD Bucket List                            0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,822 | INFO  | No winner found
+2021-11-17 09:06:38,822 | INFO  | Removing B2B Salary Tools
+2021-11-17 09:06:38,827 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Alex likes Typescript                     1.0
+Banana Cattywampus SparkleButt            1.0
+Linguistic Detective                      1.0
+Infra Autobot                             1.0
+Search by Region                          1.0
+GD Bucket List                            0.0
+The Email of Reckoning                    0.0
+Solo                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,828 | INFO  | No winner found
+2021-11-17 09:06:38,828 | INFO  | Removing GD Bucket List
+2021-11-17 09:06:38,833 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Linguistic Detective                      1.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Banana Cattywampus SparkleButt            1.0
+Alex likes Typescript                     1.0
+Solo                                      0.0
+The Email of Reckoning                    0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,834 | INFO  | No winner found
+2021-11-17 09:06:38,835 | INFO  | Removing The Email of Reckoning
+2021-11-17 09:06:38,839 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Linguistic Detective                      1.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Banana Cattywampus SparkleButt            1.0
+Alex likes Typescript                     1.0
+Solo                                      0.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,840 | INFO  | No winner found
+2021-11-17 09:06:38,841 | INFO  | Removing Solo
+2021-11-17 09:06:38,846 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Linguistic Detective                      1.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Banana Cattywampus SparkleButt            1.0
+Alex likes Typescript                     1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,847 | INFO  | No winner found
+2021-11-17 09:06:38,847 | INFO  | Removing Banana Cattywampus SparkleButt
+2021-11-17 09:06:38,852 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Linguistic Detective                      1.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Alex likes Typescript                     1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,853 | INFO  | No winner found
+2021-11-17 09:06:38,853 | INFO  | Removing Alex likes Typescript
+2021-11-17 09:06:38,859 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Ask Slack                                 2.0
+Linguistic Detective                      1.0
+Search by Region                          1.0
+Infra Autobot                             1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,859 | INFO  | No winner found
+2021-11-17 09:06:38,860 | INFO  | Removing Infra Autobot
+2021-11-17 09:06:38,864 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    3.0
+Ask Slack                                 3.0
+You Have New Translations!                3.0
+Pick Your Adventure                       2.0
+Linguistic Detective                      1.0
+Search by Region                          1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,865 | INFO  | No winner found
+2021-11-17 09:06:38,866 | INFO  | Removing Search by Region
+2021-11-17 09:06:38,870 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            7.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+You Have New Translations!                4.0
+BestPlacesToWorkForYou                    3.0
+Ask Slack                                 3.0
+Pick Your Adventure                       2.0
+Linguistic Detective                      1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,871 | INFO  | No winner found
+2021-11-17 09:06:38,871 | INFO  | Removing Linguistic Detective
+2021-11-17 09:06:38,876 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          10.0
+Class of 2022!                            8.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+You Have New Translations!                4.0
+BestPlacesToWorkForYou                    3.0
+Ask Slack                                 3.0
+Pick Your Adventure                       2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,877 | INFO  | No winner found
+2021-11-17 09:06:38,878 | INFO  | Removing Pick Your Adventure
+2021-11-17 09:06:38,883 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          11.0
+Class of 2022!                            8.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    4.0
+You Have New Translations!                4.0
+Ask Slack                                 3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,883 | INFO  | No winner found
+2021-11-17 09:06:38,884 | INFO  | Removing Ask Slack
+2021-11-17 09:06:38,889 | INFO  | candidate
+Greendoor 2.0                            11.0
+Find a job that fits your life!          11.0
+Class of 2022!                            8.0
+DeToxing Fish                             6.0
+Transforming Fishbowl Recommendations     5.0
+BestPlacesToWorkForYou                    5.0
+You Have New Translations!                5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,889 | INFO  | No winner found
+2021-11-17 09:06:38,890 | INFO  | Removing Transforming Fishbowl Recommendations
+2021-11-17 09:06:38,895 | INFO  | candidate
+Greendoor 2.0                      13.0
+Find a job that fits your life!    11.0
+Class of 2022!                      9.0
+DeToxing Fish                       7.0
+You Have New Translations!          6.0
+BestPlacesToWorkForYou              5.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,896 | INFO  | No winner found
+2021-11-17 09:06:38,896 | INFO  | Removing BestPlacesToWorkForYou
+2021-11-17 09:06:38,901 | INFO  | candidate
+Greendoor 2.0                      13.0
+Find a job that fits your life!    13.0
+Class of 2022!                      9.0
+DeToxing Fish                       7.0
+You Have New Translations!          6.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,902 | INFO  | No winner found
+2021-11-17 09:06:38,902 | INFO  | Removing You Have New Translations!
+2021-11-17 09:06:38,907 | INFO  | candidate
+Greendoor 2.0                      13.0
+Find a job that fits your life!    13.0
+Class of 2022!                     10.0
+DeToxing Fish                       7.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,908 | INFO  | No winner found
+2021-11-17 09:06:38,908 | INFO  | Removing DeToxing Fish
+2021-11-17 09:06:38,913 | INFO  | candidate
+Greendoor 2.0                      14.0
+Find a job that fits your life!    14.0
+Class of 2022!                     13.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,913 | INFO  | No winner found
+2021-11-17 09:06:38,914 | INFO  | Removing Class of 2022!
+2021-11-17 09:06:38,919 | INFO  | candidate
+Find a job that fits your life!    18.0
+Greendoor 2.0                      15.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,919 | WARNI | Winner declared: Find a job that fits your life! with 18.0
+2021-11-17 09:06:38,920 | INFO  | candidate
+Find a job that fits your life!    18.0
+Greendoor 2.0                      15.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,920 | WARNI | Election complete: Find a job that fits your life! declared winner for Inclusion AwardT
+2021-11-17 09:06:38,920 | WARNI | Initializing election OK Zoomer!Award 
+2021-11-17 09:06:38,924 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Find a job that fits your life!                     2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Break IT Down                                       1.0
+Transforming Fishbowl Recommendations               1.0
+CDP                                                 1.0
+Pick Your Adventure                                 1.0
+DeToxing Fish                                       1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,924 | INFO  | No winner found
+2021-11-17 09:06:38,925 | INFO  | Removing DeToxing Fish
+2021-11-17 09:06:38,930 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Find a job that fits your life!                     2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Break IT Down                                       1.0
+Transforming Fishbowl Recommendations               1.0
+CDP                                                 1.0
+Pick Your Adventure                                 1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,931 | INFO  | No winner found
+2021-11-17 09:06:38,931 | INFO  | Removing CDP
+2021-11-17 09:06:38,936 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Find a job that fits your life!                     2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Break IT Down                                       1.0
+Transforming Fishbowl Recommendations               1.0
+Pick Your Adventure                                 1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,937 | INFO  | No winner found
+2021-11-17 09:06:38,937 | INFO  | Removing Transforming Fishbowl Recommendations
+2021-11-17 09:06:38,943 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Find a job that fits your life!                     2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Break IT Down                                       1.0
+Pick Your Adventure                                 1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,943 | INFO  | No winner found
+2021-11-17 09:06:38,944 | INFO  | Removing Break IT Down
+2021-11-17 09:06:38,948 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Find a job that fits your life!                     2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Pick Your Adventure                                 1.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,949 | INFO  | No winner found
+2021-11-17 09:06:38,950 | INFO  | Removing Pick Your Adventure
+2021-11-17 09:06:38,955 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Find a job that fits your life!                     2.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,956 | INFO  | No winner found
+2021-11-17 09:06:38,956 | INFO  | Removing Find a job that fits your life!
+2021-11-17 09:06:38,961 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+Entity Mapping Tools V2                             2.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,961 | INFO  | No winner found
+2021-11-17 09:06:38,962 | INFO  | Removing Entity Mapping Tools V2
+2021-11-17 09:06:38,967 | INFO  | candidate
+Class of 2022!                                     22.0
+GD Bucket List                                      6.0
+The Email of Reckoning                              6.0
+Sleepy Nights = Neo4j Insights                      4.0
+Banana Cattywampus SparkleButt                      4.0
+Greendoor 2.0                                       3.0
+Glassdoor Token                                     3.0
+RaaS - Recommendations as a Service using neo4j     2.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,967 | INFO  | No winner found
+2021-11-17 09:06:38,968 | INFO  | Removing RaaS - Recommendations as a Service using neo4j
+2021-11-17 09:06:38,973 | INFO  | candidate
+Class of 2022!                    22.0
+GD Bucket List                     6.0
+The Email of Reckoning             6.0
+Sleepy Nights = Neo4j Insights     4.0
+Banana Cattywampus SparkleButt     4.0
+Greendoor 2.0                      3.0
+Glassdoor Token                    3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,973 | INFO  | No winner found
+2021-11-17 09:06:38,974 | INFO  | Removing Glassdoor Token
+2021-11-17 09:06:38,979 | INFO  | candidate
+Class of 2022!                    22.0
+GD Bucket List                     6.0
+The Email of Reckoning             6.0
+Sleepy Nights = Neo4j Insights     4.0
+Banana Cattywampus SparkleButt     4.0
+Greendoor 2.0                      3.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,979 | INFO  | No winner found
+2021-11-17 09:06:38,980 | INFO  | Removing Greendoor 2.0
+2021-11-17 09:06:38,984 | INFO  | candidate
+Class of 2022!                    22.0
+GD Bucket List                     6.0
+The Email of Reckoning             6.0
+Sleepy Nights = Neo4j Insights     4.0
+Banana Cattywampus SparkleButt     4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,985 | WARNI | Winner declared: Class of 2022! with 22.0
+2021-11-17 09:06:38,985 | INFO  | candidate
+Class of 2022!                    22.0
+GD Bucket List                     6.0
+The Email of Reckoning             6.0
+Sleepy Nights = Neo4j Insights     4.0
+Banana Cattywampus SparkleButt     4.0
+Name: respondent_id, dtype: float64
+2021-11-17 09:06:38,986 | WARNI | Election complete: Class of 2022! declared winner for OK Zoomer!Award 
+2021-11-17 09:06:38,986 | WARNI | Initializing election What's a worthy 
+2021-11-17 09:06:38,990 | INFO  | candidate
+Other (please specify)                 0.0
+Captain Obvious                        0.0
+I Can't Believe It's Not a Feature!    0.0
+Doh!                                   0.0
+So Obvious!                            0.0
+Why Didn't I Think of that?!           0.0
+Name: respondent_id, dtype: float64

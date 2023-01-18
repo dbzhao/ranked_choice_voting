@@ -1,0 +1,1947 @@
+2022-06-15 18:15:25,153 | WARNI | Initializing election Community & Conv
+2022-06-15 18:15:25,157 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Matchdoor                                            3.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    1.0
+Social Pulse                                         1.0
+Don’t Bit*& about Transformation                     1.0
+GOC-IT-YOURSELF                                      1.0
+Response Rate 100 (aka CallMeBeepMe)                 1.0
+The Dectuple-Armed Bandits                           1.0
+Sharpen your Axe                                     1.0
+Gundam (Goc UNDer AutoMation)                        0.0
+SentEmbed                                            0.0
+Wizard of Oz                                         0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,158 | INFO  | No winner found
+2022-06-15 18:15:25,159 | INFO  | Removing SentEmbed
+2022-06-15 18:15:25,165 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Matchdoor                                            3.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    1.0
+Social Pulse                                         1.0
+Don’t Bit*& about Transformation                     1.0
+GOC-IT-YOURSELF                                      1.0
+Response Rate 100 (aka CallMeBeepMe)                 1.0
+The Dectuple-Armed Bandits                           1.0
+Sharpen your Axe                                     1.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Wizard of Oz                                         0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,166 | INFO  | No winner found
+2022-06-15 18:15:25,166 | INFO  | Removing Wizard of Oz
+2022-06-15 18:15:25,171 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Question and Answering based on Glassdoor Review     3.0
+Ultimate Infosite Search                             3.0
+Toxicity Showdown                                    3.0
+Matchdoor                                            3.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    1.0
+Social Pulse                                         1.0
+Don’t Bit*& about Transformation                     1.0
+GOC-IT-YOURSELF                                      1.0
+Response Rate 100 (aka CallMeBeepMe)                 1.0
+The Dectuple-Armed Bandits                           1.0
+Sharpen your Axe                                     1.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,172 | INFO  | No winner found
+2022-06-15 18:15:25,173 | INFO  | Removing Gundam (Goc UNDer AutoMation)
+2022-06-15 18:15:25,177 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Matchdoor                                            3.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+The Dectuple-Armed Bandits                           1.0
+Don’t Bit*& about Transformation                     1.0
+Social Pulse                                         1.0
+Content Conductor                                    1.0
+GOC-IT-YOURSELF                                      1.0
+Response Rate 100 (aka CallMeBeepMe)                 1.0
+Sharpen your Axe                                     1.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,178 | INFO  | No winner found
+2022-06-15 18:15:25,179 | INFO  | Removing Ian
+2022-06-15 18:15:25,183 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Matchdoor                                            3.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+The Dectuple-Armed Bandits                           1.0
+Don’t Bit*& about Transformation                     1.0
+Social Pulse                                         1.0
+Content Conductor                                    1.0
+GOC-IT-YOURSELF                                      1.0
+Response Rate 100 (aka CallMeBeepMe)                 1.0
+Sharpen your Axe                                     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,184 | INFO  | No winner found
+2022-06-15 18:15:25,184 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,188 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Matchdoor                                            3.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+The Dectuple-Armed Bandits                           1.0
+Content Conductor                                    1.0
+GOC-IT-YOURSELF                                      1.0
+Response Rate 100 (aka CallMeBeepMe)                 1.0
+Sharpen your Axe                                     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,189 | INFO  | No winner found
+2022-06-15 18:15:25,189 | INFO  | Removing Content Conductor
+2022-06-15 18:15:25,193 | INFO  | candidate
+FishBot                                             24.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Matchdoor                                            3.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+Response Rate 100 (aka CallMeBeepMe)                 2.0
+The Dectuple-Armed Bandits                           1.0
+GOC-IT-YOURSELF                                      1.0
+Sharpen your Axe                                     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,194 | INFO  | No winner found
+2022-06-15 18:15:25,195 | INFO  | Removing The Dectuple-Armed Bandits
+2022-06-15 18:15:25,199 | INFO  | candidate
+FishBot                                             25.0
+FishHammer                                           9.0
+What do employees say about…                         5.0
+Matchdoor                                            3.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+Response Rate 100 (aka CallMeBeepMe)                 2.0
+GOC-IT-YOURSELF                                      1.0
+Sharpen your Axe                                     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,200 | INFO  | No winner found
+2022-06-15 18:15:25,201 | INFO  | Removing Sharpen your Axe
+2022-06-15 18:15:25,205 | INFO  | candidate
+FishBot                                             25.0
+FishHammer                                          10.0
+What do employees say about…                         5.0
+Matchdoor                                            3.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+Response Rate 100 (aka CallMeBeepMe)                 2.0
+GOC-IT-YOURSELF                                      1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,205 | INFO  | No winner found
+2022-06-15 18:15:25,206 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,210 | INFO  | candidate
+FishBot                                             25.0
+FishHammer                                          10.0
+What do employees say about…                         5.0
+Matchdoor                                            4.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+Response Rate 100 (aka CallMeBeepMe)                 2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,210 | INFO  | No winner found
+2022-06-15 18:15:25,211 | INFO  | Removing Social Pulse
+2022-06-15 18:15:25,215 | INFO  | candidate
+FishBot                                             25.0
+FishHammer                                          10.0
+What do employees say about…                         5.0
+Matchdoor                                            4.0
+Ultimate Infosite Search                             3.0
+Question and Answering based on Glassdoor Review     3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Response Rate 100 (aka CallMeBeepMe)                 2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,216 | INFO  | No winner found
+2022-06-15 18:15:25,216 | INFO  | Removing Response Rate 100 (aka CallMeBeepMe)
+2022-06-15 18:15:25,220 | INFO  | candidate
+FishBot                                             25.0
+FishHammer                                          10.0
+What do employees say about…                         5.0
+Matchdoor                                            4.0
+Ultimate Infosite Search                             4.0
+Question and Answering based on Glassdoor Review     4.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,221 | INFO  | No winner found
+2022-06-15 18:15:25,222 | INFO  | Removing Team Cliff Notes
+2022-06-15 18:15:25,225 | INFO  | candidate
+FishBot                                             25.0
+FishHammer                                          10.0
+What do employees say about…                         6.0
+Matchdoor                                            4.0
+Ultimate Infosite Search                             4.0
+Question and Answering based on Glassdoor Review     4.0
+Toxicity Showdown                                    3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,226 | INFO  | No winner found
+2022-06-15 18:15:25,227 | INFO  | Removing Toxicity Showdown
+2022-06-15 18:15:25,230 | INFO  | candidate
+FishBot                                             26.0
+FishHammer                                          10.0
+What do employees say about…                         6.0
+Question and Answering based on Glassdoor Review     5.0
+Matchdoor                                            4.0
+Ultimate Infosite Search                             4.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,231 | INFO  | No winner found
+2022-06-15 18:15:25,232 | INFO  | Removing Ultimate Infosite Search
+2022-06-15 18:15:25,235 | INFO  | candidate
+FishBot                                             26.0
+FishHammer                                          10.0
+What do employees say about…                         6.0
+Matchdoor                                            5.0
+Question and Answering based on Glassdoor Review     5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,236 | INFO  | No winner found
+2022-06-15 18:15:25,237 | INFO  | Removing Question and Answering based on Glassdoor Review
+2022-06-15 18:15:25,240 | INFO  | candidate
+FishBot                         28.0
+FishHammer                      11.0
+What do employees say about…     7.0
+Matchdoor                        5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,241 | WARNI | Winner declared: FishBot with 28.0
+2022-06-15 18:15:25,241 | INFO  | candidate
+FishBot                         28.0
+FishHammer                      11.0
+What do employees say about…     7.0
+Matchdoor                        5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,242 | WARNI | Election complete: FishBot declared winner for Community & Conv
+2022-06-15 18:15:25,242 | WARNI | Initializing election Inclusion AwardT
+2022-06-15 18:15:25,245 | INFO  | candidate
+Sharpen your Axe                                    12.0
+Matchdoor                                           10.0
+Ultimate Infosite Search                             8.0
+What do employees say about…                         6.0
+Social Pulse                                         4.0
+FishHammer                                           3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Don’t Bit*& about Transformation                     1.0
+FishBot                                              1.0
+Question and Answering based on Glassdoor Review     0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+Wizard of Oz                                         0.0
+LID                                                  0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,246 | INFO  | No winner found
+2022-06-15 18:15:25,246 | INFO  | Removing LID
+2022-06-15 18:15:25,250 | INFO  | candidate
+Sharpen your Axe                                    12.0
+Matchdoor                                           10.0
+Ultimate Infosite Search                             8.0
+What do employees say about…                         6.0
+Social Pulse                                         4.0
+FishHammer                                           3.0
+Toxicity Showdown                                    3.0
+Team Cliff Notes                                     2.0
+Don’t Bit*& about Transformation                     1.0
+FishBot                                              1.0
+Question and Answering based on Glassdoor Review     0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+Wizard of Oz                                         0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,251 | INFO  | No winner found
+2022-06-15 18:15:25,251 | INFO  | Removing Question and Answering based on Glassdoor Review
+2022-06-15 18:15:25,255 | INFO  | candidate
+Sharpen your Axe                    12.0
+Matchdoor                           10.0
+Ultimate Infosite Search             8.0
+What do employees say about…         6.0
+Social Pulse                         4.0
+FishHammer                           3.0
+Toxicity Showdown                    3.0
+Team Cliff Notes                     2.0
+Don’t Bit*& about Transformation     1.0
+FishBot                              1.0
+Gundam (Goc UNDer AutoMation)        0.0
+GOC-IT-YOURSELF                      0.0
+Wizard of Oz                         0.0
+Ian                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,256 | INFO  | No winner found
+2022-06-15 18:15:25,257 | INFO  | Removing Gundam (Goc UNDer AutoMation)
+2022-06-15 18:15:25,260 | INFO  | candidate
+Sharpen your Axe                    12.0
+Matchdoor                           10.0
+Ultimate Infosite Search             8.0
+What do employees say about…         6.0
+Social Pulse                         4.0
+FishHammer                           3.0
+Toxicity Showdown                    3.0
+Team Cliff Notes                     2.0
+Don’t Bit*& about Transformation     1.0
+FishBot                              1.0
+GOC-IT-YOURSELF                      0.0
+Wizard of Oz                         0.0
+Ian                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,261 | INFO  | No winner found
+2022-06-15 18:15:25,262 | INFO  | Removing Wizard of Oz
+2022-06-15 18:15:25,265 | INFO  | candidate
+Sharpen your Axe                    12.0
+Matchdoor                           10.0
+Ultimate Infosite Search             8.0
+What do employees say about…         6.0
+Social Pulse                         4.0
+FishHammer                           3.0
+Toxicity Showdown                    3.0
+Team Cliff Notes                     2.0
+Don’t Bit*& about Transformation     1.0
+FishBot                              1.0
+GOC-IT-YOURSELF                      0.0
+Ian                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,266 | INFO  | No winner found
+2022-06-15 18:15:25,267 | INFO  | Removing Ian
+2022-06-15 18:15:25,270 | INFO  | candidate
+Sharpen your Axe                    12.0
+Matchdoor                           10.0
+Ultimate Infosite Search             8.0
+What do employees say about…         6.0
+Social Pulse                         4.0
+FishHammer                           3.0
+Toxicity Showdown                    3.0
+Team Cliff Notes                     2.0
+Don’t Bit*& about Transformation     1.0
+FishBot                              1.0
+GOC-IT-YOURSELF                      0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,271 | INFO  | No winner found
+2022-06-15 18:15:25,272 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,276 | INFO  | candidate
+Sharpen your Axe                    12.0
+Matchdoor                           10.0
+Ultimate Infosite Search             8.0
+What do employees say about…         6.0
+Social Pulse                         4.0
+FishHammer                           3.0
+Toxicity Showdown                    3.0
+Team Cliff Notes                     2.0
+Don’t Bit*& about Transformation     1.0
+FishBot                              1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,276 | INFO  | No winner found
+2022-06-15 18:15:25,277 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,280 | INFO  | candidate
+Sharpen your Axe                12.0
+Matchdoor                       10.0
+Ultimate Infosite Search         8.0
+What do employees say about…     6.0
+Social Pulse                     5.0
+FishHammer                       3.0
+Toxicity Showdown                3.0
+Team Cliff Notes                 2.0
+FishBot                          1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,281 | INFO  | No winner found
+2022-06-15 18:15:25,282 | INFO  | Removing FishBot
+2022-06-15 18:15:25,285 | INFO  | candidate
+Sharpen your Axe                12.0
+Matchdoor                       11.0
+Ultimate Infosite Search         8.0
+What do employees say about…     6.0
+Social Pulse                     5.0
+FishHammer                       3.0
+Toxicity Showdown                3.0
+Team Cliff Notes                 2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,286 | INFO  | No winner found
+2022-06-15 18:15:25,287 | INFO  | Removing Team Cliff Notes
+2022-06-15 18:15:25,290 | INFO  | candidate
+Sharpen your Axe                13.0
+Matchdoor                       11.0
+Ultimate Infosite Search         8.0
+What do employees say about…     6.0
+Social Pulse                     5.0
+FishHammer                       3.0
+Toxicity Showdown                3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,291 | INFO  | No winner found
+2022-06-15 18:15:25,292 | INFO  | Removing Toxicity Showdown
+2022-06-15 18:15:25,295 | INFO  | candidate
+Sharpen your Axe                13.0
+Matchdoor                       11.0
+Ultimate Infosite Search         8.0
+What do employees say about…     7.0
+Social Pulse                     5.0
+FishHammer                       4.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,296 | INFO  | No winner found
+2022-06-15 18:15:25,297 | INFO  | Removing FishHammer
+2022-06-15 18:15:25,301 | INFO  | candidate
+Sharpen your Axe                14.0
+Matchdoor                       11.0
+What do employees say about…     8.0
+Ultimate Infosite Search         8.0
+Social Pulse                     5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,302 | INFO  | No winner found
+2022-06-15 18:15:25,302 | INFO  | Removing Social Pulse
+2022-06-15 18:15:25,306 | INFO  | candidate
+Sharpen your Axe                14.0
+Matchdoor                       12.0
+What do employees say about…     9.0
+Ultimate Infosite Search         8.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,307 | INFO  | No winner found
+2022-06-15 18:15:25,308 | INFO  | Removing Ultimate Infosite Search
+2022-06-15 18:15:25,312 | INFO  | candidate
+Matchdoor                       15.0
+Sharpen your Axe                15.0
+What do employees say about…     9.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,313 | INFO  | No winner found
+2022-06-15 18:15:25,313 | INFO  | Removing What do employees say about…
+2022-06-15 18:15:25,317 | INFO  | candidate
+Matchdoor           17.0
+Sharpen your Axe    16.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,318 | WARNI | Winner declared: Matchdoor with 17.0
+2022-06-15 18:15:25,318 | INFO  | candidate
+Matchdoor           17.0
+Sharpen your Axe    16.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,319 | WARNI | Election complete: Matchdoor declared winner for Inclusion AwardT
+2022-06-15 18:15:25,319 | WARNI | Initializing election Ambassador of Br
+2022-06-15 18:15:25,322 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Question and Answering based on Glassdoor Review     2.0
+Social Pulse                                         2.0
+Galaga Cheat Codez                                   1.0
+FishHammer                                           1.0
+Toxicity Showdown                                    1.0
+SEO Lint                                             1.0
+Don’t Bit*& about Transformation                     1.0
+Content Conductor                                    0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+Sharpen your Axe                                     0.0
+SentEmbed                                            0.0
+The Dectuple-Armed Bandits                           0.0
+Ian                                                  0.0
+FishBot                                              0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,323 | INFO  | No winner found
+2022-06-15 18:15:25,324 | INFO  | Removing SentEmbed
+2022-06-15 18:15:25,328 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Question and Answering based on Glassdoor Review     2.0
+Social Pulse                                         2.0
+SEO Lint                                             1.0
+Don’t Bit*& about Transformation                     1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+Content Conductor                                    0.0
+FishBot                                              0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+The Dectuple-Armed Bandits                           0.0
+Sharpen your Axe                                     0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,329 | INFO  | No winner found
+2022-06-15 18:15:25,330 | INFO  | Removing Sharpen your Axe
+2022-06-15 18:15:25,334 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Question and Answering based on Glassdoor Review     2.0
+Social Pulse                                         2.0
+SEO Lint                                             1.0
+Don’t Bit*& about Transformation                     1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+Content Conductor                                    0.0
+FishBot                                              0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+The Dectuple-Armed Bandits                           0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,335 | INFO  | No winner found
+2022-06-15 18:15:25,336 | INFO  | Removing The Dectuple-Armed Bandits
+2022-06-15 18:15:25,340 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Question and Answering based on Glassdoor Review     2.0
+Social Pulse                                         2.0
+SEO Lint                                             1.0
+Don’t Bit*& about Transformation                     1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+Content Conductor                                    0.0
+FishBot                                              0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,341 | INFO  | No winner found
+2022-06-15 18:15:25,342 | INFO  | Removing Content Conductor
+2022-06-15 18:15:25,346 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         2.0
+Question and Answering based on Glassdoor Review     2.0
+Don’t Bit*& about Transformation                     1.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+FishBot                                              0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+GOC-IT-YOURSELF                                      0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,348 | INFO  | No winner found
+2022-06-15 18:15:25,348 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,352 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         2.0
+Question and Answering based on Glassdoor Review     2.0
+Don’t Bit*& about Transformation                     1.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+FishBot                                              0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Ian                                                  0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,353 | INFO  | No winner found
+2022-06-15 18:15:25,354 | INFO  | Removing Ian
+2022-06-15 18:15:25,358 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         2.0
+Question and Answering based on Glassdoor Review     2.0
+Don’t Bit*& about Transformation                     1.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+FishBot                                              0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,359 | INFO  | No winner found
+2022-06-15 18:15:25,360 | INFO  | Removing Gundam (Goc UNDer AutoMation)
+2022-06-15 18:15:25,363 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         2.0
+Question and Answering based on Glassdoor Review     2.0
+Don’t Bit*& about Transformation                     1.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+FishBot                                              0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,364 | INFO  | No winner found
+2022-06-15 18:15:25,365 | INFO  | Removing FishBot
+2022-06-15 18:15:25,369 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         2.0
+Question and Answering based on Glassdoor Review     2.0
+Don’t Bit*& about Transformation                     1.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,370 | INFO  | No winner found
+2022-06-15 18:15:25,371 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,375 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         3.0
+Question and Answering based on Glassdoor Review     2.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Galaga Cheat Codez                                   1.0
+Toxicity Showdown                                    1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,376 | INFO  | No winner found
+2022-06-15 18:15:25,376 | INFO  | Removing Galaga Cheat Codez
+2022-06-15 18:15:25,381 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         4.0
+Question and Answering based on Glassdoor Review     2.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Toxicity Showdown                                    1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,382 | INFO  | No winner found
+2022-06-15 18:15:25,382 | INFO  | Removing Toxicity Showdown
+2022-06-15 18:15:25,387 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         4.0
+Question and Answering based on Glassdoor Review     2.0
+SEO Lint                                             1.0
+FishHammer                                           1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,388 | INFO  | No winner found
+2022-06-15 18:15:25,388 | INFO  | Removing FishHammer
+2022-06-15 18:15:25,392 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         4.0
+Question and Answering based on Glassdoor Review     2.0
+SEO Lint                                             1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,393 | INFO  | No winner found
+2022-06-15 18:15:25,394 | INFO  | Removing SEO Lint
+2022-06-15 18:15:25,397 | INFO  | candidate
+Team Cliff Notes                                    18.0
+Response Rate 100 (aka CallMeBeepMe)                12.0
+Ultimate Infosite Search                            10.0
+Matchdoor                                            5.0
+What do employees say about…                         4.0
+Social Pulse                                         4.0
+Question and Answering based on Glassdoor Review     2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,398 | INFO  | No winner found
+2022-06-15 18:15:25,399 | INFO  | Removing Question and Answering based on Glassdoor Review
+2022-06-15 18:15:25,403 | INFO  | candidate
+Team Cliff Notes                        19.0
+Response Rate 100 (aka CallMeBeepMe)    12.0
+Ultimate Infosite Search                10.0
+Social Pulse                             5.0
+Matchdoor                                5.0
+What do employees say about…             4.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,404 | INFO  | No winner found
+2022-06-15 18:15:25,405 | INFO  | Removing What do employees say about…
+2022-06-15 18:15:25,409 | INFO  | candidate
+Team Cliff Notes                        21.0
+Response Rate 100 (aka CallMeBeepMe)    12.0
+Ultimate Infosite Search                10.0
+Social Pulse                             6.0
+Matchdoor                                5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,410 | INFO  | No winner found
+2022-06-15 18:15:25,410 | INFO  | Removing Matchdoor
+2022-06-15 18:15:25,414 | INFO  | candidate
+Team Cliff Notes                        21.0
+Ultimate Infosite Search                12.0
+Response Rate 100 (aka CallMeBeepMe)    12.0
+Social Pulse                             7.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,414 | INFO  | No winner found
+2022-06-15 18:15:25,415 | INFO  | Removing Social Pulse
+2022-06-15 18:15:25,418 | INFO  | candidate
+Team Cliff Notes                        23.0
+Ultimate Infosite Search                13.0
+Response Rate 100 (aka CallMeBeepMe)    12.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,419 | INFO  | No winner found
+2022-06-15 18:15:25,420 | INFO  | Removing Response Rate 100 (aka CallMeBeepMe)
+2022-06-15 18:15:25,424 | INFO  | candidate
+Team Cliff Notes            28.0
+Ultimate Infosite Search    13.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,424 | WARNI | Winner declared: Team Cliff Notes with 28.0
+2022-06-15 18:15:25,425 | INFO  | candidate
+Team Cliff Notes            28.0
+Ultimate Infosite Search    13.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,425 | WARNI | Election complete: Team Cliff Notes declared winner for Ambassador of Br
+2022-06-15 18:15:25,425 | WARNI | Initializing election Core StrengthThe
+2022-06-15 18:15:25,428 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+Content Conductor                                    2.0
+Question and Answering based on Glassdoor Review     1.0
+Team Lightning McQueen                               1.0
+Social Pulse                                         1.0
+GOC-IT-YOURSELF                                      1.0
+Don’t Bit*& about Transformation                     1.0
+The Dectuple-Armed Bandits                           1.0
+Wizard of Oz                                         0.0
+Ian                                                  0.0
+Galaga Cheat Codez                                   0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+vDiff                                                0.0
+Response Rate 100 (aka CallMeBeepMe)                 0.0
+SEO Lint                                             0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,429 | INFO  | No winner found
+2022-06-15 18:15:25,430 | INFO  | Removing Ian
+2022-06-15 18:15:25,434 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    2.0
+FishHammer                                           2.0
+FishBot                                              2.0
+Question and Answering based on Glassdoor Review     1.0
+Social Pulse                                         1.0
+GOC-IT-YOURSELF                                      1.0
+Don’t Bit*& about Transformation                     1.0
+The Dectuple-Armed Bandits                           1.0
+Team Lightning McQueen                               1.0
+SEO Lint                                             0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Response Rate 100 (aka CallMeBeepMe)                 0.0
+vDiff                                                0.0
+Wizard of Oz                                         0.0
+Galaga Cheat Codez                                   0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,435 | INFO  | No winner found
+2022-06-15 18:15:25,435 | INFO  | Removing Galaga Cheat Codez
+2022-06-15 18:15:25,439 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    2.0
+FishHammer                                           2.0
+FishBot                                              2.0
+Question and Answering based on Glassdoor Review     1.0
+Social Pulse                                         1.0
+GOC-IT-YOURSELF                                      1.0
+Don’t Bit*& about Transformation                     1.0
+The Dectuple-Armed Bandits                           1.0
+Team Lightning McQueen                               1.0
+SEO Lint                                             0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Response Rate 100 (aka CallMeBeepMe)                 0.0
+vDiff                                                0.0
+Wizard of Oz                                         0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,441 | INFO  | No winner found
+2022-06-15 18:15:25,441 | INFO  | Removing vDiff
+2022-06-15 18:15:25,445 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+Content Conductor                                    2.0
+Team Lightning McQueen                               1.0
+GOC-IT-YOURSELF                                      1.0
+Question and Answering based on Glassdoor Review     1.0
+Social Pulse                                         1.0
+Don’t Bit*& about Transformation                     1.0
+The Dectuple-Armed Bandits                           1.0
+Gundam (Goc UNDer AutoMation)                        0.0
+SEO Lint                                             0.0
+Response Rate 100 (aka CallMeBeepMe)                 0.0
+Wizard of Oz                                         0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,446 | INFO  | No winner found
+2022-06-15 18:15:25,446 | INFO  | Removing Wizard of Oz
+2022-06-15 18:15:25,450 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+Content Conductor                                    2.0
+Team Lightning McQueen                               1.0
+GOC-IT-YOURSELF                                      1.0
+Question and Answering based on Glassdoor Review     1.0
+Social Pulse                                         1.0
+Don’t Bit*& about Transformation                     1.0
+The Dectuple-Armed Bandits                           1.0
+Gundam (Goc UNDer AutoMation)                        0.0
+SEO Lint                                             0.0
+Response Rate 100 (aka CallMeBeepMe)                 0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,470 | INFO  | No winner found
+2022-06-15 18:15:25,472 | INFO  | Removing Response Rate 100 (aka CallMeBeepMe)
+2022-06-15 18:15:25,477 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+FishHammer                                           2.0
+FishBot                                              2.0
+Content Conductor                                    2.0
+Question and Answering based on Glassdoor Review     1.0
+Social Pulse                                         1.0
+GOC-IT-YOURSELF                                      1.0
+Don’t Bit*& about Transformation                     1.0
+The Dectuple-Armed Bandits                           1.0
+Team Lightning McQueen                               1.0
+SEO Lint                                             0.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,478 | INFO  | No winner found
+2022-06-15 18:15:25,479 | INFO  | Removing SEO Lint
+2022-06-15 18:15:25,483 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+The Dectuple-Armed Bandits                           1.0
+Don’t Bit*& about Transformation                     1.0
+Social Pulse                                         1.0
+Question and Answering based on Glassdoor Review     1.0
+GOC-IT-YOURSELF                                      1.0
+Team Lightning McQueen                               1.0
+Gundam (Goc UNDer AutoMation)                        0.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,484 | INFO  | No winner found
+2022-06-15 18:15:25,485 | INFO  | Removing Gundam (Goc UNDer AutoMation)
+2022-06-15 18:15:25,489 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+The Dectuple-Armed Bandits                           1.0
+Don’t Bit*& about Transformation                     1.0
+Social Pulse                                         1.0
+Question and Answering based on Glassdoor Review     1.0
+GOC-IT-YOURSELF                                      1.0
+Team Lightning McQueen                               1.0
+Toxicity Showdown                                    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,490 | INFO  | No winner found
+2022-06-15 18:15:25,491 | INFO  | Removing Toxicity Showdown
+2022-06-15 18:15:25,495 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+Content Conductor                                    2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+The Dectuple-Armed Bandits                           1.0
+Don’t Bit*& about Transformation                     1.0
+Social Pulse                                         1.0
+Question and Answering based on Glassdoor Review     1.0
+GOC-IT-YOURSELF                                      1.0
+Team Lightning McQueen                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,496 | INFO  | No winner found
+2022-06-15 18:15:25,496 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,500 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+Content Conductor                                    2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+The Dectuple-Armed Bandits                           1.0
+Question and Answering based on Glassdoor Review     1.0
+GOC-IT-YOURSELF                                      1.0
+Team Lightning McQueen                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,501 | INFO  | No winner found
+2022-06-15 18:15:25,501 | INFO  | Removing The Dectuple-Armed Bandits
+2022-06-15 18:15:25,505 | INFO  | candidate
+Ultimate Infosite Search                            15.0
+Matchdoor                                           14.0
+What do employees say about…                         9.0
+Sharpen your Axe                                     7.0
+Content Conductor                                    3.0
+Team Cliff Notes                                     2.0
+Social Pulse                                         2.0
+FishBot                                              2.0
+FishHammer                                           2.0
+Question and Answering based on Glassdoor Review     1.0
+GOC-IT-YOURSELF                                      1.0
+Team Lightning McQueen                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,506 | INFO  | No winner found
+2022-06-15 18:15:25,507 | INFO  | Removing Question and Answering based on Glassdoor Review
+2022-06-15 18:15:25,511 | INFO  | candidate
+Ultimate Infosite Search        16.0
+Matchdoor                       14.0
+What do employees say about…     9.0
+Sharpen your Axe                 7.0
+Content Conductor                3.0
+Team Cliff Notes                 2.0
+Social Pulse                     2.0
+FishBot                          2.0
+FishHammer                       2.0
+GOC-IT-YOURSELF                  1.0
+Team Lightning McQueen           1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,512 | INFO  | No winner found
+2022-06-15 18:15:25,512 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,517 | INFO  | candidate
+Ultimate Infosite Search        16.0
+Matchdoor                       15.0
+What do employees say about…     9.0
+Sharpen your Axe                 7.0
+Content Conductor                3.0
+Team Cliff Notes                 2.0
+Social Pulse                     2.0
+FishBot                          2.0
+FishHammer                       2.0
+Team Lightning McQueen           1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,518 | INFO  | No winner found
+2022-06-15 18:15:25,518 | INFO  | Removing Team Lightning McQueen
+2022-06-15 18:15:25,522 | INFO  | candidate
+Ultimate Infosite Search        16.0
+Matchdoor                       15.0
+What do employees say about…     9.0
+Sharpen your Axe                 7.0
+Content Conductor                3.0
+Team Cliff Notes                 2.0
+Social Pulse                     2.0
+FishBot                          2.0
+FishHammer                       2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,523 | INFO  | No winner found
+2022-06-15 18:15:25,524 | INFO  | Removing Social Pulse
+2022-06-15 18:15:25,528 | INFO  | candidate
+Ultimate Infosite Search        16.0
+Matchdoor                       15.0
+What do employees say about…     9.0
+Sharpen your Axe                 7.0
+Content Conductor                3.0
+Team Cliff Notes                 2.0
+FishBot                          2.0
+FishHammer                       2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,529 | INFO  | No winner found
+2022-06-15 18:15:25,529 | INFO  | Removing FishHammer
+2022-06-15 18:15:25,533 | INFO  | candidate
+Ultimate Infosite Search        16.0
+Matchdoor                       15.0
+What do employees say about…     9.0
+Sharpen your Axe                 8.0
+Content Conductor                3.0
+Team Cliff Notes                 2.0
+FishBot                          2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,534 | INFO  | No winner found
+2022-06-15 18:15:25,534 | INFO  | Removing Team Cliff Notes
+2022-06-15 18:15:25,538 | INFO  | candidate
+Ultimate Infosite Search        16.0
+Matchdoor                       15.0
+What do employees say about…     9.0
+Sharpen your Axe                 8.0
+Content Conductor                3.0
+FishBot                          2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,539 | INFO  | No winner found
+2022-06-15 18:15:25,539 | INFO  | Removing FishBot
+2022-06-15 18:15:25,543 | INFO  | candidate
+Matchdoor                       16.0
+Ultimate Infosite Search        16.0
+What do employees say about…     9.0
+Sharpen your Axe                 9.0
+Content Conductor                3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,544 | INFO  | No winner found
+2022-06-15 18:15:25,544 | INFO  | Removing Content Conductor
+2022-06-15 18:15:25,548 | INFO  | candidate
+Matchdoor                       16.0
+Ultimate Infosite Search        16.0
+What do employees say about…    10.0
+Sharpen your Axe                10.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,549 | INFO  | No winner found
+2022-06-15 18:15:25,549 | INFO  | Removing Sharpen your Axe
+2022-06-15 18:15:25,553 | INFO  | candidate
+Matchdoor                       20.0
+Ultimate Infosite Search        18.0
+What do employees say about…    11.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,553 | INFO  | No winner found
+2022-06-15 18:15:25,554 | INFO  | Removing What do employees say about…
+2022-06-15 18:15:25,558 | INFO  | candidate
+Matchdoor                   26.0
+Ultimate Infosite Search    21.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,558 | WARNI | Winner declared: Matchdoor with 26.0
+2022-06-15 18:15:25,559 | INFO  | candidate
+Matchdoor                   26.0
+Ultimate Infosite Search    21.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,559 | WARNI | Election complete: Matchdoor declared winner for Core StrengthThe
+2022-06-15 18:15:25,559 | WARNI | Initializing election I <3 Engineering
+2022-06-15 18:15:25,562 | INFO  | candidate
+The Dectuple-Armed Bandits                          9.0
+Ultimate Infosite Search                            9.0
+Don’t Bit*& about Transformation                    5.0
+FishBot                                             5.0
+Ian                                                 4.0
+Galaga Cheat Codez                                  3.0
+TBD                                                 3.0
+GOC-IT-YOURSELF                                     3.0
+Team Cliff Notes                                    2.0
+Matchdoor                                           2.0
+Wizard of Oz                                        2.0
+vDiff                                               1.0
+Team Lightning McQueen                              1.0
+Fast Tests for Node Apps                            1.0
+Toxicity Showdown                                   1.0
+Sharpen your Axe                                    1.0
+Question and Answering based on Glassdoor Review    1.0
+SEO Lint                                            1.0
+Social Pulse                                        1.0
+FishHammer                                          0.0
+What do employees say about…                        0.0
+Content Conductor                                   0.0
+Gundam (Goc UNDer AutoMation)                       0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,563 | INFO  | No winner found
+2022-06-15 18:15:25,564 | INFO  | Removing FishHammer
+2022-06-15 18:15:25,568 | INFO  | candidate
+The Dectuple-Armed Bandits                          9.0
+Ultimate Infosite Search                            9.0
+Don’t Bit*& about Transformation                    5.0
+FishBot                                             5.0
+Ian                                                 4.0
+Galaga Cheat Codez                                  3.0
+TBD                                                 3.0
+GOC-IT-YOURSELF                                     3.0
+Team Cliff Notes                                    2.0
+Matchdoor                                           2.0
+Wizard of Oz                                        2.0
+vDiff                                               1.0
+Team Lightning McQueen                              1.0
+Fast Tests for Node Apps                            1.0
+Toxicity Showdown                                   1.0
+Sharpen your Axe                                    1.0
+Question and Answering based on Glassdoor Review    1.0
+SEO Lint                                            1.0
+Social Pulse                                        1.0
+What do employees say about…                        0.0
+Content Conductor                                   0.0
+Gundam (Goc UNDer AutoMation)                       0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,569 | INFO  | No winner found
+2022-06-15 18:15:25,570 | INFO  | Removing What do employees say about…
+2022-06-15 18:15:25,574 | INFO  | candidate
+Ultimate Infosite Search                            9.0
+The Dectuple-Armed Bandits                          9.0
+Don’t Bit*& about Transformation                    5.0
+FishBot                                             5.0
+Ian                                                 4.0
+Galaga Cheat Codez                                  3.0
+GOC-IT-YOURSELF                                     3.0
+TBD                                                 3.0
+Team Cliff Notes                                    2.0
+Matchdoor                                           2.0
+Wizard of Oz                                        2.0
+Fast Tests for Node Apps                            1.0
+Team Lightning McQueen                              1.0
+Toxicity Showdown                                   1.0
+vDiff                                               1.0
+Sharpen your Axe                                    1.0
+Question and Answering based on Glassdoor Review    1.0
+SEO Lint                                            1.0
+Social Pulse                                        1.0
+Content Conductor                                   0.0
+Gundam (Goc UNDer AutoMation)                       0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,575 | INFO  | No winner found
+2022-06-15 18:15:25,575 | INFO  | Removing Gundam (Goc UNDer AutoMation)
+2022-06-15 18:15:25,579 | INFO  | candidate
+Ultimate Infosite Search                            9.0
+The Dectuple-Armed Bandits                          9.0
+FishBot                                             5.0
+Don’t Bit*& about Transformation                    5.0
+Ian                                                 4.0
+GOC-IT-YOURSELF                                     3.0
+Galaga Cheat Codez                                  3.0
+TBD                                                 3.0
+Wizard of Oz                                        2.0
+Team Cliff Notes                                    2.0
+Matchdoor                                           2.0
+Question and Answering based on Glassdoor Review    1.0
+Sharpen your Axe                                    1.0
+vDiff                                               1.0
+Fast Tests for Node Apps                            1.0
+SEO Lint                                            1.0
+Social Pulse                                        1.0
+Team Lightning McQueen                              1.0
+Toxicity Showdown                                   1.0
+Content Conductor                                   0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,580 | INFO  | No winner found
+2022-06-15 18:15:25,580 | INFO  | Removing Content Conductor
+2022-06-15 18:15:25,584 | INFO  | candidate
+The Dectuple-Armed Bandits                          9.0
+Ultimate Infosite Search                            9.0
+Don’t Bit*& about Transformation                    5.0
+FishBot                                             5.0
+Ian                                                 4.0
+GOC-IT-YOURSELF                                     3.0
+Galaga Cheat Codez                                  3.0
+TBD                                                 3.0
+Wizard of Oz                                        2.0
+Team Cliff Notes                                    2.0
+Matchdoor                                           2.0
+Sharpen your Axe                                    1.0
+vDiff                                               1.0
+Fast Tests for Node Apps                            1.0
+Question and Answering based on Glassdoor Review    1.0
+SEO Lint                                            1.0
+Social Pulse                                        1.0
+Team Lightning McQueen                              1.0
+Toxicity Showdown                                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,585 | INFO  | No winner found
+2022-06-15 18:15:25,585 | INFO  | Removing Social Pulse
+2022-06-15 18:15:25,588 | INFO  | candidate
+Ultimate Infosite Search                            9.0
+The Dectuple-Armed Bandits                          9.0
+FishBot                                             6.0
+Don’t Bit*& about Transformation                    5.0
+Ian                                                 4.0
+TBD                                                 3.0
+GOC-IT-YOURSELF                                     3.0
+Galaga Cheat Codez                                  3.0
+Team Cliff Notes                                    2.0
+Matchdoor                                           2.0
+Wizard of Oz                                        2.0
+Team Lightning McQueen                              1.0
+Sharpen your Axe                                    1.0
+Fast Tests for Node Apps                            1.0
+vDiff                                               1.0
+Question and Answering based on Glassdoor Review    1.0
+SEO Lint                                            1.0
+Toxicity Showdown                                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,589 | INFO  | No winner found
+2022-06-15 18:15:25,590 | INFO  | Removing Question and Answering based on Glassdoor Review
+2022-06-15 18:15:25,593 | INFO  | candidate
+Ultimate Infosite Search            9.0
+The Dectuple-Armed Bandits          9.0
+FishBot                             6.0
+Don’t Bit*& about Transformation    5.0
+GOC-IT-YOURSELF                     4.0
+Ian                                 4.0
+Galaga Cheat Codez                  3.0
+TBD                                 3.0
+Team Cliff Notes                    2.0
+Wizard of Oz                        2.0
+Matchdoor                           2.0
+Team Lightning McQueen              1.0
+Sharpen your Axe                    1.0
+Fast Tests for Node Apps            1.0
+vDiff                               1.0
+SEO Lint                            1.0
+Toxicity Showdown                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,594 | INFO  | No winner found
+2022-06-15 18:15:25,594 | INFO  | Removing Fast Tests for Node Apps
+2022-06-15 18:15:25,597 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             7.0
+Don’t Bit*& about Transformation    5.0
+GOC-IT-YOURSELF                     4.0
+Ian                                 4.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+Matchdoor                           2.0
+Wizard of Oz                        2.0
+SEO Lint                            1.0
+Sharpen your Axe                    1.0
+vDiff                               1.0
+Team Lightning McQueen              1.0
+Toxicity Showdown                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,598 | INFO  | No winner found
+2022-06-15 18:15:25,599 | INFO  | Removing Team Lightning McQueen
+2022-06-15 18:15:25,602 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             7.0
+Don’t Bit*& about Transformation    5.0
+GOC-IT-YOURSELF                     4.0
+Ian                                 4.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+Matchdoor                           2.0
+vDiff                               2.0
+Wizard of Oz                        2.0
+SEO Lint                            1.0
+Sharpen your Axe                    1.0
+Toxicity Showdown                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,603 | INFO  | No winner found
+2022-06-15 18:15:25,603 | INFO  | Removing Toxicity Showdown
+2022-06-15 18:15:25,606 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             7.0
+Don’t Bit*& about Transformation    5.0
+GOC-IT-YOURSELF                     4.0
+Ian                                 4.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+Matchdoor                           2.0
+vDiff                               2.0
+Wizard of Oz                        2.0
+SEO Lint                            1.0
+Sharpen your Axe                    1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,607 | INFO  | No winner found
+2022-06-15 18:15:25,608 | INFO  | Removing Sharpen your Axe
+2022-06-15 18:15:25,611 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             7.0
+Don’t Bit*& about Transformation    6.0
+GOC-IT-YOURSELF                     4.0
+Ian                                 4.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+Matchdoor                           2.0
+vDiff                               2.0
+Wizard of Oz                        2.0
+SEO Lint                            1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,612 | INFO  | No winner found
+2022-06-15 18:15:25,612 | INFO  | Removing SEO Lint
+2022-06-15 18:15:25,615 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             7.0
+Don’t Bit*& about Transformation    6.0
+Ian                                 5.0
+GOC-IT-YOURSELF                     4.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+Matchdoor                           2.0
+vDiff                               2.0
+Wizard of Oz                        2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,616 | INFO  | No winner found
+2022-06-15 18:15:25,616 | INFO  | Removing Matchdoor
+2022-06-15 18:15:25,619 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             8.0
+Don’t Bit*& about Transformation    6.0
+GOC-IT-YOURSELF                     5.0
+Ian                                 5.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+vDiff                               2.0
+Wizard of Oz                        2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,620 | INFO  | No winner found
+2022-06-15 18:15:25,621 | INFO  | Removing vDiff
+2022-06-15 18:15:25,624 | INFO  | candidate
+The Dectuple-Armed Bandits          9.0
+Ultimate Infosite Search            9.0
+FishBot                             8.0
+Don’t Bit*& about Transformation    6.0
+Ian                                 6.0
+GOC-IT-YOURSELF                     5.0
+TBD                                 3.0
+Galaga Cheat Codez                  3.0
+Team Cliff Notes                    2.0
+Wizard of Oz                        2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,625 | INFO  | No winner found
+2022-06-15 18:15:25,625 | INFO  | Removing Team Cliff Notes
+2022-06-15 18:15:25,628 | INFO  | candidate
+Ultimate Infosite Search            10.0
+The Dectuple-Armed Bandits           9.0
+FishBot                              8.0
+Don’t Bit*& about Transformation     6.0
+Ian                                  6.0
+GOC-IT-YOURSELF                      5.0
+TBD                                  3.0
+Galaga Cheat Codez                   3.0
+Wizard of Oz                         2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,629 | INFO  | No winner found
+2022-06-15 18:15:25,629 | INFO  | Removing Wizard of Oz
+2022-06-15 18:15:25,632 | INFO  | candidate
+Ultimate Infosite Search            10.0
+The Dectuple-Armed Bandits           9.0
+FishBot                              8.0
+Don’t Bit*& about Transformation     6.0
+Ian                                  6.0
+GOC-IT-YOURSELF                      5.0
+TBD                                  5.0
+Galaga Cheat Codez                   3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,633 | INFO  | No winner found
+2022-06-15 18:15:25,633 | INFO  | Removing Galaga Cheat Codez
+2022-06-15 18:15:25,636 | INFO  | candidate
+Ultimate Infosite Search            10.0
+The Dectuple-Armed Bandits           9.0
+FishBot                              8.0
+Ian                                  8.0
+Don’t Bit*& about Transformation     6.0
+GOC-IT-YOURSELF                      5.0
+TBD                                  5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,637 | INFO  | No winner found
+2022-06-15 18:15:25,637 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,640 | INFO  | candidate
+Ultimate Infosite Search            10.0
+The Dectuple-Armed Bandits           9.0
+FishBot                              8.0
+Ian                                  8.0
+Don’t Bit*& about Transformation     6.0
+TBD                                  5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,641 | INFO  | No winner found
+2022-06-15 18:15:25,641 | INFO  | Removing TBD
+2022-06-15 18:15:25,644 | INFO  | candidate
+Ultimate Infosite Search            10.0
+Ian                                 10.0
+The Dectuple-Armed Bandits           9.0
+FishBot                              8.0
+Don’t Bit*& about Transformation     6.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,645 | INFO  | No winner found
+2022-06-15 18:15:25,645 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,648 | INFO  | candidate
+Ian                           12.0
+The Dectuple-Armed Bandits    11.0
+Ultimate Infosite Search      10.0
+FishBot                        8.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,649 | INFO  | No winner found
+2022-06-15 18:15:25,649 | INFO  | Removing FishBot
+2022-06-15 18:15:25,652 | INFO  | candidate
+The Dectuple-Armed Bandits    13.0
+Ian                           12.0
+Ultimate Infosite Search      10.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,652 | INFO  | No winner found
+2022-06-15 18:15:25,653 | INFO  | Removing Ultimate Infosite Search
+2022-06-15 18:15:25,656 | INFO  | candidate
+The Dectuple-Armed Bandits    13.0
+Ian                           12.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,657 | WARNI | Winner declared: The Dectuple-Armed Bandits with 13.0
+2022-06-15 18:15:25,657 | INFO  | candidate
+The Dectuple-Armed Bandits    13.0
+Ian                           12.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,657 | WARNI | Election complete: The Dectuple-Armed Bandits declared winner for I <3 Engineering
+2022-06-15 18:15:25,657 | WARNI | Initializing election Going GreenThe h
+2022-06-15 18:15:25,659 | INFO  | candidate
+Matchdoor                               4.0
+Toxicity Showdown                       3.0
+Ultimate Infosite Search                3.0
+FishBot                                 2.0
+Team Lightning McQueen                  2.0
+Fast Tests for Node Apps                2.0
+FishHammer                              2.0
+Team Cliff Notes                        2.0
+Don’t Bit*& about Transformation        2.0
+Content Conductor                       1.0
+Gundam (Goc UNDer AutoMation)           1.0
+What do employees say about…            1.0
+Sharpen your Axe                        1.0
+vDiff                                   1.0
+TBD                                     1.0
+Ian                                     1.0
+The Dectuple-Armed Bandits              1.0
+GOC-IT-YOURSELF                         1.0
+SEO Lint                                0.0
+Response Rate 100 (aka CallMeBeepMe)    0.0
+Social Pulse                            0.0
+Wizard of Oz                            0.0
+Galaga Cheat Codez                      0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,660 | INFO  | No winner found
+2022-06-15 18:15:25,661 | INFO  | Removing Galaga Cheat Codez
+2022-06-15 18:15:25,664 | INFO  | candidate
+Matchdoor                               5.0
+Toxicity Showdown                       3.0
+Ultimate Infosite Search                3.0
+FishBot                                 2.0
+Team Lightning McQueen                  2.0
+Fast Tests for Node Apps                2.0
+FishHammer                              2.0
+Team Cliff Notes                        2.0
+Don’t Bit*& about Transformation        2.0
+Content Conductor                       1.0
+Gundam (Goc UNDer AutoMation)           1.0
+What do employees say about…            1.0
+Sharpen your Axe                        1.0
+vDiff                                   1.0
+TBD                                     1.0
+Ian                                     1.0
+The Dectuple-Armed Bandits              1.0
+GOC-IT-YOURSELF                         1.0
+SEO Lint                                0.0
+Response Rate 100 (aka CallMeBeepMe)    0.0
+Social Pulse                            0.0
+Wizard of Oz                            0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,665 | INFO  | No winner found
+2022-06-15 18:15:25,665 | INFO  | Removing Wizard of Oz
+2022-06-15 18:15:25,669 | INFO  | candidate
+Matchdoor                               5.0
+Toxicity Showdown                       3.0
+Ultimate Infosite Search                3.0
+FishBot                                 2.0
+Team Lightning McQueen                  2.0
+Fast Tests for Node Apps                2.0
+FishHammer                              2.0
+Team Cliff Notes                        2.0
+Don’t Bit*& about Transformation        2.0
+Content Conductor                       1.0
+What do employees say about…            1.0
+GOC-IT-YOURSELF                         1.0
+Sharpen your Axe                        1.0
+vDiff                                   1.0
+TBD                                     1.0
+Ian                                     1.0
+The Dectuple-Armed Bandits              1.0
+Gundam (Goc UNDer AutoMation)           1.0
+SEO Lint                                0.0
+Response Rate 100 (aka CallMeBeepMe)    0.0
+Social Pulse                            0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,669 | INFO  | No winner found
+2022-06-15 18:15:25,670 | INFO  | Removing Social Pulse
+2022-06-15 18:15:25,675 | INFO  | candidate
+Matchdoor                               5.0
+Toxicity Showdown                       3.0
+Ultimate Infosite Search                3.0
+FishBot                                 2.0
+Team Lightning McQueen                  2.0
+Fast Tests for Node Apps                2.0
+FishHammer                              2.0
+Team Cliff Notes                        2.0
+Don’t Bit*& about Transformation        2.0
+Content Conductor                       1.0
+Gundam (Goc UNDer AutoMation)           1.0
+What do employees say about…            1.0
+Sharpen your Axe                        1.0
+vDiff                                   1.0
+TBD                                     1.0
+Ian                                     1.0
+The Dectuple-Armed Bandits              1.0
+GOC-IT-YOURSELF                         1.0
+Response Rate 100 (aka CallMeBeepMe)    0.0
+SEO Lint                                0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,675 | INFO  | No winner found
+2022-06-15 18:15:25,676 | INFO  | Removing SEO Lint
+2022-06-15 18:15:25,679 | INFO  | candidate
+Matchdoor                               5.0
+Toxicity Showdown                       3.0
+Ultimate Infosite Search                3.0
+FishBot                                 2.0
+Team Lightning McQueen                  2.0
+Fast Tests for Node Apps                2.0
+FishHammer                              2.0
+Team Cliff Notes                        2.0
+Don’t Bit*& about Transformation        2.0
+Gundam (Goc UNDer AutoMation)           1.0
+What do employees say about…            1.0
+Content Conductor                       1.0
+Sharpen your Axe                        1.0
+vDiff                                   1.0
+TBD                                     1.0
+Ian                                     1.0
+The Dectuple-Armed Bandits              1.0
+GOC-IT-YOURSELF                         1.0
+Response Rate 100 (aka CallMeBeepMe)    0.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,680 | INFO  | No winner found
+2022-06-15 18:15:25,680 | INFO  | Removing Response Rate 100 (aka CallMeBeepMe)
+2022-06-15 18:15:25,684 | INFO  | candidate
+Matchdoor                           5.0
+Toxicity Showdown                   3.0
+Ultimate Infosite Search            3.0
+FishBot                             2.0
+Team Lightning McQueen              2.0
+Fast Tests for Node Apps            2.0
+FishHammer                          2.0
+Team Cliff Notes                    2.0
+Don’t Bit*& about Transformation    2.0
+Gundam (Goc UNDer AutoMation)       1.0
+What do employees say about…        1.0
+Content Conductor                   1.0
+Sharpen your Axe                    1.0
+vDiff                               1.0
+TBD                                 1.0
+Ian                                 1.0
+The Dectuple-Armed Bandits          1.0
+GOC-IT-YOURSELF                     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,685 | INFO  | No winner found
+2022-06-15 18:15:25,685 | INFO  | Removing Content Conductor
+2022-06-15 18:15:25,688 | INFO  | candidate
+Matchdoor                           5.0
+Toxicity Showdown                   3.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+FishHammer                          2.0
+Team Lightning McQueen              2.0
+Fast Tests for Node Apps            2.0
+Team Cliff Notes                    2.0
+Don’t Bit*& about Transformation    2.0
+What do employees say about…        1.0
+Gundam (Goc UNDer AutoMation)       1.0
+Sharpen your Axe                    1.0
+vDiff                               1.0
+TBD                                 1.0
+Ian                                 1.0
+The Dectuple-Armed Bandits          1.0
+GOC-IT-YOURSELF                     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,689 | INFO  | No winner found
+2022-06-15 18:15:25,690 | INFO  | Removing TBD
+2022-06-15 18:15:25,693 | INFO  | candidate
+Matchdoor                           5.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Toxicity Showdown                   3.0
+Team Cliff Notes                    2.0
+Don’t Bit*& about Transformation    2.0
+FishHammer                          2.0
+Team Lightning McQueen              2.0
+What do employees say about…        1.0
+The Dectuple-Armed Bandits          1.0
+Gundam (Goc UNDer AutoMation)       1.0
+GOC-IT-YOURSELF                     1.0
+Sharpen your Axe                    1.0
+vDiff                               1.0
+Ian                                 1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,693 | INFO  | No winner found
+2022-06-15 18:15:25,694 | INFO  | Removing Ian
+2022-06-15 18:15:25,697 | INFO  | candidate
+Matchdoor                           5.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Toxicity Showdown                   3.0
+Team Cliff Notes                    2.0
+Don’t Bit*& about Transformation    2.0
+FishHammer                          2.0
+Team Lightning McQueen              2.0
+What do employees say about…        1.0
+The Dectuple-Armed Bandits          1.0
+Gundam (Goc UNDer AutoMation)       1.0
+GOC-IT-YOURSELF                     1.0
+Sharpen your Axe                    1.0
+vDiff                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,698 | INFO  | No winner found
+2022-06-15 18:15:25,698 | INFO  | Removing Gundam (Goc UNDer AutoMation)
+2022-06-15 18:15:25,701 | INFO  | candidate
+Matchdoor                           5.0
+Team Cliff Notes                    3.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Toxicity Showdown                   3.0
+Don’t Bit*& about Transformation    2.0
+FishHammer                          2.0
+Team Lightning McQueen              2.0
+What do employees say about…        1.0
+The Dectuple-Armed Bandits          1.0
+GOC-IT-YOURSELF                     1.0
+Sharpen your Axe                    1.0
+vDiff                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,702 | INFO  | No winner found
+2022-06-15 18:15:25,702 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,705 | INFO  | candidate
+Matchdoor                           5.0
+Team Cliff Notes                    3.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Toxicity Showdown                   3.0
+Don’t Bit*& about Transformation    2.0
+FishHammer                          2.0
+Sharpen your Axe                    2.0
+Team Lightning McQueen              2.0
+What do employees say about…        1.0
+The Dectuple-Armed Bandits          1.0
+vDiff                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,706 | INFO  | No winner found
+2022-06-15 18:15:25,707 | INFO  | Removing The Dectuple-Armed Bandits
+2022-06-15 18:15:25,709 | INFO  | candidate
+Matchdoor                           5.0
+Team Cliff Notes                    3.0
+Don’t Bit*& about Transformation    3.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Toxicity Showdown                   3.0
+FishHammer                          2.0
+Sharpen your Axe                    2.0
+Team Lightning McQueen              2.0
+What do employees say about…        1.0
+vDiff                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,710 | INFO  | No winner found
+2022-06-15 18:15:25,711 | INFO  | Removing What do employees say about…
+2022-06-15 18:15:25,714 | INFO  | candidate
+Matchdoor                           5.0
+Team Cliff Notes                    3.0
+Don’t Bit*& about Transformation    3.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Toxicity Showdown                   3.0
+FishHammer                          2.0
+Sharpen your Axe                    2.0
+Team Lightning McQueen              2.0
+vDiff                               1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,714 | INFO  | No winner found
+2022-06-15 18:15:25,715 | INFO  | Removing vDiff
+2022-06-15 18:15:25,719 | INFO  | candidate
+Matchdoor                           5.0
+Team Cliff Notes                    3.0
+Don’t Bit*& about Transformation    3.0
+Ultimate Infosite Search            3.0
+FishBot                             3.0
+Fast Tests for Node Apps            3.0
+Team Lightning McQueen              3.0
+Toxicity Showdown                   3.0
+FishHammer                          2.0
+Sharpen your Axe                    2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,720 | INFO  | No winner found
+2022-06-15 18:15:25,720 | INFO  | Removing Sharpen your Axe
+2022-06-15 18:15:25,725 | INFO  | candidate
+Matchdoor                           6.0
+FishBot                             4.0
+Team Cliff Notes                    3.0
+Don’t Bit*& about Transformation    3.0
+Ultimate Infosite Search            3.0
+Fast Tests for Node Apps            3.0
+Team Lightning McQueen              3.0
+Toxicity Showdown                   3.0
+FishHammer                          2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,725 | INFO  | No winner found
+2022-06-15 18:15:25,726 | INFO  | Removing FishHammer
+2022-06-15 18:15:25,729 | INFO  | candidate
+Matchdoor                           6.0
+FishBot                             4.0
+Toxicity Showdown                   4.0
+Team Cliff Notes                    3.0
+Don’t Bit*& about Transformation    3.0
+Ultimate Infosite Search            3.0
+Fast Tests for Node Apps            3.0
+Team Lightning McQueen              3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,730 | INFO  | No winner found
+2022-06-15 18:15:25,731 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,735 | INFO  | candidate
+Matchdoor                   6.0
+FishBot                     4.0
+Toxicity Showdown           4.0
+Team Cliff Notes            3.0
+Ultimate Infosite Search    3.0
+Fast Tests for Node Apps    3.0
+Team Lightning McQueen      3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,736 | INFO  | No winner found
+2022-06-15 18:15:25,737 | INFO  | Removing Ultimate Infosite Search
+2022-06-15 18:15:25,741 | INFO  | candidate
+Matchdoor                   7.0
+FishBot                     4.0
+Toxicity Showdown           4.0
+Team Cliff Notes            3.0
+Fast Tests for Node Apps    3.0
+Team Lightning McQueen      3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,742 | INFO  | No winner found
+2022-06-15 18:15:25,742 | INFO  | Removing Team Lightning McQueen
+2022-06-15 18:15:25,746 | INFO  | candidate
+Matchdoor                   7.0
+FishBot                     4.0
+Fast Tests for Node Apps    4.0
+Toxicity Showdown           4.0
+Team Cliff Notes            3.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,747 | INFO  | No winner found
+2022-06-15 18:15:25,747 | INFO  | Removing Team Cliff Notes
+2022-06-15 18:15:25,751 | INFO  | candidate
+Matchdoor                   7.0
+FishBot                     5.0
+Fast Tests for Node Apps    4.0
+Toxicity Showdown           4.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,752 | INFO  | No winner found
+2022-06-15 18:15:25,752 | INFO  | Removing Toxicity Showdown
+2022-06-15 18:15:25,755 | INFO  | candidate
+Matchdoor                   7.0
+FishBot                     7.0
+Fast Tests for Node Apps    4.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,756 | INFO  | No winner found
+2022-06-15 18:15:25,756 | INFO  | Removing Fast Tests for Node Apps
+2022-06-15 18:15:25,760 | INFO  | candidate
+Matchdoor    7.0
+FishBot      7.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,760 | INFO  | No winner found
+2022-06-15 18:15:25,761 | INFO  | Removing Matchdoor
+2022-06-15 18:15:25,764 | INFO  | candidate
+FishBot    8.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,764 | WARNI | Winner declared: FishBot with 8.0
+2022-06-15 18:15:25,765 | INFO  | candidate
+FishBot    8.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,765 | WARNI | Election complete: FishBot declared winner for Going GreenThe h
+2022-06-15 18:15:25,765 | WARNI | Initializing election OK Zoomer!Award 
+2022-06-15 18:15:25,767 | INFO  | candidate
+Matchdoor                               20.0
+What do employees say about…             8.0
+Sharpen your Axe                         8.0
+FishBot                                  5.0
+Team Cliff Notes                         4.0
+Ultimate Infosite Search                 2.0
+Wizard of Oz                             2.0
+The Dectuple-Armed Bandits               1.0
+Don’t Bit*& about Transformation         1.0
+GOC-IT-YOURSELF                          1.0
+Response Rate 100 (aka CallMeBeepMe)     1.0
+Team Lightning McQueen                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,768 | INFO  | No winner found
+2022-06-15 18:15:25,769 | INFO  | Removing The Dectuple-Armed Bandits
+2022-06-15 18:15:25,772 | INFO  | candidate
+Matchdoor                               20.0
+What do employees say about…             8.0
+Sharpen your Axe                         8.0
+FishBot                                  5.0
+Team Cliff Notes                         4.0
+Ultimate Infosite Search                 2.0
+Wizard of Oz                             2.0
+Don’t Bit*& about Transformation         1.0
+GOC-IT-YOURSELF                          1.0
+Response Rate 100 (aka CallMeBeepMe)     1.0
+Team Lightning McQueen                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,773 | INFO  | No winner found
+2022-06-15 18:15:25,773 | INFO  | Removing Don’t Bit*& about Transformation
+2022-06-15 18:15:25,777 | INFO  | candidate
+Matchdoor                               20.0
+What do employees say about…             8.0
+Sharpen your Axe                         8.0
+FishBot                                  5.0
+Team Cliff Notes                         4.0
+Ultimate Infosite Search                 2.0
+Wizard of Oz                             2.0
+GOC-IT-YOURSELF                          1.0
+Response Rate 100 (aka CallMeBeepMe)     1.0
+Team Lightning McQueen                   1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,778 | INFO  | No winner found
+2022-06-15 18:15:25,778 | INFO  | Removing Team Lightning McQueen
+2022-06-15 18:15:25,781 | INFO  | candidate
+Matchdoor                               20.0
+What do employees say about…             8.0
+Sharpen your Axe                         8.0
+FishBot                                  5.0
+Team Cliff Notes                         4.0
+Ultimate Infosite Search                 2.0
+Wizard of Oz                             2.0
+GOC-IT-YOURSELF                          1.0
+Response Rate 100 (aka CallMeBeepMe)     1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,782 | INFO  | No winner found
+2022-06-15 18:15:25,782 | INFO  | Removing Response Rate 100 (aka CallMeBeepMe)
+2022-06-15 18:15:25,785 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+FishBot                          5.0
+Team Cliff Notes                 4.0
+Ultimate Infosite Search         2.0
+Wizard of Oz                     2.0
+GOC-IT-YOURSELF                  1.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,786 | INFO  | No winner found
+2022-06-15 18:15:25,786 | INFO  | Removing GOC-IT-YOURSELF
+2022-06-15 18:15:25,790 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+FishBot                          5.0
+Team Cliff Notes                 4.0
+Ultimate Infosite Search         2.0
+Wizard of Oz                     2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,791 | INFO  | No winner found
+2022-06-15 18:15:25,791 | INFO  | Removing Wizard of Oz
+2022-06-15 18:15:25,794 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+FishBot                          5.0
+Team Cliff Notes                 4.0
+Ultimate Infosite Search         2.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,795 | INFO  | No winner found
+2022-06-15 18:15:25,795 | INFO  | Removing Ultimate Infosite Search
+2022-06-15 18:15:25,798 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+FishBot                          5.0
+Team Cliff Notes                 4.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,799 | INFO  | No winner found
+2022-06-15 18:15:25,799 | INFO  | Removing Team Cliff Notes
+2022-06-15 18:15:25,802 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+FishBot                          5.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,803 | INFO  | No winner found
+2022-06-15 18:15:25,803 | INFO  | Removing FishBot
+2022-06-15 18:15:25,806 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,807 | WARNI | Winner declared: Matchdoor with 20.0
+2022-06-15 18:15:25,807 | INFO  | candidate
+Matchdoor                       20.0
+What do employees say about…     8.0
+Sharpen your Axe                 8.0
+Name: respondent_id, dtype: float64
+2022-06-15 18:15:25,808 | WARNI | Election complete: Matchdoor declared winner for OK Zoomer!Award 

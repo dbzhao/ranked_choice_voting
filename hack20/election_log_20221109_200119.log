@@ -1,0 +1,2044 @@
+2022-11-09 20:01:19,887 | WARNI | Initializing election Community & Conversation Award
+2022-11-09 20:01:19,891 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+ShowMeTheMoney                                            2.0
+Mo Money, Mo Problems                                     2.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Radar                                                     1.0
+OneTeam Award                                             1.0
+Calculated Community                                      1.0
+Employer "Interest" Rates                                 1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+SME Finder                                                1.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+Jobs Home Refresh                                         0.0
+TIGER Bot                                                 0.0
+CI Template AutoDocs                                      0.0
+Dev Metrics                                               0.0
+SentEmbed V2                                              0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,893 | INFO  | No winner found
+2022-11-09 20:01:19,893 | INFO  | Removing TIGER Bot
+2022-11-09 20:01:19,899 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+ShowMeTheMoney                                            2.0
+Mo Money, Mo Problems                                     2.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Calculated Community                                      1.0
+Employer "Interest" Rates                                 1.0
+OneTeam Award                                             1.0
+Radar                                                     1.0
+SME Finder                                                1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+SentEmbed V2                                              0.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+Jobs Home Refresh                                         0.0
+CI Template AutoDocs                                      0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,900 | INFO  | No winner found
+2022-11-09 20:01:19,901 | INFO  | Removing CI Template AutoDocs
+2022-11-09 20:01:19,905 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+ShowMeTheMoney                                            2.0
+Mo Money, Mo Problems                                     2.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Calculated Community                                      1.0
+Employer "Interest" Rates                                 1.0
+OneTeam Award                                             1.0
+Radar                                                     1.0
+SME Finder                                                1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+SentEmbed V2                                              0.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+Jobs Home Refresh                                         0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,907 | INFO  | No winner found
+2022-11-09 20:01:19,907 | INFO  | Removing Career Launchpad
+2022-11-09 20:01:19,911 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+ShowMeTheMoney                                            2.0
+Fun Fishposts                                             2.0
+Mo Money, Mo Problems                                     2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+OneTeam Award                                             1.0
+Calculated Community                                      1.0
+Employer "Interest" Rates                                 1.0
+Radar                                                     1.0
+SME Finder                                                1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+SentEmbed V2                                              0.0
+It's a secret                                             0.0
+Jobs Home Refresh                                         0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,912 | INFO  | No winner found
+2022-11-09 20:01:19,913 | INFO  | Removing Jobs Home Refresh
+2022-11-09 20:01:19,917 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Fun Fishposts                                             2.0
+ShowMeTheMoney                                            2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+NERds                                                     2.0
+Radar                                                     1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+OneTeam Award                                             1.0
+SME Finder                                                1.0
+It's a secret                                             0.0
+Dev Metrics                                               0.0
+SentEmbed V2                                              0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,918 | INFO  | No winner found
+2022-11-09 20:01:19,919 | INFO  | Removing SentEmbed V2
+2022-11-09 20:01:19,923 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Fun Fishposts                                             2.0
+ShowMeTheMoney                                            2.0
+Hide-A-Key                                                2.0
+Mo Money, Mo Problems                                     2.0
+NERds                                                     2.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Radar                                                     1.0
+OneTeam Award                                             1.0
+SME Finder                                                1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+It's a secret                                             0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,924 | INFO  | No winner found
+2022-11-09 20:01:19,925 | INFO  | Removing It's a secret
+2022-11-09 20:01:19,929 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Better Bowl Digest                                        4.0
+Identify!                                                 4.0
+Iceberg                                                   3.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+ShowMeTheMoney                                            2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+Calculated Community                                      1.0
+Radar                                                     1.0
+Employer "Interest" Rates                                 1.0
+OneTeam Award                                             1.0
+SME Finder                                                1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,930 | INFO  | No winner found
+2022-11-09 20:01:19,931 | INFO  | Removing Dev Metrics
+2022-11-09 20:01:19,935 | INFO  | candidate
+Fishpolls                                                23.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+ShowMeTheMoney                                            2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+Calculated Community                                      1.0
+Radar                                                     1.0
+Employer "Interest" Rates                                 1.0
+OneTeam Award                                             1.0
+SME Finder                                                1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,936 | INFO  | No winner found
+2022-11-09 20:01:19,937 | INFO  | Removing Calculated Community
+2022-11-09 20:01:19,941 | INFO  | candidate
+Fishpolls                                                24.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Better Bowl Digest                                        4.0
+Iceberg                                                   3.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Radar                                                     1.0
+SME Finder                                                1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,942 | INFO  | No winner found
+2022-11-09 20:01:19,942 | INFO  | Removing SME Finder
+2022-11-09 20:01:19,947 | INFO  | candidate
+Fishpolls                                                24.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 4.0
+Iceberg                                                   4.0
+Better Bowl Digest                                        4.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Radar                                                     1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,948 | INFO  | No winner found
+2022-11-09 20:01:19,948 | INFO  | Removing OneTeam Award
+2022-11-09 20:01:19,952 | INFO  | candidate
+Fishpolls                                                24.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 5.0
+Iceberg                                                   4.0
+Better Bowl Digest                                        4.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Radar                                                     1.0
+Employer "Interest" Rates                                 1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,953 | INFO  | No winner found
+2022-11-09 20:01:19,954 | INFO  | Removing Employer "Interest" Rates
+2022-11-09 20:01:19,958 | INFO  | candidate
+Fishpolls                                                24.0
+Interview with the FishPire: FishBot Mock Interviews      9.0
+Identify!                                                 5.0
+Iceberg                                                   4.0
+Better Bowl Digest                                        4.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Radar                                                     1.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,960 | INFO  | No winner found
+2022-11-09 20:01:19,960 | INFO  | Removing Radar
+2022-11-09 20:01:19,964 | INFO  | candidate
+Fishpolls                                                24.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Identify!                                                 5.0
+Iceberg                                                   4.0
+Better Bowl Digest                                        4.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Reviewverse: Glassdoor Reviews as Images                  1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,965 | INFO  | No winner found
+2022-11-09 20:01:19,966 | INFO  | Removing Reviewverse: Glassdoor Reviews as Images
+2022-11-09 20:01:19,970 | INFO  | candidate
+Fishpolls                                                25.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Identify!                                                 5.0
+Iceberg                                                   4.0
+Better Bowl Digest                                        4.0
+Fun Fishposts                                             2.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,971 | INFO  | No winner found
+2022-11-09 20:01:19,971 | INFO  | Removing Fun Fishposts
+2022-11-09 20:01:19,975 | INFO  | candidate
+Fishpolls                                                26.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Identify!                                                 5.0
+Better Bowl Digest                                        5.0
+Iceberg                                                   4.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+ShowMeTheMoney                                            2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,976 | INFO  | No winner found
+2022-11-09 20:01:19,977 | INFO  | Removing ShowMeTheMoney
+2022-11-09 20:01:19,981 | INFO  | candidate
+Fishpolls                                                26.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Identify!                                                 5.0
+Better Bowl Digest                                        5.0
+Iceberg                                                   4.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Mo Money, Mo Problems                                     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,982 | INFO  | No winner found
+2022-11-09 20:01:19,982 | INFO  | Removing Mo Money, Mo Problems
+2022-11-09 20:01:19,986 | INFO  | candidate
+Fishpolls                                                26.0
+Interview with the FishPire: FishBot Mock Interviews     11.0
+Identify!                                                 5.0
+Better Bowl Digest                                        5.0
+Iceberg                                                   4.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+NERds                                                     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,987 | INFO  | No winner found
+2022-11-09 20:01:19,987 | INFO  | Removing NERds
+2022-11-09 20:01:19,991 | INFO  | candidate
+Fishpolls                                                26.0
+Interview with the FishPire: FishBot Mock Interviews     11.0
+Better Bowl Digest                                        7.0
+Identify!                                                 5.0
+Iceberg                                                   4.0
+Hide-A-Key                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,993 | INFO  | No winner found
+2022-11-09 20:01:19,993 | INFO  | Removing Hide-A-Key
+2022-11-09 20:01:19,997 | INFO  | candidate
+Fishpolls                                                26.0
+Interview with the FishPire: FishBot Mock Interviews     11.0
+Better Bowl Digest                                        7.0
+Identify!                                                 6.0
+Iceberg                                                   4.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:19,998 | INFO  | No winner found
+2022-11-09 20:01:19,998 | INFO  | Removing Tying Wayward Employers and iNdustries Together. Yay!
+2022-11-09 20:01:20,003 | INFO  | candidate
+Fishpolls                                               26.0
+Interview with the FishPire: FishBot Mock Interviews    11.0
+Better Bowl Digest                                       7.0
+Identify!                                                6.0
+Iceberg                                                  5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,003 | INFO  | No winner found
+2022-11-09 20:01:20,004 | INFO  | Removing Iceberg
+2022-11-09 20:01:20,009 | INFO  | candidate
+Fishpolls                                               26.0
+Interview with the FishPire: FishBot Mock Interviews    11.0
+Better Bowl Digest                                       7.0
+Identify!                                                6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,010 | WARNI | Winner declared: Fishpolls with 26.0
+2022-11-09 20:01:20,010 | INFO  | candidate
+Fishpolls                                               26.0
+Interview with the FishPire: FishBot Mock Interviews    11.0
+Better Bowl Digest                                       7.0
+Identify!                                                6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,011 | WARNI | Election complete: Fishpolls declared winner for Community & Conversation Award
+2022-11-09 20:01:20,011 | WARNI | Initializing election OneTeam Award
+2022-11-09 20:01:20,015 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Fishpolls                                                 1.0
+Employer "Interest" Rates                                 1.0
+Iceberg                                                   1.0
+It's a secret                                             0.0
+SentEmbed V2                                              0.0
+Better Bowl Digest                                        0.0
+Career Launchpad                                          0.0
+ShowMeTheMoney                                            0.0
+CI Template AutoDocs                                      0.0
+Identify!                                                 0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,016 | INFO  | No winner found
+2022-11-09 20:01:20,017 | INFO  | Removing CI Template AutoDocs
+2022-11-09 20:01:20,022 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Dev Metrics                                               5.0
+Hide-A-Key                                                5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Calculated Community                                      2.0
+Iceberg                                                   1.0
+Fishpolls                                                 1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+ShowMeTheMoney                                            0.0
+Better Bowl Digest                                        0.0
+Career Launchpad                                          0.0
+SentEmbed V2                                              0.0
+It's a secret                                             0.0
+Identify!                                                 0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,023 | INFO  | No winner found
+2022-11-09 20:01:20,024 | INFO  | Removing Better Bowl Digest
+2022-11-09 20:01:20,029 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Fishpolls                                                 1.0
+Employer "Interest" Rates                                 1.0
+Iceberg                                                   1.0
+It's a secret                                             0.0
+SentEmbed V2                                              0.0
+Career Launchpad                                          0.0
+ShowMeTheMoney                                            0.0
+Identify!                                                 0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,030 | INFO  | No winner found
+2022-11-09 20:01:20,031 | INFO  | Removing Identify!
+2022-11-09 20:01:20,035 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Fishpolls                                                 1.0
+Iceberg                                                   1.0
+SentEmbed V2                                              0.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+ShowMeTheMoney                                            0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,036 | INFO  | No winner found
+2022-11-09 20:01:20,037 | INFO  | Removing ShowMeTheMoney
+2022-11-09 20:01:20,041 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Fishpolls                                                 1.0
+Iceberg                                                   1.0
+SentEmbed V2                                              0.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,043 | INFO  | No winner found
+2022-11-09 20:01:20,043 | INFO  | Removing Career Launchpad
+2022-11-09 20:01:20,048 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Dev Metrics                                               5.0
+Hide-A-Key                                                5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Fishpolls                                                 1.0
+Iceberg                                                   1.0
+SentEmbed V2                                              0.0
+It's a secret                                             0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,049 | INFO  | No winner found
+2022-11-09 20:01:20,049 | INFO  | Removing SentEmbed V2
+2022-11-09 20:01:20,053 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Iceberg                                                   1.0
+Fishpolls                                                 1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+It's a secret                                             0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,054 | INFO  | No winner found
+2022-11-09 20:01:20,055 | INFO  | Removing It's a secret
+2022-11-09 20:01:20,059 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Iceberg                                                   1.0
+Fishpolls                                                 1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,060 | INFO  | No winner found
+2022-11-09 20:01:20,060 | INFO  | Removing Reviewverse: Glassdoor Reviews as Images
+2022-11-09 20:01:20,064 | INFO  | candidate
+OneTeam Award                                            19.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Iceberg                                                   1.0
+Fishpolls                                                 1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,065 | INFO  | No winner found
+2022-11-09 20:01:20,066 | INFO  | Removing Fishpolls
+2022-11-09 20:01:20,070 | INFO  | candidate
+OneTeam Award                                            20.0
+SME Finder                                               13.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Iceberg                                                   1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,071 | INFO  | No winner found
+2022-11-09 20:01:20,071 | INFO  | Removing Iceberg
+2022-11-09 20:01:20,075 | INFO  | candidate
+OneTeam Award                                            20.0
+SME Finder                                               14.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               5.0
+Mirror                                                    4.0
+Radar                                                     3.0
+NERds                                                     3.0
+Calculated Community                                      2.0
+Mo Money, Mo Problems                                     2.0
+TIGER Bot                                                 2.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Employer "Interest" Rates                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,076 | INFO  | No winner found
+2022-11-09 20:01:20,077 | INFO  | Removing Tying Wayward Employers and iNdustries Together. Yay!
+2022-11-09 20:01:20,081 | INFO  | candidate
+OneTeam Award                20.0
+SME Finder                   14.0
+Hide-A-Key                    5.0
+Dev Metrics                   5.0
+Mirror                        4.0
+Radar                         3.0
+NERds                         3.0
+Calculated Community          2.0
+Mo Money, Mo Problems         2.0
+TIGER Bot                     2.0
+Employer "Interest" Rates     1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,082 | INFO  | No winner found
+2022-11-09 20:01:20,082 | INFO  | Removing Employer "Interest" Rates
+2022-11-09 20:01:20,086 | INFO  | candidate
+OneTeam Award            20.0
+SME Finder               14.0
+Hide-A-Key                5.0
+Dev Metrics               5.0
+Mirror                    4.0
+Radar                     3.0
+NERds                     3.0
+Mo Money, Mo Problems     3.0
+Calculated Community      2.0
+TIGER Bot                 2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,087 | INFO  | No winner found
+2022-11-09 20:01:20,087 | INFO  | Removing TIGER Bot
+2022-11-09 20:01:20,091 | INFO  | candidate
+OneTeam Award            21.0
+SME Finder               15.0
+Hide-A-Key                5.0
+Dev Metrics               5.0
+Mirror                    4.0
+Radar                     3.0
+NERds                     3.0
+Mo Money, Mo Problems     3.0
+Calculated Community      2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,092 | INFO  | No winner found
+2022-11-09 20:01:20,092 | INFO  | Removing Calculated Community
+2022-11-09 20:01:20,096 | INFO  | candidate
+OneTeam Award            22.0
+SME Finder               15.0
+Hide-A-Key                5.0
+Dev Metrics               5.0
+Mirror                    4.0
+Radar                     3.0
+NERds                     3.0
+Mo Money, Mo Problems     3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,097 | INFO  | No winner found
+2022-11-09 20:01:20,097 | INFO  | Removing Radar
+2022-11-09 20:01:20,101 | INFO  | candidate
+OneTeam Award            23.0
+SME Finder               16.0
+Hide-A-Key                5.0
+Dev Metrics               5.0
+Mo Money, Mo Problems     4.0
+Mirror                    4.0
+NERds                     3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,102 | INFO  | No winner found
+2022-11-09 20:01:20,102 | INFO  | Removing NERds
+2022-11-09 20:01:20,106 | INFO  | candidate
+OneTeam Award            23.0
+SME Finder               17.0
+Mo Money, Mo Problems     6.0
+Hide-A-Key                5.0
+Dev Metrics               5.0
+Mirror                    4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,107 | INFO  | No winner found
+2022-11-09 20:01:20,108 | INFO  | Removing Mirror
+2022-11-09 20:01:20,112 | INFO  | candidate
+OneTeam Award            24.0
+SME Finder               17.0
+Mo Money, Mo Problems     6.0
+Dev Metrics               6.0
+Hide-A-Key                5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,112 | INFO  | No winner found
+2022-11-09 20:01:20,113 | INFO  | Removing Hide-A-Key
+2022-11-09 20:01:20,117 | INFO  | candidate
+OneTeam Award            26.0
+SME Finder               18.0
+Mo Money, Mo Problems     6.0
+Dev Metrics               6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,117 | INFO  | No winner found
+2022-11-09 20:01:20,118 | INFO  | Removing Dev Metrics
+2022-11-09 20:01:20,122 | INFO  | candidate
+OneTeam Award            27.0
+SME Finder               18.0
+Mo Money, Mo Problems     6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,122 | WARNI | Winner declared: OneTeam Award with 27.0
+2022-11-09 20:01:20,122 | INFO  | candidate
+OneTeam Award            27.0
+SME Finder               18.0
+Mo Money, Mo Problems     6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,123 | WARNI | Election complete: OneTeam Award declared winner for OneTeam Award
+2022-11-09 20:01:20,123 | WARNI | Initializing election I Heart Technology
+2022-11-09 20:01:20,126 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Hide-A-Key                                                5.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+SME Finder                                                2.0
+SentEmbed V2                                              1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Fishpolls                                                 1.0
+Better Bowl Digest                                        1.0
+Career Launchpad                                          0.0
+Fun Fishposts                                             0.0
+ShowMeTheMoney                                            0.0
+TIGER Bot                                                 0.0
+CI Template AutoDocs                                      0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,127 | INFO  | No winner found
+2022-11-09 20:01:20,128 | INFO  | Removing CI Template AutoDocs
+2022-11-09 20:01:20,132 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Hide-A-Key                                                5.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+SME Finder                                                2.0
+SentEmbed V2                                              1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Fishpolls                                                 1.0
+Better Bowl Digest                                        1.0
+Career Launchpad                                          0.0
+Fun Fishposts                                             0.0
+ShowMeTheMoney                                            0.0
+TIGER Bot                                                 0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,133 | INFO  | No winner found
+2022-11-09 20:01:20,134 | INFO  | Removing TIGER Bot
+2022-11-09 20:01:20,138 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Hide-A-Key                                                5.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+SME Finder                                                2.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Fishpolls                                                 1.0
+SentEmbed V2                                              1.0
+Career Launchpad                                          0.0
+Fun Fishposts                                             0.0
+ShowMeTheMoney                                            0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,139 | INFO  | No winner found
+2022-11-09 20:01:20,139 | INFO  | Removing ShowMeTheMoney
+2022-11-09 20:01:20,143 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Hide-A-Key                                                5.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+SME Finder                                                2.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Fishpolls                                                 1.0
+SentEmbed V2                                              1.0
+Career Launchpad                                          0.0
+Fun Fishposts                                             0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,144 | INFO  | No winner found
+2022-11-09 20:01:20,145 | INFO  | Removing Fun Fishposts
+2022-11-09 20:01:20,172 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Hide-A-Key                                                5.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+It's a secret                                             2.0
+Mo Money, Mo Problems                                     2.0
+SME Finder                                                2.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Fishpolls                                                 1.0
+SentEmbed V2                                              1.0
+Career Launchpad                                          0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,173 | INFO  | No winner found
+2022-11-09 20:01:20,174 | INFO  | Removing Career Launchpad
+2022-11-09 20:01:20,179 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+SME Finder                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+It's a secret                                             2.0
+SentEmbed V2                                              1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Calculated Community                                      1.0
+Fishpolls                                                 1.0
+Better Bowl Digest                                        1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,180 | INFO  | No winner found
+2022-11-09 20:01:20,180 | INFO  | Removing Calculated Community
+2022-11-09 20:01:20,184 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               4.0
+NERds                                                     3.0
+Radar                                                     3.0
+SME Finder                                                2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+It's a secret                                             2.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Employer "Interest" Rates                                 1.0
+Fishpolls                                                 1.0
+SentEmbed V2                                              1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,185 | INFO  | No winner found
+2022-11-09 20:01:20,186 | INFO  | Removing Fishpolls
+2022-11-09 20:01:20,190 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               4.0
+Radar                                                     3.0
+NERds                                                     3.0
+SME Finder                                                2.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+OneTeam Award                                             2.0
+Mo Money, Mo Problems                                     2.0
+SentEmbed V2                                              1.0
+Better Bowl Digest                                        1.0
+Employer "Interest" Rates                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,191 | INFO  | No winner found
+2022-11-09 20:01:20,191 | INFO  | Removing SentEmbed V2
+2022-11-09 20:01:20,195 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Hide-A-Key                                                5.0
+Dev Metrics                                               4.0
+Radar                                                     3.0
+NERds                                                     3.0
+SME Finder                                                2.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+OneTeam Award                                             2.0
+Mo Money, Mo Problems                                     2.0
+Better Bowl Digest                                        1.0
+Employer "Interest" Rates                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,196 | INFO  | No winner found
+2022-11-09 20:01:20,197 | INFO  | Removing Better Bowl Digest
+2022-11-09 20:01:20,201 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      5.0
+Hide-A-Key                                                5.0
+NERds                                                     4.0
+Dev Metrics                                               4.0
+Radar                                                     3.0
+SME Finder                                                2.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+OneTeam Award                                             2.0
+Mo Money, Mo Problems                                     2.0
+Employer "Interest" Rates                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,202 | INFO  | No winner found
+2022-11-09 20:01:20,202 | INFO  | Removing Employer "Interest" Rates
+2022-11-09 20:01:20,207 | INFO  | candidate
+Mirror                                                   12.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      6.0
+Hide-A-Key                                                5.0
+NERds                                                     4.0
+Dev Metrics                                               4.0
+Radar                                                     3.0
+SME Finder                                                2.0
+It's a secret                                             2.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+OneTeam Award                                             2.0
+Mo Money, Mo Problems                                     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,208 | INFO  | No winner found
+2022-11-09 20:01:20,208 | INFO  | Removing It's a secret
+2022-11-09 20:01:20,212 | INFO  | candidate
+Mirror                                                   13.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      6.0
+Hide-A-Key                                                5.0
+NERds                                                     4.0
+Dev Metrics                                               4.0
+Radar                                                     3.0
+SME Finder                                                3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+OneTeam Award                                             2.0
+Mo Money, Mo Problems                                     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,213 | INFO  | No winner found
+2022-11-09 20:01:20,213 | INFO  | Removing OneTeam Award
+2022-11-09 20:01:20,217 | INFO  | candidate
+Mirror                                                   13.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      6.0
+Hide-A-Key                                                5.0
+Radar                                                     4.0
+NERds                                                     4.0
+Dev Metrics                                               4.0
+SME Finder                                                3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Mo Money, Mo Problems                                     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,218 | INFO  | No winner found
+2022-11-09 20:01:20,219 | INFO  | Removing Mo Money, Mo Problems
+2022-11-09 20:01:20,222 | INFO  | candidate
+Mirror                                                   13.0
+Iceberg                                                  11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Interview with the FishPire: FishBot Mock Interviews      6.0
+Hide-A-Key                                                5.0
+Radar                                                     4.0
+NERds                                                     4.0
+Dev Metrics                                               4.0
+SME Finder                                                3.0
+Tying Wayward Employers and iNdustries Together. Yay!     2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,223 | INFO  | No winner found
+2022-11-09 20:01:20,224 | INFO  | Removing Tying Wayward Employers and iNdustries Together. Yay!
+2022-11-09 20:01:20,227 | INFO  | candidate
+Mirror                                                  13.0
+Iceberg                                                 11.0
+Reviewverse: Glassdoor Reviews as Images                 8.0
+Interview with the FishPire: FishBot Mock Interviews     6.0
+Hide-A-Key                                               5.0
+Radar                                                    4.0
+NERds                                                    4.0
+Dev Metrics                                              4.0
+SME Finder                                               3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,228 | INFO  | No winner found
+2022-11-09 20:01:20,229 | INFO  | Removing SME Finder
+2022-11-09 20:01:20,233 | INFO  | candidate
+Mirror                                                  13.0
+Iceberg                                                 12.0
+Reviewverse: Glassdoor Reviews as Images                 8.0
+Interview with the FishPire: FishBot Mock Interviews     6.0
+Radar                                                    5.0
+Hide-A-Key                                               5.0
+NERds                                                    5.0
+Dev Metrics                                              4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,233 | INFO  | No winner found
+2022-11-09 20:01:20,234 | INFO  | Removing Dev Metrics
+2022-11-09 20:01:20,238 | INFO  | candidate
+Mirror                                                  14.0
+Iceberg                                                 12.0
+Reviewverse: Glassdoor Reviews as Images                 8.0
+Radar                                                    7.0
+Interview with the FishPire: FishBot Mock Interviews     6.0
+Hide-A-Key                                               5.0
+NERds                                                    5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,239 | INFO  | No winner found
+2022-11-09 20:01:20,239 | INFO  | Removing NERds
+2022-11-09 20:01:20,243 | INFO  | candidate
+Mirror                                                  14.0
+Iceberg                                                 12.0
+Reviewverse: Glassdoor Reviews as Images                 9.0
+Radar                                                    7.0
+Interview with the FishPire: FishBot Mock Interviews     6.0
+Hide-A-Key                                               5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,244 | INFO  | No winner found
+2022-11-09 20:01:20,244 | INFO  | Removing Hide-A-Key
+2022-11-09 20:01:20,248 | INFO  | candidate
+Mirror                                                  14.0
+Iceberg                                                 12.0
+Reviewverse: Glassdoor Reviews as Images                10.0
+Radar                                                    8.0
+Interview with the FishPire: FishBot Mock Interviews     6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,249 | INFO  | No winner found
+2022-11-09 20:01:20,249 | INFO  | Removing Interview with the FishPire: FishBot Mock Interviews
+2022-11-09 20:01:20,253 | INFO  | candidate
+Mirror                                      15.0
+Iceberg                                     12.0
+Reviewverse: Glassdoor Reviews as Images    12.0
+Radar                                        8.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,254 | INFO  | No winner found
+2022-11-09 20:01:20,254 | INFO  | Removing Radar
+2022-11-09 20:01:20,258 | INFO  | candidate
+Mirror                                      15.0
+Reviewverse: Glassdoor Reviews as Images    14.0
+Iceberg                                     12.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,259 | INFO  | No winner found
+2022-11-09 20:01:20,259 | INFO  | Removing Iceberg
+2022-11-09 20:01:20,263 | INFO  | candidate
+Mirror                                      16.0
+Reviewverse: Glassdoor Reviews as Images    16.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,264 | INFO  | No winner found
+2022-11-09 20:01:20,264 | INFO  | Removing Mirror
+2022-11-09 20:01:20,268 | INFO  | candidate
+Reviewverse: Glassdoor Reviews as Images    18.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,269 | WARNI | Winner declared: Reviewverse: Glassdoor Reviews as Images with 18.0
+2022-11-09 20:01:20,269 | INFO  | candidate
+Reviewverse: Glassdoor Reviews as Images    18.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,269 | WARNI | Election complete: Reviewverse: Glassdoor Reviews as Images declared winner for I Heart Technology
+2022-11-09 20:01:20,269 | WARNI | Initializing election Inclusion Award
+2022-11-09 20:01:20,272 | INFO  | candidate
+Identify!                                                37.0
+OneTeam Award                                             3.0
+SME Finder                                                2.0
+Interview with the FishPire: FishBot Mock Interviews      2.0
+Iceberg                                                   2.0
+Fishpolls                                                 2.0
+ShowMeTheMoney                                            2.0
+Hide-A-Key                                                2.0
+Radar                                                     1.0
+Mirror                                                    1.0
+Mo Money, Mo Problems                                     1.0
+Calculated Community                                      1.0
+Better Bowl Digest                                        1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+NERds                                                     0.0
+Employer "Interest" Rates                                 0.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+TIGER Bot                                                 0.0
+Fun Fishposts                                             0.0
+CI Template AutoDocs                                      0.0
+Dev Metrics                                               0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,274 | WARNI | Winner declared: Identify! with 37.0
+2022-11-09 20:01:20,274 | INFO  | candidate
+Identify!                                                37.0
+OneTeam Award                                             3.0
+SME Finder                                                2.0
+Interview with the FishPire: FishBot Mock Interviews      2.0
+Iceberg                                                   2.0
+Fishpolls                                                 2.0
+ShowMeTheMoney                                            2.0
+Hide-A-Key                                                2.0
+Radar                                                     1.0
+Mirror                                                    1.0
+Mo Money, Mo Problems                                     1.0
+Calculated Community                                      1.0
+Better Bowl Digest                                        1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+NERds                                                     0.0
+Employer "Interest" Rates                                 0.0
+Career Launchpad                                          0.0
+It's a secret                                             0.0
+TIGER Bot                                                 0.0
+Fun Fishposts                                             0.0
+CI Template AutoDocs                                      0.0
+Dev Metrics                                               0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,275 | WARNI | Election complete: Identify! declared winner for Inclusion Award
+2022-11-09 20:01:20,275 | WARNI | Initializing election Ambassador of Brands
+2022-11-09 20:01:20,278 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     7.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Calculated Community                                      4.0
+Fishpolls                                                 4.0
+Hide-A-Key                                                2.0
+Mirror                                                    2.0
+NERds                                                     2.0
+Career Launchpad                                          2.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Identify!                                                 2.0
+Fun Fishposts                                             1.0
+SentEmbed V2                                              1.0
+SME Finder                                                1.0
+OneTeam Award                                             1.0
+ShowMeTheMoney                                            1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+Better Bowl Digest                                        1.0
+It's a secret                                             0.0
+Mo Money, Mo Problems                                     0.0
+TIGER Bot                                                 0.0
+CI Template AutoDocs                                      0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,279 | INFO  | No winner found
+2022-11-09 20:01:20,280 | INFO  | Removing Mo Money, Mo Problems
+2022-11-09 20:01:20,283 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     7.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Calculated Community                                      4.0
+Fishpolls                                                 4.0
+Hide-A-Key                                                2.0
+Mirror                                                    2.0
+NERds                                                     2.0
+Career Launchpad                                          2.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Identify!                                                 2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+ShowMeTheMoney                                            1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+SentEmbed V2                                              1.0
+It's a secret                                             0.0
+TIGER Bot                                                 0.0
+CI Template AutoDocs                                      0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,284 | INFO  | No winner found
+2022-11-09 20:01:20,285 | INFO  | Removing CI Template AutoDocs
+2022-11-09 20:01:20,288 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     7.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Calculated Community                                      4.0
+Fishpolls                                                 4.0
+Hide-A-Key                                                2.0
+Mirror                                                    2.0
+NERds                                                     2.0
+Career Launchpad                                          2.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Identify!                                                 2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+ShowMeTheMoney                                            1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+SentEmbed V2                                              1.0
+It's a secret                                             0.0
+TIGER Bot                                                 0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,290 | INFO  | No winner found
+2022-11-09 20:01:20,290 | INFO  | Removing TIGER Bot
+2022-11-09 20:01:20,294 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     7.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+Identify!                                                 2.0
+Mirror                                                    2.0
+Career Launchpad                                          2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+SentEmbed V2                                              1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+ShowMeTheMoney                                            1.0
+It's a secret                                             0.0
+Dev Metrics                                               0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,295 | INFO  | No winner found
+2022-11-09 20:01:20,295 | INFO  | Removing Dev Metrics
+2022-11-09 20:01:20,299 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     7.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+Identify!                                                 2.0
+Mirror                                                    2.0
+Career Launchpad                                          2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+SentEmbed V2                                              1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+ShowMeTheMoney                                            1.0
+It's a secret                                             0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,300 | INFO  | No winner found
+2022-11-09 20:01:20,300 | INFO  | Removing It's a secret
+2022-11-09 20:01:20,304 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     7.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+Identify!                                                 2.0
+Mirror                                                    2.0
+Career Launchpad                                          2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+SentEmbed V2                                              1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+ShowMeTheMoney                                            1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,305 | INFO  | No winner found
+2022-11-09 20:01:20,305 | INFO  | Removing SentEmbed V2
+2022-11-09 20:01:20,308 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Iceberg                                                   2.0
+Jobs Home Refresh                                         2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+Identify!                                                 2.0
+Mirror                                                    2.0
+Career Launchpad                                          2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Interview with the FishPire: FishBot Mock Interviews      1.0
+ShowMeTheMoney                                            1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,309 | INFO  | No winner found
+2022-11-09 20:01:20,310 | INFO  | Removing Interview with the FishPire: FishBot Mock Interviews
+2022-11-09 20:01:20,313 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Identify!                                                 3.0
+Iceberg                                                   2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+Jobs Home Refresh                                         2.0
+Mirror                                                    2.0
+Career Launchpad                                          2.0
+Fun Fishposts                                             1.0
+SME Finder                                                1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+ShowMeTheMoney                                            1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,314 | INFO  | No winner found
+2022-11-09 20:01:20,314 | INFO  | Removing Fun Fishposts
+2022-11-09 20:01:20,317 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Identify!                                                 3.0
+Career Launchpad                                          2.0
+Jobs Home Refresh                                         2.0
+Iceberg                                                   2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+OneTeam Award                                             2.0
+Mirror                                                    2.0
+SME Finder                                                1.0
+Better Bowl Digest                                        1.0
+ShowMeTheMoney                                            1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,318 | INFO  | No winner found
+2022-11-09 20:01:20,319 | INFO  | Removing ShowMeTheMoney
+2022-11-09 20:01:20,322 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Identify!                                                 3.0
+Career Launchpad                                          2.0
+Jobs Home Refresh                                         2.0
+Iceberg                                                   2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+OneTeam Award                                             2.0
+Mirror                                                    2.0
+SME Finder                                                1.0
+Better Bowl Digest                                        1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,323 | INFO  | No winner found
+2022-11-09 20:01:20,323 | INFO  | Removing SME Finder
+2022-11-09 20:01:20,327 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Identify!                                                 3.0
+Iceberg                                                   3.0
+Career Launchpad                                          2.0
+Jobs Home Refresh                                         2.0
+Hide-A-Key                                                2.0
+NERds                                                     2.0
+OneTeam Award                                             2.0
+Mirror                                                    2.0
+Better Bowl Digest                                        1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,328 | INFO  | No winner found
+2022-11-09 20:01:20,328 | INFO  | Removing Better Bowl Digest
+2022-11-09 20:01:20,332 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Reviewverse: Glassdoor Reviews as Images                  4.0
+Identify!                                                 3.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Career Launchpad                                          2.0
+Jobs Home Refresh                                         2.0
+NERds                                                     2.0
+OneTeam Award                                             2.0
+Mirror                                                    2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,333 | INFO  | No winner found
+2022-11-09 20:01:20,333 | INFO  | Removing Jobs Home Refresh
+2022-11-09 20:01:20,337 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Reviewverse: Glassdoor Reviews as Images                  5.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Identify!                                                 3.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Career Launchpad                                          2.0
+NERds                                                     2.0
+OneTeam Award                                             2.0
+Mirror                                                    2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,338 | INFO  | No winner found
+2022-11-09 20:01:20,339 | INFO  | Removing Mirror
+2022-11-09 20:01:20,342 | INFO  | candidate
+Employer "Interest" Rates                                13.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Reviewverse: Glassdoor Reviews as Images                  5.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Identify!                                                 3.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Career Launchpad                                          2.0
+NERds                                                     2.0
+OneTeam Award                                             2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,343 | INFO  | No winner found
+2022-11-09 20:01:20,344 | INFO  | Removing NERds
+2022-11-09 20:01:20,348 | INFO  | candidate
+Employer "Interest" Rates                                15.0
+Tying Wayward Employers and iNdustries Together. Yay!     8.0
+Reviewverse: Glassdoor Reviews as Images                  5.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Identify!                                                 3.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Career Launchpad                                          2.0
+OneTeam Award                                             2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,349 | INFO  | No winner found
+2022-11-09 20:01:20,349 | INFO  | Removing OneTeam Award
+2022-11-09 20:01:20,353 | INFO  | candidate
+Employer "Interest" Rates                                15.0
+Tying Wayward Employers and iNdustries Together. Yay!     9.0
+Reviewverse: Glassdoor Reviews as Images                  6.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Identify!                                                 3.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Career Launchpad                                          2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,354 | INFO  | No winner found
+2022-11-09 20:01:20,354 | INFO  | Removing Career Launchpad
+2022-11-09 20:01:20,358 | INFO  | candidate
+Employer "Interest" Rates                                15.0
+Tying Wayward Employers and iNdustries Together. Yay!     9.0
+Reviewverse: Glassdoor Reviews as Images                  6.0
+Identify!                                                 4.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,358 | INFO  | No winner found
+2022-11-09 20:01:20,359 | INFO  | Removing Iceberg
+2022-11-09 20:01:20,362 | INFO  | candidate
+Employer "Interest" Rates                                15.0
+Tying Wayward Employers and iNdustries Together. Yay!     9.0
+Reviewverse: Glassdoor Reviews as Images                  6.0
+Identify!                                                 4.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Hide-A-Key                                                3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,363 | INFO  | No winner found
+2022-11-09 20:01:20,363 | INFO  | Removing Hide-A-Key
+2022-11-09 20:01:20,366 | INFO  | candidate
+Employer "Interest" Rates                                15.0
+Tying Wayward Employers and iNdustries Together. Yay!     9.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Identify!                                                 4.0
+Fishpolls                                                 4.0
+Calculated Community                                      4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,367 | INFO  | No winner found
+2022-11-09 20:01:20,367 | INFO  | Removing Fishpolls
+2022-11-09 20:01:20,370 | INFO  | candidate
+Employer "Interest" Rates                                15.0
+Tying Wayward Employers and iNdustries Together. Yay!    11.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Identify!                                                 4.0
+Calculated Community                                      4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,371 | INFO  | No winner found
+2022-11-09 20:01:20,372 | INFO  | Removing Identify!
+2022-11-09 20:01:20,375 | INFO  | candidate
+Employer "Interest" Rates                                16.0
+Tying Wayward Employers and iNdustries Together. Yay!    11.0
+Reviewverse: Glassdoor Reviews as Images                  8.0
+Calculated Community                                      4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,376 | INFO  | No winner found
+2022-11-09 20:01:20,376 | INFO  | Removing Calculated Community
+2022-11-09 20:01:20,379 | INFO  | candidate
+Employer "Interest" Rates                                18.0
+Tying Wayward Employers and iNdustries Together. Yay!    11.0
+Reviewverse: Glassdoor Reviews as Images                  9.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,380 | INFO  | No winner found
+2022-11-09 20:01:20,380 | INFO  | Removing Reviewverse: Glassdoor Reviews as Images
+2022-11-09 20:01:20,384 | INFO  | candidate
+Employer "Interest" Rates                                22.0
+Tying Wayward Employers and iNdustries Together. Yay!    11.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,384 | WARNI | Winner declared: Employer "Interest" Rates with 22.0
+2022-11-09 20:01:20,385 | INFO  | candidate
+Employer "Interest" Rates                                22.0
+Tying Wayward Employers and iNdustries Together. Yay!    11.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,385 | WARNI | Election complete: Employer "Interest" Rates declared winner for Ambassador of Brands
+2022-11-09 20:01:20,385 | WARNI | Initializing election Core Strength Award
+2022-11-09 20:01:20,387 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Jobs Home Refresh                                         4.0
+Career Launchpad                                          4.0
+Employer "Interest" Rates                                 3.0
+Fishpolls                                                 3.0
+Hide-A-Key                                                3.0
+Iceberg                                                   2.0
+Radar                                                     1.0
+Dev Metrics                                               1.0
+Mirror                                                    1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+OneTeam Award                                             1.0
+Better Bowl Digest                                        1.0
+Identify!                                                 1.0
+SME Finder                                                1.0
+It's a secret                                             0.0
+Fun Fishposts                                             0.0
+CI Template AutoDocs                                      0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,388 | INFO  | No winner found
+2022-11-09 20:01:20,389 | INFO  | Removing CI Template AutoDocs
+2022-11-09 20:01:20,392 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Jobs Home Refresh                                         4.0
+Career Launchpad                                          4.0
+Hide-A-Key                                                3.0
+Fishpolls                                                 3.0
+Employer "Interest" Rates                                 3.0
+Iceberg                                                   2.0
+OneTeam Award                                             1.0
+Dev Metrics                                               1.0
+Mirror                                                    1.0
+Radar                                                     1.0
+Better Bowl Digest                                        1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Identify!                                                 1.0
+SME Finder                                                1.0
+It's a secret                                             0.0
+Fun Fishposts                                             0.0
+Reviewverse: Glassdoor Reviews as Images                  0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,393 | INFO  | No winner found
+2022-11-09 20:01:20,394 | INFO  | Removing Reviewverse: Glassdoor Reviews as Images
+2022-11-09 20:01:20,397 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Jobs Home Refresh                                         4.0
+Career Launchpad                                          4.0
+Hide-A-Key                                                3.0
+Fishpolls                                                 3.0
+Employer "Interest" Rates                                 3.0
+Iceberg                                                   2.0
+OneTeam Award                                             1.0
+Mirror                                                    1.0
+Radar                                                     1.0
+Better Bowl Digest                                        1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Identify!                                                 1.0
+SME Finder                                                1.0
+Dev Metrics                                               1.0
+It's a secret                                             0.0
+Fun Fishposts                                             0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,398 | INFO  | No winner found
+2022-11-09 20:01:20,398 | INFO  | Removing It's a secret
+2022-11-09 20:01:20,401 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Jobs Home Refresh                                         4.0
+Career Launchpad                                          4.0
+Hide-A-Key                                                3.0
+Fishpolls                                                 3.0
+Employer "Interest" Rates                                 3.0
+Iceberg                                                   2.0
+OneTeam Award                                             1.0
+Mirror                                                    1.0
+Radar                                                     1.0
+Better Bowl Digest                                        1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Identify!                                                 1.0
+SME Finder                                                1.0
+Dev Metrics                                               1.0
+Fun Fishposts                                             0.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,402 | INFO  | No winner found
+2022-11-09 20:01:20,403 | INFO  | Removing Fun Fishposts
+2022-11-09 20:01:20,406 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Jobs Home Refresh                                         4.0
+Career Launchpad                                          4.0
+Employer "Interest" Rates                                 3.0
+Fishpolls                                                 3.0
+Hide-A-Key                                                3.0
+Iceberg                                                   2.0
+Radar                                                     1.0
+Mirror                                                    1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+OneTeam Award                                             1.0
+Better Bowl Digest                                        1.0
+Identify!                                                 1.0
+SME Finder                                                1.0
+Dev Metrics                                               1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,407 | INFO  | No winner found
+2022-11-09 20:01:20,408 | INFO  | Removing SME Finder
+2022-11-09 20:01:20,411 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Jobs Home Refresh                                         4.0
+Career Launchpad                                          4.0
+Iceberg                                                   3.0
+Fishpolls                                                 3.0
+Hide-A-Key                                                3.0
+Employer "Interest" Rates                                 3.0
+Radar                                                     1.0
+Mirror                                                    1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+OneTeam Award                                             1.0
+Better Bowl Digest                                        1.0
+Identify!                                                 1.0
+Dev Metrics                                               1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,412 | INFO  | No winner found
+2022-11-09 20:01:20,412 | INFO  | Removing Identify!
+2022-11-09 20:01:20,415 | INFO  | candidate
+Mo Money, Mo Problems                                    12.0
+Interview with the FishPire: FishBot Mock Interviews     10.0
+Calculated Community                                      8.0
+ShowMeTheMoney                                            5.0
+Career Launchpad                                          4.0
+Jobs Home Refresh                                         4.0
+Fishpolls                                                 4.0
+Iceberg                                                   3.0
+Hide-A-Key                                                3.0
+Employer "Interest" Rates                                 3.0
+Radar                                                     1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Better Bowl Digest                                        1.0
+OneTeam Award                                             1.0
+Mirror                                                    1.0
+Dev Metrics                                               1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,416 | INFO  | No winner found
+2022-11-09 20:01:20,417 | INFO  | Removing Tying Wayward Employers and iNdustries Together. Yay!
+2022-11-09 20:01:20,420 | INFO  | candidate
+Mo Money, Mo Problems                                   12.0
+Interview with the FishPire: FishBot Mock Interviews    10.0
+Calculated Community                                     8.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Fishpolls                                                4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Employer "Interest" Rates                                3.0
+Radar                                                    1.0
+Better Bowl Digest                                       1.0
+OneTeam Award                                            1.0
+Mirror                                                   1.0
+Dev Metrics                                              1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,421 | INFO  | No winner found
+2022-11-09 20:01:20,421 | INFO  | Removing Better Bowl Digest
+2022-11-09 20:01:20,425 | INFO  | candidate
+Mo Money, Mo Problems                                   12.0
+Interview with the FishPire: FishBot Mock Interviews    10.0
+Calculated Community                                     9.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Fishpolls                                                4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Employer "Interest" Rates                                3.0
+Radar                                                    1.0
+OneTeam Award                                            1.0
+Mirror                                                   1.0
+Dev Metrics                                              1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,426 | INFO  | No winner found
+2022-11-09 20:01:20,427 | INFO  | Removing OneTeam Award
+2022-11-09 20:01:20,430 | INFO  | candidate
+Mo Money, Mo Problems                                   12.0
+Interview with the FishPire: FishBot Mock Interviews    11.0
+Calculated Community                                     9.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Fishpolls                                                4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Employer "Interest" Rates                                3.0
+Radar                                                    1.0
+Mirror                                                   1.0
+Dev Metrics                                              1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,432 | INFO  | No winner found
+2022-11-09 20:01:20,432 | INFO  | Removing Radar
+2022-11-09 20:01:20,436 | INFO  | candidate
+Interview with the FishPire: FishBot Mock Interviews    12.0
+Mo Money, Mo Problems                                   12.0
+Calculated Community                                     9.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Fishpolls                                                4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Employer "Interest" Rates                                3.0
+Mirror                                                   1.0
+Dev Metrics                                              1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,438 | INFO  | No winner found
+2022-11-09 20:01:20,438 | INFO  | Removing Mirror
+2022-11-09 20:01:20,445 | INFO  | candidate
+Interview with the FishPire: FishBot Mock Interviews    12.0
+Mo Money, Mo Problems                                   12.0
+Calculated Community                                     9.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Fishpolls                                                4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Employer "Interest" Rates                                3.0
+Dev Metrics                                              1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,445 | INFO  | No winner found
+2022-11-09 20:01:20,446 | INFO  | Removing Dev Metrics
+2022-11-09 20:01:20,449 | INFO  | candidate
+Interview with the FishPire: FishBot Mock Interviews    12.0
+Mo Money, Mo Problems                                   12.0
+Calculated Community                                     9.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Fishpolls                                                4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Employer "Interest" Rates                                3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,450 | INFO  | No winner found
+2022-11-09 20:01:20,451 | INFO  | Removing Employer "Interest" Rates
+2022-11-09 20:01:20,455 | INFO  | candidate
+Mo Money, Mo Problems                                   13.0
+Interview with the FishPire: FishBot Mock Interviews    12.0
+Calculated Community                                     9.0
+Jobs Home Refresh                                        5.0
+Fishpolls                                                5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Iceberg                                                  3.0
+Hide-A-Key                                               3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,456 | INFO  | No winner found
+2022-11-09 20:01:20,456 | INFO  | Removing Iceberg
+2022-11-09 20:01:20,460 | INFO  | candidate
+Mo Money, Mo Problems                                   13.0
+Interview with the FishPire: FishBot Mock Interviews    12.0
+Calculated Community                                    10.0
+Jobs Home Refresh                                        5.0
+Fishpolls                                                5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Hide-A-Key                                               3.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,461 | INFO  | No winner found
+2022-11-09 20:01:20,461 | INFO  | Removing Hide-A-Key
+2022-11-09 20:01:20,465 | INFO  | candidate
+Mo Money, Mo Problems                                   13.0
+Interview with the FishPire: FishBot Mock Interviews    12.0
+Calculated Community                                    11.0
+Jobs Home Refresh                                        5.0
+Fishpolls                                                5.0
+ShowMeTheMoney                                           5.0
+Career Launchpad                                         4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,466 | INFO  | No winner found
+2022-11-09 20:01:20,466 | INFO  | Removing Career Launchpad
+2022-11-09 20:01:20,470 | INFO  | candidate
+Mo Money, Mo Problems                                   14.0
+Interview with the FishPire: FishBot Mock Interviews    13.0
+Calculated Community                                    12.0
+Jobs Home Refresh                                        5.0
+Fishpolls                                                5.0
+ShowMeTheMoney                                           5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,471 | INFO  | No winner found
+2022-11-09 20:01:20,471 | INFO  | Removing Fishpolls
+2022-11-09 20:01:20,475 | INFO  | candidate
+Mo Money, Mo Problems                                   15.0
+Interview with the FishPire: FishBot Mock Interviews    13.0
+Calculated Community                                    13.0
+Jobs Home Refresh                                        5.0
+ShowMeTheMoney                                           5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,476 | INFO  | No winner found
+2022-11-09 20:01:20,476 | INFO  | Removing Jobs Home Refresh
+2022-11-09 20:01:20,480 | INFO  | candidate
+Mo Money, Mo Problems                                   17.0
+Calculated Community                                    14.0
+Interview with the FishPire: FishBot Mock Interviews    13.0
+ShowMeTheMoney                                           5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,481 | INFO  | No winner found
+2022-11-09 20:01:20,481 | INFO  | Removing ShowMeTheMoney
+2022-11-09 20:01:20,484 | INFO  | candidate
+Mo Money, Mo Problems                                   21.0
+Calculated Community                                    15.0
+Interview with the FishPire: FishBot Mock Interviews    13.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,485 | INFO  | No winner found
+2022-11-09 20:01:20,485 | INFO  | Removing Interview with the FishPire: FishBot Mock Interviews
+2022-11-09 20:01:20,490 | INFO  | candidate
+Mo Money, Mo Problems    23.0
+Calculated Community     17.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,492 | WARNI | Winner declared: Mo Money, Mo Problems with 23.0
+2022-11-09 20:01:20,492 | INFO  | candidate
+Mo Money, Mo Problems    23.0
+Calculated Community     17.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,492 | WARNI | Election complete: Mo Money, Mo Problems declared winner for Core Strength Award
+2022-11-09 20:01:20,492 | WARNI | Initializing election OK Zoomer!
+2022-11-09 20:01:20,495 | INFO  | candidate
+Fishpolls                                                13.0
+Mirror                                                    8.0
+Reviewverse: Glassdoor Reviews as Images                  7.0
+Iceberg                                                   6.0
+NERds                                                     5.0
+Interview with the FishPire: FishBot Mock Interviews      4.0
+Radar                                                     2.0
+Hide-A-Key                                                2.0
+OneTeam Award                                             2.0
+Dev Metrics                                               2.0
+Career Launchpad                                          1.0
+Tying Wayward Employers and iNdustries Together. Yay!     1.0
+Calculated Community                                      1.0
+TIGER Bot                                                 1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,496 | INFO  | No winner found
+2022-11-09 20:01:20,497 | INFO  | Removing Tying Wayward Employers and iNdustries Together. Yay!
+2022-11-09 20:01:20,500 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Radar                                                    2.0
+Hide-A-Key                                               2.0
+OneTeam Award                                            2.0
+Dev Metrics                                              2.0
+Career Launchpad                                         1.0
+Calculated Community                                     1.0
+TIGER Bot                                                1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,501 | INFO  | No winner found
+2022-11-09 20:01:20,502 | INFO  | Removing Career Launchpad
+2022-11-09 20:01:20,506 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Radar                                                    2.0
+Hide-A-Key                                               2.0
+OneTeam Award                                            2.0
+Dev Metrics                                              2.0
+Calculated Community                                     1.0
+TIGER Bot                                                1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,507 | INFO  | No winner found
+2022-11-09 20:01:20,507 | INFO  | Removing Calculated Community
+2022-11-09 20:01:20,511 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Radar                                                    2.0
+Hide-A-Key                                               2.0
+OneTeam Award                                            2.0
+Dev Metrics                                              2.0
+TIGER Bot                                                1.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,512 | INFO  | No winner found
+2022-11-09 20:01:20,512 | INFO  | Removing TIGER Bot
+2022-11-09 20:01:20,516 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Radar                                                    2.0
+Hide-A-Key                                               2.0
+OneTeam Award                                            2.0
+Dev Metrics                                              2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,517 | INFO  | No winner found
+2022-11-09 20:01:20,518 | INFO  | Removing OneTeam Award
+2022-11-09 20:01:20,522 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Radar                                                    2.0
+Hide-A-Key                                               2.0
+Dev Metrics                                              2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,522 | INFO  | No winner found
+2022-11-09 20:01:20,523 | INFO  | Removing Dev Metrics
+2022-11-09 20:01:20,527 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Radar                                                    2.0
+Hide-A-Key                                               2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,527 | INFO  | No winner found
+2022-11-09 20:01:20,528 | INFO  | Removing Radar
+2022-11-09 20:01:20,532 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Hide-A-Key                                               2.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,532 | INFO  | No winner found
+2022-11-09 20:01:20,533 | INFO  | Removing Hide-A-Key
+2022-11-09 20:01:20,537 | INFO  | candidate
+Fishpolls                                               13.0
+Mirror                                                   8.0
+Reviewverse: Glassdoor Reviews as Images                 7.0
+Iceberg                                                  6.0
+NERds                                                    5.0
+Interview with the FishPire: FishBot Mock Interviews     4.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,538 | INFO  | No winner found
+2022-11-09 20:01:20,538 | INFO  | Removing Interview with the FishPire: FishBot Mock Interviews
+2022-11-09 20:01:20,542 | INFO  | candidate
+Fishpolls                                   13.0
+Mirror                                       8.0
+Reviewverse: Glassdoor Reviews as Images     7.0
+Iceberg                                      6.0
+NERds                                        5.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,543 | INFO  | No winner found
+2022-11-09 20:01:20,543 | INFO  | Removing NERds
+2022-11-09 20:01:20,547 | INFO  | candidate
+Fishpolls                                   13.0
+Mirror                                       8.0
+Reviewverse: Glassdoor Reviews as Images     7.0
+Iceberg                                      6.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,547 | INFO  | No winner found
+2022-11-09 20:01:20,548 | INFO  | Removing Iceberg
+2022-11-09 20:01:20,551 | INFO  | candidate
+Fishpolls                                   13.0
+Mirror                                       8.0
+Reviewverse: Glassdoor Reviews as Images     7.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,552 | INFO  | No winner found
+2022-11-09 20:01:20,552 | INFO  | Removing Reviewverse: Glassdoor Reviews as Images
+2022-11-09 20:01:20,555 | INFO  | candidate
+Fishpolls    13.0
+Mirror        8.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,556 | WARNI | Winner declared: Fishpolls with 13.0
+2022-11-09 20:01:20,556 | INFO  | candidate
+Fishpolls    13.0
+Mirror        8.0
+Name: respondent_id, dtype: float64
+2022-11-09 20:01:20,556 | WARNI | Election complete: Fishpolls declared winner for OK Zoomer!

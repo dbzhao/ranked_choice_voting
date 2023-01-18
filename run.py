@@ -31,13 +31,13 @@ def main(args):
         logger.warning('Initializing election {}'.format(election))
         winner = run_election(votes[votes['election']==election])
         logger.warning('Election complete: {winner} declared winner for {election}'.format(winner=winner,election=election))
-        
+
     return
 
 # The parser is only called if this script is called as a script/executable (via command line) but not when imported by another script
 if __name__=='__main__':
     if len(sys.argv) < 2:
-        print "You haven't specified any arguments. Use -h to get more details on how to use this command."
+        print("You haven't specified any arguments. Use -h to get more details on how to use this command.")
         sys.exit(1)
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter,
                                      description="""
@@ -57,8 +57,7 @@ if __name__=='__main__':
 
     logging.basicConfig(level=level,
                         filename='election_log_{}.log'.format(datetime.today().strftime('%Y%m%d_%H%M%S')),
-                        format="%(asctime)s | %(levelname)-5.5s | %(message)s",
-                        handlers=logging.StreamHandler())
+                        format="%(asctime)s | %(levelname)-5.5s | %(message)s")
 
     logger = logging.getLogger()
 

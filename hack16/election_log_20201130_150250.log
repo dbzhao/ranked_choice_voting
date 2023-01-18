@@ -1,0 +1,1706 @@
+2020-11-30 15:02:50,145 | WARNI | Initializing election I <3 Engineering
+2020-11-30 15:02:50,158 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+Tired of Bad Integration Tests      4.0
+InstaMod                            4.0
+GD Indeed Admin                     4.0
+Interesting Interview Questions     3.0
+WordClouds                          3.0
+Pearl; The Glassdoor Landlord       3.0
+WordsMatter                         2.0
+Live Mod Dashboard                  2.0
+Jobs Sonar                          1.0
+Fortune Teller                      1.0
+Roots Dark Mode                     1.0
+Glassdoor Company Index             0.0
+Diversity... Revealed!              0.0
+GD 4 Vets                           0.0
+Ask and You Shall Receive           0.0
+Touch Of Grey                       0.0
+Uid0-ops                            0.0
+GA Cleanup Crew                     0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,160 | INFO  | No winner found
+2020-11-30 15:02:50,163 | INFO  | Removing Uid0-ops
+2020-11-30 15:02:50,176 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+GD Indeed Admin                     4.0
+Pearl; The Glassdoor Landlord       3.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Roots Dark Mode                     1.0
+Fortune Teller                      1.0
+Jobs Sonar                          1.0
+GA Cleanup Crew                     0.0
+GD 4 Vets                           0.0
+Diversity... Revealed!              0.0
+Ask and You Shall Receive           0.0
+Touch Of Grey                       0.0
+Glassdoor Company Index             0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,177 | INFO  | No winner found
+2020-11-30 15:02:50,177 | INFO  | Removing Ask and You Shall Receive
+2020-11-30 15:02:50,183 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+Tired of Bad Integration Tests      4.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Pearl; The Glassdoor Landlord       3.0
+Interesting Interview Questions     3.0
+WordClouds                          3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Roots Dark Mode                     1.0
+Fortune Teller                      1.0
+Jobs Sonar                          1.0
+GA Cleanup Crew                     0.0
+GD 4 Vets                           0.0
+Diversity... Revealed!              0.0
+Touch Of Grey                       0.0
+Glassdoor Company Index             0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,184 | INFO  | No winner found
+2020-11-30 15:02:50,185 | INFO  | Removing GD 4 Vets
+2020-11-30 15:02:50,191 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+WordClouds                          3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Roots Dark Mode                     1.0
+Fortune Teller                      1.0
+Jobs Sonar                          1.0
+Touch Of Grey                       0.0
+Glassdoor Company Index             0.0
+Diversity... Revealed!              0.0
+GA Cleanup Crew                     0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,192 | INFO  | No winner found
+2020-11-30 15:02:50,192 | INFO  | Removing Diversity... Revealed!
+2020-11-30 15:02:50,198 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+Interesting Interview Questions     3.0
+WordClouds                          3.0
+Pearl; The Glassdoor Landlord       3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Roots Dark Mode                     1.0
+Fortune Teller                      1.0
+Jobs Sonar                          1.0
+Touch Of Grey                       0.0
+Glassdoor Company Index             0.0
+GA Cleanup Crew                     0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,199 | INFO  | No winner found
+2020-11-30 15:02:50,199 | INFO  | Removing Glassdoor Company Index
+2020-11-30 15:02:50,205 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+Interesting Interview Questions     3.0
+WordClouds                          3.0
+Pearl; The Glassdoor Landlord       3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Roots Dark Mode                     1.0
+Fortune Teller                      1.0
+Jobs Sonar                          1.0
+Touch Of Grey                       0.0
+GA Cleanup Crew                     0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,206 | INFO  | No winner found
+2020-11-30 15:02:50,206 | INFO  | Removing GA Cleanup Crew
+2020-11-30 15:02:50,212 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+WordClouds                          3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Fortune Teller                      1.0
+Jobs Sonar                          1.0
+Roots Dark Mode                     1.0
+Touch Of Grey                       0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,213 | INFO  | No winner found
+2020-11-30 15:02:50,213 | INFO  | Removing Touch Of Grey
+2020-11-30 15:02:50,219 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               10.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Fortune Teller                      1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,220 | INFO  | No winner found
+2020-11-30 15:02:50,220 | INFO  | Removing Jobs Sonar
+2020-11-30 15:02:50,225 | INFO  | candidate
+Career Connections                 11.0
+Dark Mode                          11.0
+KITT                               11.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Fortune Teller                      1.0
+Roots Dark Mode                     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,226 | INFO  | No winner found
+2020-11-30 15:02:50,226 | INFO  | Removing Roots Dark Mode
+2020-11-30 15:02:50,231 | INFO  | candidate
+Dark Mode                          12.0
+Career Connections                 11.0
+KITT                               11.0
+GlassView                           6.0
+Classdoor                           5.0
+GD Indeed Admin                     4.0
+InstaMod                            4.0
+Tired of Bad Integration Tests      4.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Fortune Teller                      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,232 | INFO  | No winner found
+2020-11-30 15:02:50,232 | INFO  | Removing Fortune Teller
+2020-11-30 15:02:50,238 | INFO  | candidate
+Dark Mode                          12.0
+Career Connections                 11.0
+KITT                               11.0
+GlassView                           6.0
+Classdoor                           5.0
+InstaMod                            5.0
+GD Indeed Admin                     4.0
+Tired of Bad Integration Tests      4.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+Live Mod Dashboard                  2.0
+WordsMatter                         2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,238 | INFO  | No winner found
+2020-11-30 15:02:50,239 | INFO  | Removing Live Mod Dashboard
+2020-11-30 15:02:50,244 | INFO  | candidate
+Dark Mode                          12.0
+Career Connections                 11.0
+KITT                               11.0
+Tired of Bad Integration Tests      6.0
+GlassView                           6.0
+Classdoor                           5.0
+InstaMod                            5.0
+GD Indeed Admin                     4.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+WordsMatter                         2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,245 | INFO  | No winner found
+2020-11-30 15:02:50,245 | INFO  | Removing WordsMatter
+2020-11-30 15:02:50,250 | INFO  | candidate
+Dark Mode                          12.0
+KITT                               12.0
+Career Connections                 11.0
+Tired of Bad Integration Tests      7.0
+GlassView                           6.0
+Classdoor                           5.0
+InstaMod                            5.0
+GD Indeed Admin                     4.0
+WordClouds                          3.0
+Interesting Interview Questions     3.0
+Pearl; The Glassdoor Landlord       3.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,251 | INFO  | No winner found
+2020-11-30 15:02:50,251 | INFO  | Removing WordClouds
+2020-11-30 15:02:50,257 | INFO  | candidate
+KITT                               13.0
+Dark Mode                          12.0
+Career Connections                 11.0
+Tired of Bad Integration Tests      7.0
+Classdoor                           6.0
+GlassView                           6.0
+InstaMod                            5.0
+Interesting Interview Questions     4.0
+GD Indeed Admin                     4.0
+Pearl; The Glassdoor Landlord       3.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,257 | INFO  | No winner found
+2020-11-30 15:02:50,258 | INFO  | Removing Pearl; The Glassdoor Landlord
+2020-11-30 15:02:50,264 | INFO  | candidate
+KITT                               13.0
+Career Connections                 12.0
+Dark Mode                          12.0
+Tired of Bad Integration Tests      7.0
+Classdoor                           6.0
+GlassView                           6.0
+GD Indeed Admin                     5.0
+InstaMod                            5.0
+Interesting Interview Questions     4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,265 | INFO  | No winner found
+2020-11-30 15:02:50,265 | INFO  | Removing Interesting Interview Questions
+2020-11-30 15:02:50,270 | INFO  | candidate
+Dark Mode                         13.0
+KITT                              13.0
+Career Connections                12.0
+Tired of Bad Integration Tests     7.0
+GlassView                          7.0
+Classdoor                          6.0
+GD Indeed Admin                    5.0
+InstaMod                           5.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,271 | INFO  | No winner found
+2020-11-30 15:02:50,271 | INFO  | Removing GD Indeed Admin
+2020-11-30 15:02:50,276 | INFO  | candidate
+Dark Mode                         13.0
+KITT                              13.0
+Career Connections                12.0
+Tired of Bad Integration Tests     8.0
+GlassView                          8.0
+Classdoor                          6.0
+InstaMod                           5.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,277 | INFO  | No winner found
+2020-11-30 15:02:50,277 | INFO  | Removing InstaMod
+2020-11-30 15:02:50,282 | INFO  | candidate
+KITT                              14.0
+Career Connections                13.0
+Dark Mode                         13.0
+Classdoor                          8.0
+Tired of Bad Integration Tests     8.0
+GlassView                          8.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,283 | INFO  | No winner found
+2020-11-30 15:02:50,283 | INFO  | Removing Tired of Bad Integration Tests
+2020-11-30 15:02:50,288 | INFO  | candidate
+KITT                  16.0
+Career Connections    13.0
+Dark Mode             13.0
+GlassView              9.0
+Classdoor              8.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,289 | INFO  | No winner found
+2020-11-30 15:02:50,289 | INFO  | Removing Classdoor
+2020-11-30 15:02:50,294 | INFO  | candidate
+KITT                  16.0
+Career Connections    15.0
+Dark Mode             13.0
+GlassView             10.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,295 | INFO  | No winner found
+2020-11-30 15:02:50,295 | INFO  | Removing GlassView
+2020-11-30 15:02:50,300 | INFO  | candidate
+KITT                  19.0
+Career Connections    17.0
+Dark Mode             13.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,301 | INFO  | No winner found
+2020-11-30 15:02:50,301 | INFO  | Removing Dark Mode
+2020-11-30 15:02:50,306 | INFO  | candidate
+KITT                  24.0
+Career Connections    18.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,307 | WARNI | Winner declared: KITT with 24.0
+2020-11-30 15:02:50,307 | INFO  | candidate
+KITT                  24.0
+Career Connections    18.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,308 | WARNI | Election complete: KITT declared winner for I <3 Engineering
+2020-11-30 15:02:50,308 | WARNI | Initializing election Ambassador of Br
+2020-11-30 15:02:50,311 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Glassdoor Company Index             4.0
+Pearl; The Glassdoor Landlord       4.0
+InstaMod                            3.0
+Fortune Teller                      3.0
+GD 4 Vets                           2.0
+Jobs Sonar                          1.0
+Tired of Bad Integration Tests      1.0
+Roots Dark Mode                     1.0
+Ask and You Shall Receive           1.0
+Interesting Interview Questions     1.0
+Live Mod Dashboard                  0.0
+WordsMatter                         0.0
+GD Indeed Admin                     0.0
+Uid0-ops                            0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,312 | INFO  | No winner found
+2020-11-30 15:02:50,312 | INFO  | Removing Uid0-ops
+2020-11-30 15:02:50,319 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+Classdoor                           6.0
+WordClouds                          6.0
+Dark Mode                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Ask and You Shall Receive           1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Interesting Interview Questions     1.0
+Tired of Bad Integration Tests      1.0
+Live Mod Dashboard                  0.0
+WordsMatter                         0.0
+GD Indeed Admin                     0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,320 | INFO  | No winner found
+2020-11-30 15:02:50,320 | INFO  | Removing Live Mod Dashboard
+2020-11-30 15:02:50,327 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+Dark Mode                           6.0
+WordClouds                          6.0
+Classdoor                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Ask and You Shall Receive           1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Interesting Interview Questions     1.0
+Tired of Bad Integration Tests      1.0
+WordsMatter                         0.0
+GD Indeed Admin                     0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,328 | INFO  | No winner found
+2020-11-30 15:02:50,328 | INFO  | Removing GD Indeed Admin
+2020-11-30 15:02:50,334 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+Dark Mode                           6.0
+WordClouds                          6.0
+Classdoor                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Ask and You Shall Receive           1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Interesting Interview Questions     1.0
+Tired of Bad Integration Tests      1.0
+WordsMatter                         0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,335 | INFO  | No winner found
+2020-11-30 15:02:50,335 | INFO  | Removing WordsMatter
+2020-11-30 15:02:50,341 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+InstaMod                            3.0
+Fortune Teller                      3.0
+GD 4 Vets                           2.0
+Tired of Bad Integration Tests      1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Ask and You Shall Receive           1.0
+Interesting Interview Questions     1.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,346 | INFO  | No winner found
+2020-11-30 15:02:50,347 | INFO  | Removing KITT
+2020-11-30 15:02:50,352 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Interesting Interview Questions     1.0
+Ask and You Shall Receive           1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Tired of Bad Integration Tests      1.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,353 | INFO  | No winner found
+2020-11-30 15:02:50,353 | INFO  | Removing GlassView
+2020-11-30 15:02:50,361 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Interesting Interview Questions     1.0
+Ask and You Shall Receive           1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,363 | INFO  | No winner found
+2020-11-30 15:02:50,363 | INFO  | Removing Roots Dark Mode
+2020-11-30 15:02:50,369 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Glassdoor Company Index             5.0
+Pearl; The Glassdoor Landlord       4.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Tired of Bad Integration Tests      2.0
+Interesting Interview Questions     1.0
+Ask and You Shall Receive           1.0
+Jobs Sonar                          1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,369 | INFO  | No winner found
+2020-11-30 15:02:50,370 | INFO  | Removing Ask and You Shall Receive
+2020-11-30 15:02:50,377 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 13.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Pearl; The Glassdoor Landlord       5.0
+Glassdoor Company Index             5.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Tired of Bad Integration Tests      2.0
+Interesting Interview Questions     1.0
+Jobs Sonar                          1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,378 | INFO  | No winner found
+2020-11-30 15:02:50,378 | INFO  | Removing Jobs Sonar
+2020-11-30 15:02:50,384 | INFO  | candidate
+Diversity... Revealed!             17.0
+Career Connections                 14.0
+WordClouds                          6.0
+Classdoor                           6.0
+Dark Mode                           6.0
+Pearl; The Glassdoor Landlord       5.0
+Glassdoor Company Index             5.0
+Fortune Teller                      3.0
+InstaMod                            3.0
+GD 4 Vets                           2.0
+Tired of Bad Integration Tests      2.0
+Interesting Interview Questions     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,385 | INFO  | No winner found
+2020-11-30 15:02:50,385 | INFO  | Removing Interesting Interview Questions
+2020-11-30 15:02:50,392 | INFO  | candidate
+Diversity... Revealed!            18.0
+Career Connections                14.0
+WordClouds                         6.0
+Classdoor                          6.0
+Dark Mode                          6.0
+Pearl; The Glassdoor Landlord      5.0
+Glassdoor Company Index            5.0
+Fortune Teller                     3.0
+InstaMod                           3.0
+GD 4 Vets                          2.0
+Tired of Bad Integration Tests     2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,392 | INFO  | No winner found
+2020-11-30 15:02:50,393 | INFO  | Removing Tired of Bad Integration Tests
+2020-11-30 15:02:50,399 | INFO  | candidate
+Diversity... Revealed!           18.0
+Career Connections               14.0
+WordClouds                        6.0
+Classdoor                         6.0
+Dark Mode                         6.0
+Pearl; The Glassdoor Landlord     5.0
+Glassdoor Company Index           5.0
+InstaMod                          4.0
+Fortune Teller                    3.0
+GD 4 Vets                         2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,400 | INFO  | No winner found
+2020-11-30 15:02:50,400 | INFO  | Removing GD 4 Vets
+2020-11-30 15:02:50,407 | INFO  | candidate
+Diversity... Revealed!           19.0
+Career Connections               15.0
+WordClouds                        6.0
+Classdoor                         6.0
+Dark Mode                         6.0
+Pearl; The Glassdoor Landlord     5.0
+Glassdoor Company Index           5.0
+InstaMod                          4.0
+Fortune Teller                    3.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,408 | INFO  | No winner found
+2020-11-30 15:02:50,408 | INFO  | Removing Fortune Teller
+2020-11-30 15:02:50,414 | INFO  | candidate
+Diversity... Revealed!           20.0
+Career Connections               16.0
+Dark Mode                         7.0
+WordClouds                        6.0
+Classdoor                         6.0
+Pearl; The Glassdoor Landlord     5.0
+Glassdoor Company Index           5.0
+InstaMod                          4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,415 | INFO  | No winner found
+2020-11-30 15:02:50,415 | INFO  | Removing InstaMod
+2020-11-30 15:02:50,422 | INFO  | candidate
+Diversity... Revealed!           20.0
+Career Connections               16.0
+WordClouds                        8.0
+Dark Mode                         7.0
+Classdoor                         6.0
+Pearl; The Glassdoor Landlord     5.0
+Glassdoor Company Index           5.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,422 | INFO  | No winner found
+2020-11-30 15:02:50,423 | INFO  | Removing Pearl; The Glassdoor Landlord
+2020-11-30 15:02:50,429 | INFO  | candidate
+Diversity... Revealed!     20.0
+Career Connections         17.0
+WordClouds                  8.0
+Dark Mode                   7.0
+Classdoor                   6.0
+Glassdoor Company Index     6.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,430 | INFO  | No winner found
+2020-11-30 15:02:50,430 | INFO  | Removing Glassdoor Company Index
+2020-11-30 15:02:50,436 | INFO  | candidate
+Diversity... Revealed!    21.0
+Career Connections        18.0
+WordClouds                 8.0
+Dark Mode                  7.0
+Classdoor                  6.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,437 | INFO  | No winner found
+2020-11-30 15:02:50,438 | INFO  | Removing Classdoor
+2020-11-30 15:02:50,443 | INFO  | candidate
+Diversity... Revealed!    21.0
+Career Connections        19.0
+WordClouds                 9.0
+Dark Mode                  7.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,444 | INFO  | No winner found
+2020-11-30 15:02:50,445 | INFO  | Removing Dark Mode
+2020-11-30 15:02:50,450 | INFO  | candidate
+Diversity... Revealed!    21.0
+Career Connections        20.0
+WordClouds                 9.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,451 | INFO  | No winner found
+2020-11-30 15:02:50,452 | INFO  | Removing WordClouds
+2020-11-30 15:02:50,457 | INFO  | candidate
+Career Connections        23.0
+Diversity... Revealed!    21.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,458 | WARNI | Winner declared: Career Connections with 23.0
+2020-11-30 15:02:50,458 | INFO  | candidate
+Career Connections        23.0
+Diversity... Revealed!    21.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,459 | WARNI | Election complete: Career Connections declared winner for Ambassador of Br
+2020-11-30 15:02:50,459 | WARNI | Initializing election Core StrengthCon
+2020-11-30 15:02:50,463 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             8.0
+Dark Mode                           7.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+InstaMod                            2.0
+Diversity... Revealed!              2.0
+Tired of Bad Integration Tests      1.0
+Jobs Sonar                          1.0
+Pearl; The Glassdoor Landlord       1.0
+Roots Dark Mode                     1.0
+Ask and You Shall Receive           1.0
+Live Mod Dashboard                  1.0
+WordClouds                          1.0
+WordsMatter                         0.0
+GD Indeed Admin                     0.0
+Uid0-ops                            0.0
+KITT                                0.0
+GA Cleanup Crew                     0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,464 | INFO  | No winner found
+2020-11-30 15:02:50,464 | INFO  | Removing Uid0-ops
+2020-11-30 15:02:50,470 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             8.0
+Dark Mode                           7.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+InstaMod                            2.0
+Diversity... Revealed!              2.0
+Tired of Bad Integration Tests      1.0
+WordsMatter                         1.0
+Pearl; The Glassdoor Landlord       1.0
+Jobs Sonar                          1.0
+Roots Dark Mode                     1.0
+Ask and You Shall Receive           1.0
+Live Mod Dashboard                  1.0
+WordClouds                          1.0
+GD Indeed Admin                     0.0
+KITT                                0.0
+GA Cleanup Crew                     0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,471 | INFO  | No winner found
+2020-11-30 15:02:50,471 | INFO  | Removing KITT
+2020-11-30 15:02:50,477 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             8.0
+Dark Mode                           7.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+InstaMod                            2.0
+Diversity... Revealed!              2.0
+Tired of Bad Integration Tests      1.0
+WordsMatter                         1.0
+Pearl; The Glassdoor Landlord       1.0
+Jobs Sonar                          1.0
+Roots Dark Mode                     1.0
+Ask and You Shall Receive           1.0
+Live Mod Dashboard                  1.0
+WordClouds                          1.0
+GD Indeed Admin                     0.0
+GA Cleanup Crew                     0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,478 | INFO  | No winner found
+2020-11-30 15:02:50,478 | INFO  | Removing GD Indeed Admin
+2020-11-30 15:02:50,485 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             8.0
+Dark Mode                           7.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+InstaMod                            2.0
+Diversity... Revealed!              2.0
+Tired of Bad Integration Tests      1.0
+WordsMatter                         1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Pearl; The Glassdoor Landlord       1.0
+Ask and You Shall Receive           1.0
+Live Mod Dashboard                  1.0
+WordClouds                          1.0
+GA Cleanup Crew                     0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,486 | INFO  | No winner found
+2020-11-30 15:02:50,486 | INFO  | Removing GA Cleanup Crew
+2020-11-30 15:02:50,492 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             8.0
+Dark Mode                           7.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+InstaMod                            2.0
+Diversity... Revealed!              2.0
+Tired of Bad Integration Tests      1.0
+WordsMatter                         1.0
+Roots Dark Mode                     1.0
+Jobs Sonar                          1.0
+Pearl; The Glassdoor Landlord       1.0
+Ask and You Shall Receive           1.0
+Live Mod Dashboard                  1.0
+WordClouds                          1.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,493 | INFO  | No winner found
+2020-11-30 15:02:50,493 | INFO  | Removing GlassView
+2020-11-30 15:02:50,498 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             8.0
+Dark Mode                           7.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+Diversity... Revealed!              2.0
+InstaMod                            2.0
+Live Mod Dashboard                  1.0
+Ask and You Shall Receive           1.0
+Roots Dark Mode                     1.0
+Pearl; The Glassdoor Landlord       1.0
+Jobs Sonar                          1.0
+WordClouds                          1.0
+WordsMatter                         1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,499 | INFO  | No winner found
+2020-11-30 15:02:50,500 | INFO  | Removing Roots Dark Mode
+2020-11-30 15:02:50,505 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Dark Mode                           8.0
+Glassdoor Company Index             8.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+Diversity... Revealed!              2.0
+InstaMod                            2.0
+WordClouds                          1.0
+Live Mod Dashboard                  1.0
+Ask and You Shall Receive           1.0
+Pearl; The Glassdoor Landlord       1.0
+Jobs Sonar                          1.0
+WordsMatter                         1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,506 | INFO  | No winner found
+2020-11-30 15:02:50,507 | INFO  | Removing WordClouds
+2020-11-30 15:02:50,512 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Dark Mode                           8.0
+Glassdoor Company Index             8.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Live Mod Dashboard                  1.0
+Ask and You Shall Receive           1.0
+Pearl; The Glassdoor Landlord       1.0
+Jobs Sonar                          1.0
+WordsMatter                         1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,513 | INFO  | No winner found
+2020-11-30 15:02:50,513 | INFO  | Removing Pearl; The Glassdoor Landlord
+2020-11-30 15:02:50,519 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Dark Mode                           8.0
+Glassdoor Company Index             8.0
+GD 4 Vets                           5.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Live Mod Dashboard                  1.0
+Ask and You Shall Receive           1.0
+Jobs Sonar                          1.0
+WordsMatter                         1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,520 | INFO  | No winner found
+2020-11-30 15:02:50,521 | INFO  | Removing Ask and You Shall Receive
+2020-11-30 15:02:50,527 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Dark Mode                           8.0
+Glassdoor Company Index             8.0
+GD 4 Vets                           6.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Live Mod Dashboard                  1.0
+Jobs Sonar                          1.0
+WordsMatter                         1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,528 | INFO  | No winner found
+2020-11-30 15:02:50,528 | INFO  | Removing WordsMatter
+2020-11-30 15:02:50,535 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Dark Mode                           8.0
+Glassdoor Company Index             8.0
+GD 4 Vets                           6.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Live Mod Dashboard                  1.0
+Jobs Sonar                          1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,535 | INFO  | No winner found
+2020-11-30 15:02:50,536 | INFO  | Removing Jobs Sonar
+2020-11-30 15:02:50,542 | INFO  | candidate
+Career Connections                 17.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             9.0
+Dark Mode                           8.0
+GD 4 Vets                           6.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Live Mod Dashboard                  1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,542 | INFO  | No winner found
+2020-11-30 15:02:50,543 | INFO  | Removing Live Mod Dashboard
+2020-11-30 15:02:50,548 | INFO  | candidate
+Career Connections                 18.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             9.0
+Dark Mode                           8.0
+GD 4 Vets                           6.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,548 | INFO  | No winner found
+2020-11-30 15:02:50,549 | INFO  | Removing Tired of Bad Integration Tests
+2020-11-30 15:02:50,554 | INFO  | candidate
+Career Connections                 18.0
+Classdoor                          16.0
+Interesting Interview Questions     9.0
+Glassdoor Company Index             9.0
+Dark Mode                           8.0
+GD 4 Vets                           6.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+InstaMod                            2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,555 | INFO  | No winner found
+2020-11-30 15:02:50,556 | INFO  | Removing InstaMod
+2020-11-30 15:02:50,561 | INFO  | candidate
+Career Connections                 19.0
+Classdoor                          16.0
+Interesting Interview Questions    10.0
+Glassdoor Company Index             9.0
+Dark Mode                           8.0
+GD 4 Vets                           6.0
+Fortune Teller                      3.0
+Diversity... Revealed!              3.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,562 | INFO  | No winner found
+2020-11-30 15:02:50,563 | INFO  | Removing Fortune Teller
+2020-11-30 15:02:50,569 | INFO  | candidate
+Career Connections                 20.0
+Classdoor                          16.0
+Interesting Interview Questions    10.0
+Glassdoor Company Index            10.0
+Dark Mode                           8.0
+GD 4 Vets                           6.0
+Diversity... Revealed!              4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,569 | INFO  | No winner found
+2020-11-30 15:02:50,570 | INFO  | Removing Diversity... Revealed!
+2020-11-30 15:02:50,575 | INFO  | candidate
+Career Connections                 21.0
+Classdoor                          17.0
+Interesting Interview Questions    11.0
+Glassdoor Company Index            10.0
+Dark Mode                           8.0
+GD 4 Vets                           6.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,576 | INFO  | No winner found
+2020-11-30 15:02:50,577 | INFO  | Removing GD 4 Vets
+2020-11-30 15:02:50,582 | INFO  | candidate
+Career Connections                 21.0
+Classdoor                          18.0
+Interesting Interview Questions    13.0
+Glassdoor Company Index            10.0
+Dark Mode                           9.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,583 | INFO  | No winner found
+2020-11-30 15:02:50,584 | INFO  | Removing Dark Mode
+2020-11-30 15:02:50,589 | INFO  | candidate
+Career Connections                 23.0
+Classdoor                          18.0
+Interesting Interview Questions    13.0
+Glassdoor Company Index            10.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,589 | INFO  | No winner found
+2020-11-30 15:02:50,590 | INFO  | Removing Glassdoor Company Index
+2020-11-30 15:02:50,595 | INFO  | candidate
+Career Connections                 24.0
+Classdoor                          20.0
+Interesting Interview Questions    15.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,596 | INFO  | No winner found
+2020-11-30 15:02:50,596 | INFO  | Removing Interesting Interview Questions
+2020-11-30 15:02:50,602 | INFO  | candidate
+Career Connections    29.0
+Classdoor             21.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,603 | WARNI | Winner declared: Career Connections with 29.0
+2020-11-30 15:02:50,603 | INFO  | candidate
+Career Connections    29.0
+Classdoor             21.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,604 | WARNI | Election complete: Career Connections declared winner for Core StrengthCon
+2020-11-30 15:02:50,604 | WARNI | Initializing election Inclusion AwardT
+2020-11-30 15:02:50,608 | INFO  | candidate
+Diversity... Revealed!             29.0
+GD 4 Vets                          14.0
+WordsMatter                        11.0
+Dark Mode                           4.0
+Classdoor                           4.0
+Career Connections                  3.0
+InstaMod                            2.0
+Ask and You Shall Receive           1.0
+Fortune Teller                      1.0
+Pearl; The Glassdoor Landlord       1.0
+WordClouds                          1.0
+Tired of Bad Integration Tests      1.0
+Live Mod Dashboard                  0.0
+Interesting Interview Questions     0.0
+Touch Of Grey                       0.0
+Roots Dark Mode                     0.0
+Glassdoor Company Index             0.0
+Uid0-ops                            0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,609 | INFO  | No winner found
+2020-11-30 15:02:50,609 | INFO  | Removing Glassdoor Company Index
+2020-11-30 15:02:50,615 | INFO  | candidate
+Diversity... Revealed!             30.0
+GD 4 Vets                          14.0
+WordsMatter                        11.0
+Dark Mode                           4.0
+Classdoor                           4.0
+Career Connections                  3.0
+InstaMod                            2.0
+Tired of Bad Integration Tests      1.0
+Pearl; The Glassdoor Landlord       1.0
+Ask and You Shall Receive           1.0
+Fortune Teller                      1.0
+WordClouds                          1.0
+Roots Dark Mode                     0.0
+Touch Of Grey                       0.0
+Live Mod Dashboard                  0.0
+Interesting Interview Questions     0.0
+Uid0-ops                            0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,616 | INFO  | No winner found
+2020-11-30 15:02:50,617 | INFO  | Removing Touch Of Grey
+2020-11-30 15:02:50,623 | INFO  | candidate
+Diversity... Revealed!             30.0
+GD 4 Vets                          14.0
+WordsMatter                        11.0
+Dark Mode                           4.0
+Classdoor                           4.0
+Career Connections                  3.0
+InstaMod                            2.0
+Ask and You Shall Receive           1.0
+Fortune Teller                      1.0
+Pearl; The Glassdoor Landlord       1.0
+WordClouds                          1.0
+Tired of Bad Integration Tests      1.0
+Live Mod Dashboard                  0.0
+Interesting Interview Questions     0.0
+Roots Dark Mode                     0.0
+Uid0-ops                            0.0
+KITT                                0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,623 | INFO  | No winner found
+2020-11-30 15:02:50,624 | INFO  | Removing Interesting Interview Questions
+2020-11-30 15:02:50,630 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Dark Mode                          4.0
+Classdoor                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Ask and You Shall Receive          1.0
+Fortune Teller                     1.0
+Pearl; The Glassdoor Landlord      1.0
+WordClouds                         1.0
+Tired of Bad Integration Tests     1.0
+Live Mod Dashboard                 0.0
+Roots Dark Mode                    0.0
+Uid0-ops                           0.0
+KITT                               0.0
+GlassView                          0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,631 | INFO  | No winner found
+2020-11-30 15:02:50,631 | INFO  | Removing Roots Dark Mode
+2020-11-30 15:02:50,637 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Fortune Teller                     1.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Pearl; The Glassdoor Landlord      1.0
+Tired of Bad Integration Tests     1.0
+Uid0-ops                           0.0
+Live Mod Dashboard                 0.0
+KITT                               0.0
+GlassView                          0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,638 | INFO  | No winner found
+2020-11-30 15:02:50,638 | INFO  | Removing Uid0-ops
+2020-11-30 15:02:50,644 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Fortune Teller                     1.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Pearl; The Glassdoor Landlord      1.0
+Tired of Bad Integration Tests     1.0
+Live Mod Dashboard                 0.0
+KITT                               0.0
+GlassView                          0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,645 | INFO  | No winner found
+2020-11-30 15:02:50,645 | INFO  | Removing Live Mod Dashboard
+2020-11-30 15:02:50,650 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Fortune Teller                     1.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Pearl; The Glassdoor Landlord      1.0
+Tired of Bad Integration Tests     1.0
+KITT                               0.0
+GlassView                          0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,651 | INFO  | No winner found
+2020-11-30 15:02:50,652 | INFO  | Removing KITT
+2020-11-30 15:02:50,657 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Fortune Teller                     1.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Pearl; The Glassdoor Landlord      1.0
+Tired of Bad Integration Tests     1.0
+GlassView                          0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,658 | INFO  | No winner found
+2020-11-30 15:02:50,658 | INFO  | Removing GlassView
+2020-11-30 15:02:50,663 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Fortune Teller                     1.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Pearl; The Glassdoor Landlord      1.0
+Tired of Bad Integration Tests     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,664 | INFO  | No winner found
+2020-11-30 15:02:50,664 | INFO  | Removing Pearl; The Glassdoor Landlord
+2020-11-30 15:02:50,670 | INFO  | candidate
+Diversity... Revealed!            30.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+Fortune Teller                     1.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Tired of Bad Integration Tests     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,671 | INFO  | No winner found
+2020-11-30 15:02:50,671 | INFO  | Removing Fortune Teller
+2020-11-30 15:02:50,676 | INFO  | candidate
+Diversity... Revealed!            31.0
+GD 4 Vets                         14.0
+WordsMatter                       11.0
+Classdoor                          4.0
+Dark Mode                          4.0
+Career Connections                 3.0
+InstaMod                           2.0
+WordClouds                         1.0
+Ask and You Shall Receive          1.0
+Tired of Bad Integration Tests     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,678 | INFO  | No winner found
+2020-11-30 15:02:50,678 | INFO  | Removing Tired of Bad Integration Tests
+2020-11-30 15:02:50,683 | INFO  | candidate
+Diversity... Revealed!       31.0
+GD 4 Vets                    14.0
+WordsMatter                  11.0
+Classdoor                     4.0
+Dark Mode                     4.0
+Career Connections            3.0
+InstaMod                      2.0
+WordClouds                    1.0
+Ask and You Shall Receive     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,683 | INFO  | No winner found
+2020-11-30 15:02:50,684 | INFO  | Removing WordClouds
+2020-11-30 15:02:50,689 | INFO  | candidate
+Diversity... Revealed!       31.0
+GD 4 Vets                    14.0
+WordsMatter                  12.0
+Classdoor                     4.0
+Dark Mode                     4.0
+Career Connections            3.0
+InstaMod                      2.0
+Ask and You Shall Receive     1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,689 | INFO  | No winner found
+2020-11-30 15:02:50,690 | INFO  | Removing Ask and You Shall Receive
+2020-11-30 15:02:50,695 | INFO  | candidate
+Diversity... Revealed!    31.0
+GD 4 Vets                 14.0
+WordsMatter               12.0
+Classdoor                  5.0
+Dark Mode                  4.0
+Career Connections         3.0
+InstaMod                   2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,695 | INFO  | No winner found
+2020-11-30 15:02:50,696 | INFO  | Removing InstaMod
+2020-11-30 15:02:50,701 | INFO  | candidate
+Diversity... Revealed!    32.0
+GD 4 Vets                 14.0
+WordsMatter               12.0
+Classdoor                  5.0
+Career Connections         4.0
+Dark Mode                  4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,701 | INFO  | No winner found
+2020-11-30 15:02:50,702 | INFO  | Removing Dark Mode
+2020-11-30 15:02:50,707 | INFO  | candidate
+Diversity... Revealed!    32.0
+GD 4 Vets                 16.0
+WordsMatter               12.0
+Career Connections         5.0
+Classdoor                  5.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,708 | INFO  | No winner found
+2020-11-30 15:02:50,709 | INFO  | Removing Classdoor
+2020-11-30 15:02:50,714 | INFO  | candidate
+Diversity... Revealed!    33.0
+GD 4 Vets                 17.0
+WordsMatter               12.0
+Career Connections         6.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,715 | INFO  | No winner found
+2020-11-30 15:02:50,715 | INFO  | Removing Career Connections
+2020-11-30 15:02:50,720 | INFO  | candidate
+Diversity... Revealed!    34.0
+GD 4 Vets                 18.0
+WordsMatter               12.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,721 | WARNI | Winner declared: Diversity... Revealed! with 34.0
+2020-11-30 15:02:50,721 | INFO  | candidate
+Diversity... Revealed!    34.0
+GD 4 Vets                 18.0
+WordsMatter               12.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,722 | WARNI | Election complete: Diversity... Revealed! declared winner for Inclusion AwardT
+2020-11-30 15:02:50,722 | WARNI | Initializing election Connect & Collab
+2020-11-30 15:02:50,725 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+KITT                                3.0
+InstaMod                            3.0
+GD Indeed Admin                     3.0
+Interesting Interview Questions     2.0
+WordsMatter                         2.0
+WordClouds                          2.0
+Roots Dark Mode                     2.0
+Tired of Bad Integration Tests      1.0
+Pearl; The Glassdoor Landlord       1.0
+GD 4 Vets                           1.0
+Uid0-ops                            1.0
+Glassdoor Company Index             0.0
+Diversity... Revealed!              0.0
+Fortune Teller                      0.0
+Ask and You Shall Receive           0.0
+Touch Of Grey                       0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,726 | INFO  | No winner found
+2020-11-30 15:02:50,726 | INFO  | Removing Diversity... Revealed!
+2020-11-30 15:02:50,731 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+Interesting Interview Questions     2.0
+WordClouds                          2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+GD 4 Vets                           1.0
+Uid0-ops                            1.0
+Pearl; The Glassdoor Landlord       1.0
+Tired of Bad Integration Tests      1.0
+Touch Of Grey                       0.0
+Ask and You Shall Receive           0.0
+Fortune Teller                      0.0
+Glassdoor Company Index             0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,732 | INFO  | No winner found
+2020-11-30 15:02:50,732 | INFO  | Removing Glassdoor Company Index
+2020-11-30 15:02:50,737 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+InstaMod                            3.0
+KITT                                3.0
+GD Indeed Admin                     3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Uid0-ops                            1.0
+GD 4 Vets                           1.0
+Tired of Bad Integration Tests      1.0
+Pearl; The Glassdoor Landlord       1.0
+Ask and You Shall Receive           0.0
+Fortune Teller                      0.0
+Touch Of Grey                       0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,738 | INFO  | No winner found
+2020-11-30 15:02:50,738 | INFO  | Removing Touch Of Grey
+2020-11-30 15:02:50,745 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+Interesting Interview Questions     2.0
+WordClouds                          2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+GD 4 Vets                           1.0
+Uid0-ops                            1.0
+Pearl; The Glassdoor Landlord       1.0
+Tired of Bad Integration Tests      1.0
+Ask and You Shall Receive           0.0
+Fortune Teller                      0.0
+GlassView                           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,745 | INFO  | No winner found
+2020-11-30 15:02:50,746 | INFO  | Removing GlassView
+2020-11-30 15:02:50,751 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+InstaMod                            3.0
+GD Indeed Admin                     3.0
+KITT                                3.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+WordClouds                          2.0
+GD 4 Vets                           1.0
+Pearl; The Glassdoor Landlord       1.0
+Uid0-ops                            1.0
+Tired of Bad Integration Tests      1.0
+Fortune Teller                      0.0
+Ask and You Shall Receive           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,752 | INFO  | No winner found
+2020-11-30 15:02:50,752 | INFO  | Removing Fortune Teller
+2020-11-30 15:02:50,757 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Uid0-ops                            1.0
+GD 4 Vets                           1.0
+Pearl; The Glassdoor Landlord       1.0
+Tired of Bad Integration Tests      1.0
+Ask and You Shall Receive           0.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,758 | INFO  | No winner found
+2020-11-30 15:02:50,758 | INFO  | Removing Ask and You Shall Receive
+2020-11-30 15:02:50,763 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Uid0-ops                            1.0
+GD 4 Vets                           1.0
+Pearl; The Glassdoor Landlord       1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,764 | INFO  | No winner found
+2020-11-30 15:02:50,764 | INFO  | Removing GD 4 Vets
+2020-11-30 15:02:50,769 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Uid0-ops                            1.0
+Pearl; The Glassdoor Landlord       1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,769 | INFO  | No winner found
+2020-11-30 15:02:50,770 | INFO  | Removing Tired of Bad Integration Tests
+2020-11-30 15:02:50,775 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Uid0-ops                            1.0
+Pearl; The Glassdoor Landlord       1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,775 | INFO  | No winner found
+2020-11-30 15:02:50,776 | INFO  | Removing Pearl; The Glassdoor Landlord
+2020-11-30 15:02:50,781 | INFO  | candidate
+Career Connections                 32.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Uid0-ops                            1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,782 | INFO  | No winner found
+2020-11-30 15:02:50,782 | INFO  | Removing Uid0-ops
+2020-11-30 15:02:50,787 | INFO  | candidate
+Career Connections                 33.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+WordsMatter                         2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,788 | INFO  | No winner found
+2020-11-30 15:02:50,788 | INFO  | Removing WordsMatter
+2020-11-30 15:02:50,794 | INFO  | candidate
+Career Connections                 35.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,795 | WARNI | Winner declared: Career Connections with 35.0
+2020-11-30 15:02:50,795 | INFO  | candidate
+Career Connections                 35.0
+Classdoor                           7.0
+Live Mod Dashboard                  6.0
+Dark Mode                           6.0
+GD Indeed Admin                     3.0
+InstaMod                            3.0
+KITT                                3.0
+WordClouds                          2.0
+Interesting Interview Questions     2.0
+Roots Dark Mode                     2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,796 | WARNI | Election complete: Career Connections declared winner for Connect & Collab
+2020-11-30 15:02:50,796 | WARNI | Initializing election OK Zoomer!Award 
+2020-11-30 15:02:50,799 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Fortune Teller                      1.0
+Uid0-ops                            1.0
+Live Mod Dashboard                  1.0
+Pearl; The Glassdoor Landlord       1.0
+Glassdoor Company Index             1.0
+WordsMatter                         1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,800 | INFO  | No winner found
+2020-11-30 15:02:50,801 | INFO  | Removing WordsMatter
+2020-11-30 15:02:50,806 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Fortune Teller                      1.0
+Uid0-ops                            1.0
+Live Mod Dashboard                  1.0
+Pearl; The Glassdoor Landlord       1.0
+Glassdoor Company Index             1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,807 | INFO  | No winner found
+2020-11-30 15:02:50,808 | INFO  | Removing Glassdoor Company Index
+2020-11-30 15:02:50,813 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Fortune Teller                      1.0
+Uid0-ops                            1.0
+Live Mod Dashboard                  1.0
+Pearl; The Glassdoor Landlord       1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,814 | INFO  | No winner found
+2020-11-30 15:02:50,814 | INFO  | Removing Pearl; The Glassdoor Landlord
+2020-11-30 15:02:50,819 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Fortune Teller                      1.0
+Uid0-ops                            1.0
+Live Mod Dashboard                  1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,820 | INFO  | No winner found
+2020-11-30 15:02:50,820 | INFO  | Removing Fortune Teller
+2020-11-30 15:02:50,825 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Uid0-ops                            1.0
+Live Mod Dashboard                  1.0
+Tired of Bad Integration Tests      1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,826 | INFO  | No winner found
+2020-11-30 15:02:50,826 | INFO  | Removing Tired of Bad Integration Tests
+2020-11-30 15:02:50,831 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Uid0-ops                            1.0
+Live Mod Dashboard                  1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,832 | INFO  | No winner found
+2020-11-30 15:02:50,832 | INFO  | Removing Uid0-ops
+2020-11-30 15:02:50,837 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Live Mod Dashboard                  1.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,838 | INFO  | No winner found
+2020-11-30 15:02:50,838 | INFO  | Removing Live Mod Dashboard
+2020-11-30 15:02:50,843 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Diversity... Revealed!              2.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,843 | INFO  | No winner found
+2020-11-30 15:02:50,844 | INFO  | Removing Diversity... Revealed!
+2020-11-30 15:02:50,849 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+WordClouds                          3.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,849 | INFO  | No winner found
+2020-11-30 15:02:50,850 | INFO  | Removing WordClouds
+2020-11-30 15:02:50,854 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+InstaMod                            4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,855 | INFO  | No winner found
+2020-11-30 15:02:50,855 | INFO  | Removing InstaMod
+2020-11-30 15:02:50,860 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,861 | WARNI | Winner declared: Career Connections with 26.0
+2020-11-30 15:02:50,861 | INFO  | candidate
+Career Connections                 26.0
+Dark Mode                          15.0
+Classdoor                           5.0
+Interesting Interview Questions     4.0
+Name: respondent_id, dtype: float64
+2020-11-30 15:02:50,862 | WARNI | Election complete: Career Connections declared winner for OK Zoomer!Award 

@@ -1,0 +1,3694 @@
+2020-06-22 20:16:09,691 | WARNI | Initializing election I <3 Engineering
+2020-06-22 20:16:09,698 | INFO  | candidate
+Glassdoor Lens                    11.0
+KITT                              11.0
+Glassdoor Video Testimonials       7.0
+META                               7.0
+Coding in Style                    7.0
+GD Task Manager                    4.0
+I Like Money, But I Hate Math      4.0
+DOS Dash                           4.0
+Noble House von Teplitz            4.0
+F.A.S.T                            4.0
+INSIGHT                            4.0
+AuthId                             3.0
+#diversityhack                     3.0
+404 Hack Project Not Found         3.0
+EC App Team                        3.0
+Gatekeeper/Key master              3.0
+Chatties                           2.0
+GlassSage                          2.0
+GD Redis Viewer                    1.0
+#noteamname                        1.0
+ML Life                            1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+Discover Career Transitions        1.0
+Dependency Purgatory               1.0
+Props V3                           1.0
+Team Resilient                     1.0
+Localized Locations                1.0
+Connections                        1.0
+Vulcan                             0.0
+r8offers                           0.0
+Mobile Company Compare             0.0
+ML - Fraud Job Detection           0.0
+Jobs With Friends                  0.0
+AuthId - SAP                       0.0
+Corporate Accountability           0.0
+DIRE straits                       0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,699 | INFO  | No winner found
+2020-06-22 20:16:09,704 | INFO  | Removing Jobs With Friends
+2020-06-22 20:16:09,715 | INFO  | candidate
+KITT                              11.0
+Glassdoor Lens                    11.0
+META                               7.0
+Glassdoor Video Testimonials       7.0
+Coding in Style                    7.0
+GD Task Manager                    4.0
+Noble House von Teplitz            4.0
+INSIGHT                            4.0
+F.A.S.T                            4.0
+DOS Dash                           4.0
+I Like Money, But I Hate Math      4.0
+404 Hack Project Not Found         3.0
+EC App Team                        3.0
+Gatekeeper/Key master              3.0
+AuthId                             3.0
+#diversityhack                     3.0
+Chatties                           2.0
+GlassSage                          2.0
+ML Life                            1.0
+#noteamname                        1.0
+FAQ Your Jobs                      1.0
+Discover Career Transitions        1.0
+Mocking Bird                       1.0
+GD Redis Viewer                    1.0
+Dependency Purgatory               1.0
+Props V3                           1.0
+Team Resilient                     1.0
+Localized Locations                1.0
+Connections                        1.0
+Vulcan                             0.0
+r8offers                           0.0
+ML - Fraud Job Detection           0.0
+Mobile Company Compare             0.0
+AuthId - SAP                       0.0
+Corporate Accountability           0.0
+DIRE straits                       0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,716 | INFO  | No winner found
+2020-06-22 20:16:09,717 | INFO  | Removing Corporate Accountability
+2020-06-22 20:16:09,723 | INFO  | candidate
+KITT                              11.0
+Glassdoor Lens                    11.0
+META                               7.0
+Glassdoor Video Testimonials       7.0
+Coding in Style                    7.0
+Noble House von Teplitz            4.0
+GD Task Manager                    4.0
+INSIGHT                            4.0
+F.A.S.T                            4.0
+DOS Dash                           4.0
+I Like Money, But I Hate Math      4.0
+404 Hack Project Not Found         3.0
+EC App Team                        3.0
+AuthId                             3.0
+Gatekeeper/Key master              3.0
+#diversityhack                     3.0
+Chatties                           2.0
+GlassSage                          2.0
+ML Life                            1.0
+#noteamname                        1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+Discover Career Transitions        1.0
+GD Redis Viewer                    1.0
+Dependency Purgatory               1.0
+Props V3                           1.0
+Team Resilient                     1.0
+Localized Locations                1.0
+Connections                        1.0
+Vulcan                             0.0
+ML - Fraud Job Detection           0.0
+r8offers                           0.0
+AuthId - SAP                       0.0
+Mobile Company Compare             0.0
+DIRE straits                       0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,724 | INFO  | No winner found
+2020-06-22 20:16:09,725 | INFO  | Removing r8offers
+2020-06-22 20:16:09,731 | INFO  | candidate
+Glassdoor Lens                    11.0
+KITT                              11.0
+META                               7.0
+Glassdoor Video Testimonials       7.0
+Coding in Style                    7.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+DOS Dash                           4.0
+F.A.S.T                            4.0
+GD Task Manager                    4.0
+INSIGHT                            4.0
+Gatekeeper/Key master              3.0
+AuthId                             3.0
+404 Hack Project Not Found         3.0
+#diversityhack                     3.0
+EC App Team                        3.0
+Chatties                           2.0
+GlassSage                          2.0
+#noteamname                        1.0
+GD Redis Viewer                    1.0
+ML Life                            1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+Props V3                           1.0
+Dependency Purgatory               1.0
+Discover Career Transitions        1.0
+Team Resilient                     1.0
+Localized Locations                1.0
+Connections                        1.0
+Vulcan                             0.0
+ML - Fraud Job Detection           0.0
+AuthId - SAP                       0.0
+Mobile Company Compare             0.0
+DIRE straits                       0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,732 | INFO  | No winner found
+2020-06-22 20:16:09,732 | INFO  | Removing DIRE straits
+2020-06-22 20:16:09,738 | INFO  | candidate
+Glassdoor Lens                    11.0
+KITT                              11.0
+META                               7.0
+Glassdoor Video Testimonials       7.0
+Coding in Style                    7.0
+DOS Dash                           4.0
+INSIGHT                            4.0
+GD Task Manager                    4.0
+Noble House von Teplitz            4.0
+F.A.S.T                            4.0
+I Like Money, But I Hate Math      4.0
+AuthId                             3.0
+EC App Team                        3.0
+404 Hack Project Not Found         3.0
+Gatekeeper/Key master              3.0
+#diversityhack                     3.0
+Chatties                           2.0
+GlassSage                          2.0
+#noteamname                        1.0
+GD Redis Viewer                    1.0
+ML Life                            1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+Props V3                           1.0
+Dependency Purgatory               1.0
+Discover Career Transitions        1.0
+Team Resilient                     1.0
+Localized Locations                1.0
+Connections                        1.0
+Vulcan                             0.0
+ML - Fraud Job Detection           0.0
+AuthId - SAP                       0.0
+Mobile Company Compare             0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,739 | INFO  | No winner found
+2020-06-22 20:16:09,740 | INFO  | Removing Benchmark Breakdown
+2020-06-22 20:16:09,746 | INFO  | candidate
+Glassdoor Lens                    11.0
+KITT                              11.0
+META                               7.0
+Glassdoor Video Testimonials       7.0
+Coding in Style                    7.0
+F.A.S.T                            4.0
+I Like Money, But I Hate Math      4.0
+GD Task Manager                    4.0
+Noble House von Teplitz            4.0
+DOS Dash                           4.0
+INSIGHT                            4.0
+Gatekeeper/Key master              3.0
+#diversityhack                     3.0
+EC App Team                        3.0
+AuthId                             3.0
+404 Hack Project Not Found         3.0
+Chatties                           2.0
+GlassSage                          2.0
+#noteamname                        1.0
+FAQ Your Jobs                      1.0
+GD Redis Viewer                    1.0
+ML Life                            1.0
+Mocking Bird                       1.0
+Dependency Purgatory               1.0
+Discover Career Transitions        1.0
+Team Resilient                     1.0
+Props V3                           1.0
+Localized Locations                1.0
+Connections                        1.0
+Vulcan                             0.0
+ML - Fraud Job Detection           0.0
+AuthId - SAP                       0.0
+Mobile Company Compare             0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,747 | INFO  | No winner found
+2020-06-22 20:16:09,747 | INFO  | Removing Mobile Company Compare
+2020-06-22 20:16:09,753 | INFO  | candidate
+KITT                              11.0
+Glassdoor Lens                    11.0
+META                               7.0
+Coding in Style                    7.0
+Glassdoor Video Testimonials       7.0
+I Like Money, But I Hate Math      4.0
+GD Task Manager                    4.0
+Noble House von Teplitz            4.0
+DOS Dash                           4.0
+F.A.S.T                            4.0
+INSIGHT                            4.0
+404 Hack Project Not Found         3.0
+Gatekeeper/Key master              3.0
+EC App Team                        3.0
+#diversityhack                     3.0
+AuthId                             3.0
+Chatties                           2.0
+GlassSage                          2.0
+FAQ Your Jobs                      1.0
+GD Redis Viewer                    1.0
+Mocking Bird                       1.0
+ML Life                            1.0
+#noteamname                        1.0
+Dependency Purgatory               1.0
+Discover Career Transitions        1.0
+Team Resilient                     1.0
+Props V3                           1.0
+Localized Locations                1.0
+Connections                        1.0
+ML - Fraud Job Detection           0.0
+Vulcan                             0.0
+AuthId - SAP                       0.0
+ML-Generated Role Descriptions     0.0
+ML-Company Recommendation          0.0
+Team Fault tolerant                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,754 | INFO  | No winner found
+2020-06-22 20:16:09,754 | INFO  | Removing ML-Company Recommendation
+2020-06-22 20:16:09,760 | INFO  | candidate
+Glassdoor Lens                    11.0
+KITT                              11.0
+Coding in Style                    7.0
+Glassdoor Video Testimonials       7.0
+META                               7.0
+INSIGHT                            4.0
+DOS Dash                           4.0
+I Like Money, But I Hate Math      4.0
+GD Task Manager                    4.0
+Noble House von Teplitz            4.0
+F.A.S.T                            4.0
+AuthId                             3.0
+EC App Team                        3.0
+404 Hack Project Not Found         3.0
+Gatekeeper/Key master              3.0
+#diversityhack                     3.0
+GlassSage                          2.0
+Chatties                           2.0
+#noteamname                        1.0
+Props V3                           1.0
+Team Resilient                     1.0
+Localized Locations                1.0
+Discover Career Transitions        1.0
+Connections                        1.0
+ML Life                            1.0
+GD Redis Viewer                    1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+Dependency Purgatory               1.0
+Team Fault tolerant                0.0
+AuthId - SAP                       0.0
+ML - Fraud Job Detection           0.0
+ML-Generated Role Descriptions     0.0
+Vulcan                             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,760 | INFO  | No winner found
+2020-06-22 20:16:09,761 | INFO  | Removing ML-Generated Role Descriptions
+2020-06-22 20:16:09,766 | INFO  | candidate
+Glassdoor Lens                   11.0
+KITT                             11.0
+Coding in Style                   7.0
+Glassdoor Video Testimonials      7.0
+META                              7.0
+DOS Dash                          4.0
+Noble House von Teplitz           4.0
+INSIGHT                           4.0
+I Like Money, But I Hate Math     4.0
+GD Task Manager                   4.0
+F.A.S.T                           4.0
+#diversityhack                    3.0
+Gatekeeper/Key master             3.0
+404 Hack Project Not Found        3.0
+AuthId                            3.0
+EC App Team                       3.0
+GlassSage                         2.0
+Chatties                          2.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Mocking Bird                      1.0
+Dependency Purgatory              1.0
+Props V3                          1.0
+Discover Career Transitions       1.0
+Team Resilient                    1.0
+FAQ Your Jobs                     1.0
+Localized Locations               1.0
+Connections                       1.0
+#noteamname                       1.0
+Team Fault tolerant               0.0
+AuthId - SAP                      0.0
+ML - Fraud Job Detection          0.0
+Vulcan                            0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,767 | INFO  | No winner found
+2020-06-22 20:16:09,767 | INFO  | Removing AuthId - SAP
+2020-06-22 20:16:09,772 | INFO  | candidate
+KITT                             11.0
+Glassdoor Lens                   11.0
+Coding in Style                   7.0
+Glassdoor Video Testimonials      7.0
+META                              7.0
+DOS Dash                          4.0
+INSIGHT                           4.0
+I Like Money, But I Hate Math     4.0
+GD Task Manager                   4.0
+Noble House von Teplitz           4.0
+F.A.S.T                           4.0
+AuthId                            3.0
+#diversityhack                    3.0
+Gatekeeper/Key master             3.0
+404 Hack Project Not Found        3.0
+EC App Team                       3.0
+GlassSage                         2.0
+Chatties                          2.0
+Mocking Bird                      1.0
+GD Redis Viewer                   1.0
+#noteamname                       1.0
+Dependency Purgatory              1.0
+Props V3                          1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Team Resilient                    1.0
+Localized Locations               1.0
+Connections                       1.0
+FAQ Your Jobs                     1.0
+Team Fault tolerant               0.0
+ML - Fraud Job Detection          0.0
+Vulcan                            0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,773 | INFO  | No winner found
+2020-06-22 20:16:09,774 | INFO  | Removing Vulcan
+2020-06-22 20:16:09,779 | INFO  | candidate
+KITT                             11.0
+Glassdoor Lens                   11.0
+Glassdoor Video Testimonials      7.0
+Coding in Style                   7.0
+META                              7.0
+F.A.S.T                           4.0
+INSIGHT                           4.0
+DOS Dash                          4.0
+I Like Money, But I Hate Math     4.0
+GD Task Manager                   4.0
+Noble House von Teplitz           4.0
+EC App Team                       3.0
+AuthId                            3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+#diversityhack                    3.0
+Chatties                          2.0
+GlassSage                         2.0
+GD Redis Viewer                   1.0
+FAQ Your Jobs                     1.0
+#noteamname                       1.0
+Mocking Bird                      1.0
+Dependency Purgatory              1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Team Resilient                    1.0
+Props V3                          1.0
+Localized Locations               1.0
+Connections                       1.0
+ML - Fraud Job Detection          0.0
+Team Fault tolerant               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,779 | INFO  | No winner found
+2020-06-22 20:16:09,780 | INFO  | Removing Team Fault tolerant
+2020-06-22 20:16:09,785 | INFO  | candidate
+Glassdoor Lens                   11.0
+KITT                             11.0
+Glassdoor Video Testimonials      7.0
+Coding in Style                   7.0
+META                              7.0
+F.A.S.T                           4.0
+DOS Dash                          4.0
+GD Task Manager                   4.0
+INSIGHT                           4.0
+Noble House von Teplitz           4.0
+I Like Money, But I Hate Math     4.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+#diversityhack                    3.0
+AuthId                            3.0
+GlassSage                         2.0
+Chatties                          2.0
+GD Redis Viewer                   1.0
+FAQ Your Jobs                     1.0
+#noteamname                       1.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Props V3                          1.0
+Localized Locations               1.0
+Connections                       1.0
+Dependency Purgatory              1.0
+ML - Fraud Job Detection          0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,786 | INFO  | No winner found
+2020-06-22 20:16:09,786 | INFO  | Removing ML - Fraud Job Detection
+2020-06-22 20:16:09,791 | INFO  | candidate
+KITT                             11.0
+Glassdoor Lens                   11.0
+Coding in Style                   7.0
+Glassdoor Video Testimonials      7.0
+META                              7.0
+DOS Dash                          4.0
+GD Task Manager                   4.0
+Noble House von Teplitz           4.0
+INSIGHT                           4.0
+F.A.S.T                           4.0
+I Like Money, But I Hate Math     4.0
+AuthId                            3.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+#diversityhack                    3.0
+Chatties                          2.0
+GlassSage                         2.0
+FAQ Your Jobs                     1.0
+#noteamname                       1.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Props V3                          1.0
+Localized Locations               1.0
+Connections                       1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,792 | INFO  | No winner found
+2020-06-22 20:16:09,792 | INFO  | Removing Localized Locations
+2020-06-22 20:16:09,797 | INFO  | candidate
+Glassdoor Lens                   11.0
+KITT                             11.0
+Glassdoor Video Testimonials      7.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           5.0
+I Like Money, But I Hate Math     4.0
+F.A.S.T                           4.0
+INSIGHT                           4.0
+GD Task Manager                   4.0
+DOS Dash                          4.0
+Gatekeeper/Key master             3.0
+404 Hack Project Not Found        3.0
+AuthId                            3.0
+EC App Team                       3.0
+#diversityhack                    3.0
+Chatties                          2.0
+GlassSage                         2.0
+Mocking Bird                      1.0
+FAQ Your Jobs                     1.0
+#noteamname                       1.0
+Team Resilient                    1.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Props V3                          1.0
+Connections                       1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,798 | INFO  | No winner found
+2020-06-22 20:16:09,799 | INFO  | Removing Connections
+2020-06-22 20:16:09,804 | INFO  | candidate
+Glassdoor Lens                   11.0
+KITT                             11.0
+META                              7.0
+Glassdoor Video Testimonials      7.0
+Coding in Style                   7.0
+Noble House von Teplitz           5.0
+F.A.S.T                           4.0
+#diversityhack                    4.0
+DOS Dash                          4.0
+I Like Money, But I Hate Math     4.0
+GD Task Manager                   4.0
+INSIGHT                           4.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+AuthId                            3.0
+GlassSage                         2.0
+Chatties                          2.0
+Mocking Bird                      1.0
+FAQ Your Jobs                     1.0
+#noteamname                       1.0
+Team Resilient                    1.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Props V3                          1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,805 | INFO  | No winner found
+2020-06-22 20:16:09,805 | INFO  | Removing FAQ Your Jobs
+2020-06-22 20:16:09,811 | INFO  | candidate
+KITT                             11.0
+Glassdoor Lens                   11.0
+Coding in Style                   7.0
+Glassdoor Video Testimonials      7.0
+META                              7.0
+Noble House von Teplitz           5.0
+I Like Money, But I Hate Math     4.0
+F.A.S.T                           4.0
+INSIGHT                           4.0
+GD Task Manager                   4.0
+#diversityhack                    4.0
+DOS Dash                          4.0
+404 Hack Project Not Found        3.0
+AuthId                            3.0
+Gatekeeper/Key master             3.0
+EC App Team                       3.0
+Chatties                          2.0
+GlassSage                         2.0
+#noteamname                       2.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Discover Career Transitions       1.0
+Props V3                          1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,812 | INFO  | No winner found
+2020-06-22 20:16:09,812 | INFO  | Removing Discover Career Transitions
+2020-06-22 20:16:09,818 | INFO  | candidate
+Glassdoor Lens                   11.0
+KITT                             11.0
+Glassdoor Video Testimonials      8.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           5.0
+F.A.S.T                           4.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+DOS Dash                          4.0
+GD Task Manager                   4.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+AuthId                            3.0
+GlassSage                         2.0
+Chatties                          2.0
+#noteamname                       2.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Props V3                          1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,819 | INFO  | No winner found
+2020-06-22 20:16:09,819 | INFO  | Removing Props V3
+2020-06-22 20:16:09,825 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             11.0
+Glassdoor Video Testimonials      8.0
+Coding in Style                   7.0
+META                              7.0
+Noble House von Teplitz           5.0
+I Like Money, But I Hate Math     4.0
+F.A.S.T                           4.0
+INSIGHT                           4.0
+GD Task Manager                   4.0
+DOS Dash                          4.0
+#diversityhack                    4.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+AuthId                            3.0
+EC App Team                       3.0
+Chatties                          2.0
+GlassSage                         2.0
+#noteamname                       2.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+GD Redis Viewer                   1.0
+ML Life                           1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,826 | INFO  | No winner found
+2020-06-22 20:16:09,826 | INFO  | Removing GD Redis Viewer
+2020-06-22 20:16:09,832 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             11.0
+Glassdoor Video Testimonials      8.0
+Coding in Style                   7.0
+META                              7.0
+DOS Dash                          5.0
+Noble House von Teplitz           5.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+INSIGHT                           4.0
+AuthId                            3.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+GlassSage                         2.0
+Chatties                          2.0
+#noteamname                       2.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+ML Life                           1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,833 | INFO  | No winner found
+2020-06-22 20:16:09,834 | INFO  | Removing ML Life
+2020-06-22 20:16:09,840 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             11.0
+Glassdoor Video Testimonials      8.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+GD Task Manager                   4.0
+INSIGHT                           4.0
+F.A.S.T                           4.0
+I Like Money, But I Hate Math     4.0
+#diversityhack                    4.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+AuthId                            3.0
+EC App Team                       3.0
+GlassSage                         2.0
+Chatties                          2.0
+#noteamname                       2.0
+Mocking Bird                      1.0
+Team Resilient                    1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,841 | INFO  | No winner found
+2020-06-22 20:16:09,841 | INFO  | Removing Mocking Bird
+2020-06-22 20:16:09,847 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             11.0
+Glassdoor Video Testimonials      8.0
+Coding in Style                   7.0
+META                              7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+GD Task Manager                   4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+INSIGHT                           4.0
+F.A.S.T                           4.0
+AuthId                            3.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+GlassSage                         2.0
+Chatties                          2.0
+#noteamname                       2.0
+Team Resilient                    1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,848 | INFO  | No winner found
+2020-06-22 20:16:09,848 | INFO  | Removing Dependency Purgatory
+2020-06-22 20:16:09,854 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             11.0
+Glassdoor Video Testimonials      9.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+GD Task Manager                   4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+INSIGHT                           4.0
+F.A.S.T                           4.0
+AuthId                            3.0
+EC App Team                       3.0
+404 Hack Project Not Found        3.0
+Gatekeeper/Key master             3.0
+GlassSage                         2.0
+Chatties                          2.0
+#noteamname                       2.0
+Team Resilient                    1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,855 | INFO  | No winner found
+2020-06-22 20:16:09,856 | INFO  | Removing Team Resilient
+2020-06-22 20:16:09,861 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             11.0
+Glassdoor Video Testimonials     10.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        3.0
+AuthId                            3.0
+Gatekeeper/Key master             3.0
+EC App Team                       3.0
+GlassSage                         2.0
+Chatties                          2.0
+#noteamname                       2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,862 | INFO  | No winner found
+2020-06-22 20:16:09,863 | INFO  | Removing #noteamname
+2020-06-22 20:16:09,869 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             12.0
+Glassdoor Video Testimonials     10.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        3.0
+AuthId                            3.0
+Gatekeeper/Key master             3.0
+EC App Team                       3.0
+GlassSage                         2.0
+Chatties                          2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,869 | INFO  | No winner found
+2020-06-22 20:16:09,870 | INFO  | Removing GlassSage
+2020-06-22 20:16:09,875 | INFO  | candidate
+Glassdoor Lens                   12.0
+KITT                             12.0
+Glassdoor Video Testimonials     10.0
+META                              7.0
+Coding in Style                   7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+404 Hack Project Not Found        4.0
+I Like Money, But I Hate Math     4.0
+AuthId                            3.0
+Gatekeeper/Key master             3.0
+EC App Team                       3.0
+Chatties                          2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,876 | INFO  | No winner found
+2020-06-22 20:16:09,876 | INFO  | Removing Chatties
+2020-06-22 20:16:09,881 | INFO  | candidate
+Glassdoor Lens                   13.0
+KITT                             12.0
+Glassdoor Video Testimonials     10.0
+Coding in Style                   7.0
+META                              7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+Gatekeeper/Key master             3.0
+EC App Team                       3.0
+AuthId                            3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,882 | INFO  | No winner found
+2020-06-22 20:16:09,882 | INFO  | Removing AuthId
+2020-06-22 20:16:09,887 | INFO  | candidate
+Glassdoor Lens                   13.0
+KITT                             12.0
+Glassdoor Video Testimonials     10.0
+Coding in Style                   7.0
+META                              7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+Gatekeeper/Key master             3.0
+EC App Team                       3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,888 | INFO  | No winner found
+2020-06-22 20:16:09,888 | INFO  | Removing EC App Team
+2020-06-22 20:16:09,893 | INFO  | candidate
+Glassdoor Lens                   14.0
+KITT                             12.0
+Glassdoor Video Testimonials     10.0
+Coding in Style                   8.0
+META                              7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+Gatekeeper/Key master             3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,894 | INFO  | No winner found
+2020-06-22 20:16:09,894 | INFO  | Removing Gatekeeper/Key master
+2020-06-22 20:16:09,899 | INFO  | candidate
+Glassdoor Lens                   15.0
+KITT                             12.0
+Glassdoor Video Testimonials     11.0
+Coding in Style                   8.0
+META                              7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+F.A.S.T                           4.0
+GD Task Manager                   4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,900 | INFO  | No winner found
+2020-06-22 20:16:09,900 | INFO  | Removing GD Task Manager
+2020-06-22 20:16:09,905 | INFO  | candidate
+Glassdoor Lens                   15.0
+KITT                             14.0
+Glassdoor Video Testimonials     11.0
+Coding in Style                   9.0
+META                              7.0
+Noble House von Teplitz           6.0
+DOS Dash                          5.0
+INSIGHT                           4.0
+#diversityhack                    4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+F.A.S.T                           4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,906 | INFO  | No winner found
+2020-06-22 20:16:09,906 | INFO  | Removing #diversityhack
+2020-06-22 20:16:09,911 | INFO  | candidate
+Glassdoor Lens                   15.0
+KITT                             14.0
+Glassdoor Video Testimonials     11.0
+Coding in Style                   9.0
+Noble House von Teplitz           7.0
+META                              7.0
+DOS Dash                          5.0
+INSIGHT                           4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+F.A.S.T                           4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,912 | INFO  | No winner found
+2020-06-22 20:16:09,912 | INFO  | Removing 404 Hack Project Not Found
+2020-06-22 20:16:09,917 | INFO  | candidate
+Glassdoor Lens                   15.0
+KITT                             15.0
+Glassdoor Video Testimonials     11.0
+Coding in Style                   9.0
+Noble House von Teplitz           7.0
+META                              7.0
+DOS Dash                          6.0
+INSIGHT                           5.0
+I Like Money, But I Hate Math     4.0
+F.A.S.T                           4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,918 | INFO  | No winner found
+2020-06-22 20:16:09,918 | INFO  | Removing I Like Money, But I Hate Math
+2020-06-22 20:16:09,923 | INFO  | candidate
+Glassdoor Lens                  16.0
+KITT                            15.0
+Glassdoor Video Testimonials    11.0
+Coding in Style                  9.0
+Noble House von Teplitz          7.0
+META                             7.0
+DOS Dash                         6.0
+INSIGHT                          5.0
+F.A.S.T                          4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,923 | INFO  | No winner found
+2020-06-22 20:16:09,924 | INFO  | Removing F.A.S.T
+2020-06-22 20:16:09,929 | INFO  | candidate
+Glassdoor Lens                  18.0
+KITT                            15.0
+Glassdoor Video Testimonials    11.0
+Coding in Style                 10.0
+Noble House von Teplitz          7.0
+META                             7.0
+DOS Dash                         6.0
+INSIGHT                          5.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,930 | INFO  | No winner found
+2020-06-22 20:16:09,930 | INFO  | Removing INSIGHT
+2020-06-22 20:16:09,935 | INFO  | candidate
+Glassdoor Lens                  18.0
+KITT                            15.0
+Glassdoor Video Testimonials    11.0
+Coding in Style                 10.0
+Noble House von Teplitz          7.0
+META                             7.0
+DOS Dash                         6.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,935 | INFO  | No winner found
+2020-06-22 20:16:09,936 | INFO  | Removing DOS Dash
+2020-06-22 20:16:09,941 | INFO  | candidate
+Glassdoor Lens                  18.0
+KITT                            15.0
+Glassdoor Video Testimonials    12.0
+Coding in Style                 11.0
+Noble House von Teplitz          9.0
+META                             7.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,941 | INFO  | No winner found
+2020-06-22 20:16:09,942 | INFO  | Removing META
+2020-06-22 20:16:09,947 | INFO  | candidate
+Glassdoor Lens                  18.0
+KITT                            16.0
+Glassdoor Video Testimonials    14.0
+Coding in Style                 11.0
+Noble House von Teplitz          9.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,947 | INFO  | No winner found
+2020-06-22 20:16:09,948 | INFO  | Removing Noble House von Teplitz
+2020-06-22 20:16:09,953 | INFO  | candidate
+Glassdoor Lens                  18.0
+KITT                            16.0
+Glassdoor Video Testimonials    14.0
+Coding in Style                 12.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,953 | INFO  | No winner found
+2020-06-22 20:16:09,954 | INFO  | Removing Coding in Style
+2020-06-22 20:16:09,959 | INFO  | candidate
+Glassdoor Lens                  18.0
+KITT                            18.0
+Glassdoor Video Testimonials    14.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,959 | INFO  | No winner found
+2020-06-22 20:16:09,960 | INFO  | Removing Glassdoor Video Testimonials
+2020-06-22 20:16:09,965 | INFO  | candidate
+Glassdoor Lens    21.0
+KITT              20.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,965 | WARNI | Winner declared: Glassdoor Lens with 21.0
+2020-06-22 20:16:09,966 | INFO  | candidate
+Glassdoor Lens    21.0
+KITT              20.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,966 | WARNI | Election complete: Glassdoor Lens declared winner for I <3 Engineering
+2020-06-22 20:16:09,966 | WARNI | Initializing election Ambassador of Br
+2020-06-22 20:16:09,970 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Noble House von Teplitz            2.0
+Corporate Accountability           2.0
+DOS Dash                           1.0
+ML-Company Recommendation          1.0
+F.A.S.T                            1.0
+Chatties                           1.0
+AuthId                             1.0
+404 Hack Project Not Found         1.0
+Discover Career Transitions        1.0
+Mocking Bird                       1.0
+Gatekeeper/Key master              1.0
+GD Redis Viewer                    1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+FAQ Your Jobs                      1.0
+Mobile Company Compare             1.0
+Team Resilient                     0.0
+AuthId - SAP                       0.0
+#noteamname                        0.0
+META                               0.0
+KITT                               0.0
+Topic Transformers                 0.0
+GD Task Manager                    0.0
+Vulcan                             0.0
+Props V3                           0.0
+GlassSage                          0.0
+Localized Locations                0.0
+I Like Money, But I Hate Math      0.0
+Helen & the Heartbreakers          0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,971 | INFO  | No winner found
+2020-06-22 20:16:09,971 | INFO  | Removing META
+2020-06-22 20:16:09,976 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Noble House von Teplitz            2.0
+Corporate Accountability           2.0
+AuthId                             1.0
+F.A.S.T                            1.0
+DOS Dash                           1.0
+GD Redis Viewer                    1.0
+Chatties                           1.0
+404 Hack Project Not Found         1.0
+Team Resilient                     1.0
+Discover Career Transitions        1.0
+Gatekeeper/Key master              1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+ML-Company Recommendation          1.0
+Mobile Company Compare             1.0
+AuthId - SAP                       0.0
+#noteamname                        0.0
+KITT                               0.0
+GlassSage                          0.0
+GD Task Manager                    0.0
+Vulcan                             0.0
+Props V3                           0.0
+Topic Transformers                 0.0
+Localized Locations                0.0
+I Like Money, But I Hate Math      0.0
+Helen & the Heartbreakers          0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,977 | INFO  | No winner found
+2020-06-22 20:16:09,978 | INFO  | Removing #noteamname
+2020-06-22 20:16:09,983 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Noble House von Teplitz            2.0
+Corporate Accountability           2.0
+404 Hack Project Not Found         1.0
+Discover Career Transitions        1.0
+F.A.S.T                            1.0
+DOS Dash                           1.0
+Chatties                           1.0
+GD Redis Viewer                    1.0
+Team Resilient                     1.0
+Gatekeeper/Key master              1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+AuthId                             1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+ML-Company Recommendation          1.0
+Mobile Company Compare             1.0
+AuthId - SAP                       0.0
+GD Task Manager                    0.0
+KITT                               0.0
+GlassSage                          0.0
+Vulcan                             0.0
+Props V3                           0.0
+Topic Transformers                 0.0
+Localized Locations                0.0
+I Like Money, But I Hate Math      0.0
+Helen & the Heartbreakers          0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,984 | INFO  | No winner found
+2020-06-22 20:16:09,984 | INFO  | Removing Localized Locations
+2020-06-22 20:16:09,989 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Noble House von Teplitz            2.0
+Corporate Accountability           2.0
+Mobile Company Compare             1.0
+F.A.S.T                            1.0
+DOS Dash                           1.0
+GD Redis Viewer                    1.0
+Chatties                           1.0
+404 Hack Project Not Found         1.0
+Team Resilient                     1.0
+Discover Career Transitions        1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+AuthId                             1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+ML-Company Recommendation          1.0
+Gatekeeper/Key master              1.0
+AuthId - SAP                       0.0
+KITT                               0.0
+GlassSage                          0.0
+GD Task Manager                    0.0
+Vulcan                             0.0
+Props V3                           0.0
+Topic Transformers                 0.0
+I Like Money, But I Hate Math      0.0
+Helen & the Heartbreakers          0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,990 | INFO  | No winner found
+2020-06-22 20:16:09,990 | INFO  | Removing Helen & the Heartbreakers
+2020-06-22 20:16:09,995 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Noble House von Teplitz            2.0
+Corporate Accountability           2.0
+Team Resilient                     1.0
+404 Hack Project Not Found         1.0
+DOS Dash                           1.0
+F.A.S.T                            1.0
+GD Redis Viewer                    1.0
+Chatties                           1.0
+Mobile Company Compare             1.0
+AuthId                             1.0
+Discover Career Transitions        1.0
+Gatekeeper/Key master              1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+ML-Company Recommendation          1.0
+AuthId - SAP                       0.0
+KITT                               0.0
+Topic Transformers                 0.0
+GD Task Manager                    0.0
+Vulcan                             0.0
+Props V3                           0.0
+GlassSage                          0.0
+I Like Money, But I Hate Math      0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:09,996 | INFO  | No winner found
+2020-06-22 20:16:09,997 | INFO  | Removing I Like Money, But I Hate Math
+2020-06-22 20:16:10,002 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Noble House von Teplitz            2.0
+Corporate Accountability           2.0
+Team Resilient                     1.0
+Chatties                           1.0
+DOS Dash                           1.0
+GD Redis Viewer                    1.0
+F.A.S.T                            1.0
+AuthId                             1.0
+Mobile Company Compare             1.0
+404 Hack Project Not Found         1.0
+Gatekeeper/Key master              1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+FAQ Your Jobs                      1.0
+Mocking Bird                       1.0
+ML-Company Recommendation          1.0
+Discover Career Transitions        1.0
+KITT                               0.0
+AuthId - SAP                       0.0
+Topic Transformers                 0.0
+GD Task Manager                    0.0
+Vulcan                             0.0
+Props V3                           0.0
+GlassSage                          0.0
+Benchmark Breakdown                0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,003 | INFO  | No winner found
+2020-06-22 20:16:10,003 | INFO  | Removing GlassSage
+2020-06-22 20:16:10,009 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Corporate Accountability           2.0
+Noble House von Teplitz            2.0
+Mocking Bird                       1.0
+FAQ Your Jobs                      1.0
+AuthId                             1.0
+GD Redis Viewer                    1.0
+DOS Dash                           1.0
+Discover Career Transitions        1.0
+F.A.S.T                            1.0
+Team Resilient                     1.0
+Jobs With Friends                  1.0
+DIRE straits                       1.0
+404 Hack Project Not Found         1.0
+ML-Company Recommendation          1.0
+Mobile Company Compare             1.0
+Gatekeeper/Key master              1.0
+Chatties                           1.0
+Connections                        1.0
+ML-Generated Role Descriptions     0.0
+Benchmark Breakdown                0.0
+AuthId - SAP                       0.0
+Topic Transformers                 0.0
+KITT                               0.0
+GD Task Manager                    0.0
+Vulcan                             0.0
+Props V3                           0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,010 | INFO  | No winner found
+2020-06-22 20:16:10,010 | INFO  | Removing Benchmark Breakdown
+2020-06-22 20:16:10,015 | INFO  | candidate
+Glassdoor Video Testimonials      36.0
+#diversityhack                    13.0
+Glassdoor Lens                    12.0
+EC App Team                       10.0
+INSIGHT                            4.0
+Corporate Accountability           2.0
+Noble House von Teplitz            2.0
+Mocking Bird                       1.0
+FAQ Your Jobs                      1.0
+AuthId                             1.0
+GD Redis Viewer                    1.0
+DOS Dash                           1.0
+Discover Career Transitions        1.0
+F.A.S.T                            1.0
+Team Resilient                     1.0
+Chatties                           1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Gatekeeper/Key master              1.0
+Jobs With Friends                  1.0
+Connections                        1.0
+DIRE straits                       1.0
+ML-Company Recommendation          1.0
+Topic Transformers                 0.0
+Props V3                           0.0
+Vulcan                             0.0
+GD Task Manager                    0.0
+KITT                               0.0
+AuthId - SAP                       0.0
+ML-Generated Role Descriptions     0.0
+Dependency Purgatory               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,016 | INFO  | No winner found
+2020-06-22 20:16:10,016 | INFO  | Removing ML-Generated Role Descriptions
+2020-06-22 20:16:10,021 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+F.A.S.T                          1.0
+Team Resilient                   1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Topic Transformers               0.0
+Props V3                         0.0
+Vulcan                           0.0
+GD Task Manager                  0.0
+KITT                             0.0
+AuthId - SAP                     0.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,022 | INFO  | No winner found
+2020-06-22 20:16:10,023 | INFO  | Removing AuthId - SAP
+2020-06-22 20:16:10,028 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+F.A.S.T                          1.0
+Team Resilient                   1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Topic Transformers               0.0
+Props V3                         0.0
+Vulcan                           0.0
+GD Task Manager                  0.0
+KITT                             0.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,028 | INFO  | No winner found
+2020-06-22 20:16:10,029 | INFO  | Removing Vulcan
+2020-06-22 20:16:10,034 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+F.A.S.T                          1.0
+Team Resilient                   1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Topic Transformers               0.0
+Props V3                         0.0
+GD Task Manager                  0.0
+KITT                             0.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,035 | INFO  | No winner found
+2020-06-22 20:16:10,035 | INFO  | Removing Topic Transformers
+2020-06-22 20:16:10,040 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+F.A.S.T                          1.0
+Team Resilient                   1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Props V3                         0.0
+GD Task Manager                  0.0
+KITT                             0.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,041 | INFO  | No winner found
+2020-06-22 20:16:10,041 | INFO  | Removing KITT
+2020-06-22 20:16:10,047 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+F.A.S.T                          1.0
+Team Resilient                   1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Props V3                         0.0
+GD Task Manager                  0.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,049 | INFO  | No winner found
+2020-06-22 20:16:10,050 | INFO  | Removing Props V3
+2020-06-22 20:16:10,056 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+F.A.S.T                          1.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+GD Task Manager                  0.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,056 | INFO  | No winner found
+2020-06-22 20:16:10,057 | INFO  | Removing GD Task Manager
+2020-06-22 20:16:10,062 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+F.A.S.T                          1.0
+Mocking Bird                     1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Dependency Purgatory             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,063 | INFO  | No winner found
+2020-06-22 20:16:10,063 | INFO  | Removing Dependency Purgatory
+2020-06-22 20:16:10,070 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  12.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+F.A.S.T                          1.0
+404 Hack Project Not Found       1.0
+Chatties                         1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+ML-Company Recommendation        1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,071 | INFO  | No winner found
+2020-06-22 20:16:10,072 | INFO  | Removing ML-Company Recommendation
+2020-06-22 20:16:10,078 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  13.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+F.A.S.T                          1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+Connections                      1.0
+DIRE straits                     1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,079 | INFO  | No winner found
+2020-06-22 20:16:10,079 | INFO  | Removing Connections
+2020-06-22 20:16:10,085 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Noble House von Teplitz          2.0
+Corporate Accountability         2.0
+Team Resilient                   1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+Chatties                         1.0
+F.A.S.T                          1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+Jobs With Friends                1.0
+DIRE straits                     1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,086 | INFO  | No winner found
+2020-06-22 20:16:10,086 | INFO  | Removing Jobs With Friends
+2020-06-22 20:16:10,094 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Noble House von Teplitz          2.0
+Corporate Accountability         2.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+GD Redis Viewer                  1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+Team Resilient                   1.0
+F.A.S.T                          1.0
+Chatties                         1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+DIRE straits                     1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,095 | INFO  | No winner found
+2020-06-22 20:16:10,096 | INFO  | Removing GD Redis Viewer
+2020-06-22 20:16:10,107 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Noble House von Teplitz          2.0
+Corporate Accountability         2.0
+Team Resilient                   1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+DOS Dash                         1.0
+Discover Career Transitions      1.0
+Chatties                         1.0
+F.A.S.T                          1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+DIRE straits                     1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,109 | INFO  | No winner found
+2020-06-22 20:16:10,111 | INFO  | Removing DOS Dash
+2020-06-22 20:16:10,120 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Chatties                         2.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+F.A.S.T                          1.0
+FAQ Your Jobs                    1.0
+AuthId                           1.0
+Discover Career Transitions      1.0
+Team Resilient                   1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+DIRE straits                     1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,121 | INFO  | No winner found
+2020-06-22 20:16:10,122 | INFO  | Removing Discover Career Transitions
+2020-06-22 20:16:10,127 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+FAQ Your Jobs                    2.0
+Corporate Accountability         2.0
+Noble House von Teplitz          2.0
+Chatties                         2.0
+Team Resilient                   1.0
+F.A.S.T                          1.0
+AuthId                           1.0
+404 Hack Project Not Found       1.0
+Mobile Company Compare           1.0
+Gatekeeper/Key master            1.0
+DIRE straits                     1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,128 | INFO  | No winner found
+2020-06-22 20:16:10,128 | INFO  | Removing DIRE straits
+2020-06-22 20:16:10,134 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+FAQ Your Jobs                    2.0
+Team Resilient                   1.0
+Gatekeeper/Key master            1.0
+Mobile Company Compare           1.0
+404 Hack Project Not Found       1.0
+F.A.S.T                          1.0
+AuthId                           1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,135 | INFO  | No winner found
+2020-06-22 20:16:10,135 | INFO  | Removing AuthId
+2020-06-22 20:16:10,140 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+FAQ Your Jobs                    2.0
+Team Resilient                   1.0
+Gatekeeper/Key master            1.0
+Mobile Company Compare           1.0
+404 Hack Project Not Found       1.0
+F.A.S.T                          1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,141 | INFO  | No winner found
+2020-06-22 20:16:10,141 | INFO  | Removing F.A.S.T
+2020-06-22 20:16:10,147 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+FAQ Your Jobs                    2.0
+Team Resilient                   1.0
+Gatekeeper/Key master            1.0
+Mobile Company Compare           1.0
+404 Hack Project Not Found       1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,147 | INFO  | No winner found
+2020-06-22 20:16:10,148 | INFO  | Removing Mobile Company Compare
+2020-06-22 20:16:10,153 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+FAQ Your Jobs                    2.0
+Team Resilient                   1.0
+Gatekeeper/Key master            1.0
+404 Hack Project Not Found       1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,154 | INFO  | No winner found
+2020-06-22 20:16:10,154 | INFO  | Removing 404 Hack Project Not Found
+2020-06-22 20:16:10,159 | INFO  | candidate
+Glassdoor Video Testimonials    36.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+FAQ Your Jobs                    3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+Gatekeeper/Key master            1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,160 | INFO  | No winner found
+2020-06-22 20:16:10,161 | INFO  | Removing Gatekeeper/Key master
+2020-06-22 20:16:10,166 | INFO  | candidate
+Glassdoor Video Testimonials    37.0
+#diversityhack                  14.0
+Glassdoor Lens                  13.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+FAQ Your Jobs                    3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+Mocking Bird                     1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,167 | INFO  | No winner found
+2020-06-22 20:16:10,167 | INFO  | Removing Mocking Bird
+2020-06-22 20:16:10,172 | INFO  | candidate
+Glassdoor Video Testimonials    37.0
+#diversityhack                  14.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+FAQ Your Jobs                    3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+Team Resilient                   1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,173 | INFO  | No winner found
+2020-06-22 20:16:10,173 | INFO  | Removing Team Resilient
+2020-06-22 20:16:10,179 | INFO  | candidate
+Glassdoor Video Testimonials    37.0
+#diversityhack                  14.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+FAQ Your Jobs                    3.0
+Chatties                         2.0
+Noble House von Teplitz          2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,179 | INFO  | No winner found
+2020-06-22 20:16:10,180 | INFO  | Removing Noble House von Teplitz
+2020-06-22 20:16:10,185 | INFO  | candidate
+Glassdoor Video Testimonials    38.0
+#diversityhack                  14.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+FAQ Your Jobs                    3.0
+Chatties                         2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,185 | INFO  | No winner found
+2020-06-22 20:16:10,186 | INFO  | Removing Chatties
+2020-06-22 20:16:10,191 | INFO  | candidate
+Glassdoor Video Testimonials    38.0
+#diversityhack                  15.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+FAQ Your Jobs                    3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,192 | INFO  | No winner found
+2020-06-22 20:16:10,192 | INFO  | Removing FAQ Your Jobs
+2020-06-22 20:16:10,198 | INFO  | candidate
+Glassdoor Video Testimonials    38.0
+#diversityhack                  16.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Corporate Accountability         3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,198 | INFO  | No winner found
+2020-06-22 20:16:10,199 | INFO  | Removing Corporate Accountability
+2020-06-22 20:16:10,204 | INFO  | candidate
+Glassdoor Video Testimonials    38.0
+#diversityhack                  18.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+INSIGHT                          4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,204 | INFO  | No winner found
+2020-06-22 20:16:10,205 | INFO  | Removing INSIGHT
+2020-06-22 20:16:10,210 | INFO  | candidate
+Glassdoor Video Testimonials    38.0
+#diversityhack                  19.0
+Glassdoor Lens                  14.0
+EC App Team                     10.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,211 | INFO  | No winner found
+2020-06-22 20:16:10,211 | INFO  | Removing EC App Team
+2020-06-22 20:16:10,216 | INFO  | candidate
+Glassdoor Video Testimonials    44.0
+#diversityhack                  19.0
+Glassdoor Lens                  15.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,217 | WARNI | Winner declared: Glassdoor Video Testimonials with 44.0
+2020-06-22 20:16:10,217 | INFO  | candidate
+Glassdoor Video Testimonials    44.0
+#diversityhack                  19.0
+Glassdoor Lens                  15.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,218 | WARNI | Election complete: Glassdoor Video Testimonials declared winner for Ambassador of Br
+2020-06-22 20:16:10,218 | WARNI | Initializing election Core StrengthAwa
+2020-06-22 20:16:10,221 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+I Like Money, But I Hate Math      4.0
+DIRE straits                       3.0
+F.A.S.T                            3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+GlassSage                          2.0
+Chatties                           2.0
+r8offers                           2.0
+Discover Career Transitions        2.0
+GD Task Manager                    1.0
+Vulcan                             1.0
+AuthId                             1.0
+#noteamname                        1.0
+ML - Fraud Job Detection           1.0
+AuthId - SAP                       1.0
+DOS Dash                           1.0
+Team Fault tolerant                1.0
+EC App Team                        1.0
+Topic Transformers                 1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Props V3                           0.0
+Team Resilient                     0.0
+Localized Locations                0.0
+ML Life                            0.0
+GD Redis Viewer                    0.0
+Benchmark Breakdown                0.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,222 | INFO  | No winner found
+2020-06-22 20:16:10,223 | INFO  | Removing Localized Locations
+2020-06-22 20:16:10,228 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+I Like Money, But I Hate Math      4.0
+FAQ Your Jobs                      3.0
+DIRE straits                       3.0
+F.A.S.T                            3.0
+Gatekeeper/Key master              3.0
+r8offers                           2.0
+Chatties                           2.0
+Discover Career Transitions        2.0
+GlassSage                          2.0
+DOS Dash                           1.0
+ML - Fraud Job Detection           1.0
+AuthId - SAP                       1.0
+GD Task Manager                    1.0
+AuthId                             1.0
+#noteamname                        1.0
+Vulcan                             1.0
+Team Fault tolerant                1.0
+EC App Team                        1.0
+Topic Transformers                 1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Props V3                           0.0
+Team Resilient                     0.0
+ML Life                            0.0
+GD Redis Viewer                    0.0
+Benchmark Breakdown                0.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,229 | INFO  | No winner found
+2020-06-22 20:16:10,229 | INFO  | Removing Benchmark Breakdown
+2020-06-22 20:16:10,234 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+Connections                        4.0
+Noble House von Teplitz            4.0
+I Like Money, But I Hate Math      4.0
+Gatekeeper/Key master              3.0
+F.A.S.T                            3.0
+DIRE straits                       3.0
+FAQ Your Jobs                      3.0
+r8offers                           2.0
+Chatties                           2.0
+GlassSage                          2.0
+Discover Career Transitions        2.0
+AuthId - SAP                       1.0
+Vulcan                             1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+DOS Dash                           1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+Team Fault tolerant                1.0
+Topic Transformers                 1.0
+EC App Team                        1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Props V3                           0.0
+Team Resilient                     0.0
+ML Life                            0.0
+GD Redis Viewer                    0.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,235 | INFO  | No winner found
+2020-06-22 20:16:10,236 | INFO  | Removing GD Redis Viewer
+2020-06-22 20:16:10,241 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+FAQ Your Jobs                      3.0
+DIRE straits                       3.0
+F.A.S.T                            3.0
+Gatekeeper/Key master              3.0
+Discover Career Transitions        2.0
+Chatties                           2.0
+GlassSage                          2.0
+r8offers                           2.0
+DOS Dash                           1.0
+ML - Fraud Job Detection           1.0
+AuthId - SAP                       1.0
+GD Task Manager                    1.0
+AuthId                             1.0
+#noteamname                        1.0
+Vulcan                             1.0
+Team Fault tolerant                1.0
+EC App Team                        1.0
+Topic Transformers                 1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Props V3                           0.0
+Team Resilient                     0.0
+ML Life                            0.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,242 | INFO  | No winner found
+2020-06-22 20:16:10,242 | INFO  | Removing Team Resilient
+2020-06-22 20:16:10,247 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+Gatekeeper/Key master              3.0
+F.A.S.T                            3.0
+DIRE straits                       3.0
+FAQ Your Jobs                      3.0
+r8offers                           2.0
+Chatties                           2.0
+GlassSage                          2.0
+Discover Career Transitions        2.0
+AuthId - SAP                       1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+DOS Dash                           1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+Team Fault tolerant                1.0
+Topic Transformers                 1.0
+Vulcan                             1.0
+EC App Team                        1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Props V3                           0.0
+ML Life                            0.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,248 | INFO  | No winner found
+2020-06-22 20:16:10,248 | INFO  | Removing Props V3
+2020-06-22 20:16:10,254 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+Gatekeeper/Key master              3.0
+F.A.S.T                            3.0
+DIRE straits                       3.0
+FAQ Your Jobs                      3.0
+r8offers                           2.0
+Chatties                           2.0
+Discover Career Transitions        2.0
+GlassSage                          2.0
+AuthId - SAP                       1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+DOS Dash                           1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+Team Fault tolerant                1.0
+Vulcan                             1.0
+EC App Team                        1.0
+Topic Transformers                 1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+ML Life                            0.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,254 | INFO  | No winner found
+2020-06-22 20:16:10,255 | INFO  | Removing ML Life
+2020-06-22 20:16:10,260 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+Gatekeeper/Key master              3.0
+F.A.S.T                            3.0
+DIRE straits                       3.0
+FAQ Your Jobs                      3.0
+r8offers                           2.0
+Chatties                           2.0
+Discover Career Transitions        2.0
+GlassSage                          2.0
+AuthId - SAP                       1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+DOS Dash                           1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+Team Fault tolerant                1.0
+Vulcan                             1.0
+EC App Team                        1.0
+Topic Transformers                 1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+META                               0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,261 | INFO  | No winner found
+2020-06-22 20:16:10,261 | INFO  | Removing META
+2020-06-22 20:16:10,266 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     8.0
+Glassdoor Video Testimonials       5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+Connections                        4.0
+Gatekeeper/Key master              3.0
+F.A.S.T                            3.0
+DIRE straits                       3.0
+FAQ Your Jobs                      3.0
+r8offers                           2.0
+GlassSage                          2.0
+Discover Career Transitions        2.0
+Chatties                           2.0
+AuthId - SAP                       1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+DOS Dash                           1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+Team Fault tolerant                1.0
+Vulcan                             1.0
+EC App Team                        1.0
+Topic Transformers                 1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,267 | INFO  | No winner found
+2020-06-22 20:16:10,268 | INFO  | Removing Topic Transformers
+2020-06-22 20:16:10,272 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+Glassdoor Lens                     9.0
+INSIGHT                            9.0
+Glassdoor Video Testimonials       5.0
+I Like Money, But I Hate Math      4.0
+Connections                        4.0
+Noble House von Teplitz            4.0
+Gatekeeper/Key master              3.0
+FAQ Your Jobs                      3.0
+F.A.S.T                            3.0
+DIRE straits                       3.0
+Discover Career Transitions        2.0
+GlassSage                          2.0
+Chatties                           2.0
+r8offers                           2.0
+DOS Dash                           1.0
+ML - Fraud Job Detection           1.0
+AuthId - SAP                       1.0
+AuthId                             1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+Team Fault tolerant                1.0
+Vulcan                             1.0
+EC App Team                        1.0
+404 Hack Project Not Found         1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,273 | INFO  | No winner found
+2020-06-22 20:16:10,274 | INFO  | Removing AuthId
+2020-06-22 20:16:10,279 | INFO  | candidate
+Jobs With Friends                 12.0
+#diversityhack                    10.0
+INSIGHT                            9.0
+Glassdoor Lens                     9.0
+Glassdoor Video Testimonials       5.0
+Connections                        4.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+Gatekeeper/Key master              3.0
+DIRE straits                       3.0
+F.A.S.T                            3.0
+FAQ Your Jobs                      3.0
+GlassSage                          2.0
+Discover Career Transitions        2.0
+AuthId - SAP                       2.0
+r8offers                           2.0
+Chatties                           2.0
+Team Fault tolerant                1.0
+DOS Dash                           1.0
+ML - Fraud Job Detection           1.0
+#noteamname                        1.0
+GD Task Manager                    1.0
+404 Hack Project Not Found         1.0
+Vulcan                             1.0
+EC App Team                        1.0
+Mobile Company Compare             1.0
+Corporate Accountability           1.0
+Helen & the Heartbreakers          1.0
+ML-Generated Role Descriptions     1.0
+ML-Company Recommendation          1.0
+Dependency Purgatory               1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,279 | INFO  | No winner found
+2020-06-22 20:16:10,280 | INFO  | Removing ML-Generated Role Descriptions
+2020-06-22 20:16:10,285 | INFO  | candidate
+Jobs With Friends                12.0
+#diversityhack                   10.0
+INSIGHT                           9.0
+Glassdoor Lens                    9.0
+Glassdoor Video Testimonials      5.0
+Noble House von Teplitz           4.0
+Connections                       4.0
+I Like Money, But I Hate Math     4.0
+FAQ Your Jobs                     3.0
+DIRE straits                      3.0
+F.A.S.T                           3.0
+Gatekeeper/Key master             3.0
+Discover Career Transitions       2.0
+GlassSage                         2.0
+Chatties                          2.0
+r8offers                          2.0
+ML-Company Recommendation         2.0
+AuthId - SAP                      2.0
+ML - Fraud Job Detection          1.0
+GD Task Manager                   1.0
+DOS Dash                          1.0
+#noteamname                       1.0
+Team Fault tolerant               1.0
+Vulcan                            1.0
+EC App Team                       1.0
+404 Hack Project Not Found        1.0
+Mobile Company Compare            1.0
+Corporate Accountability          1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,286 | INFO  | No winner found
+2020-06-22 20:16:10,286 | INFO  | Removing Corporate Accountability
+2020-06-22 20:16:10,292 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   10.0
+INSIGHT                           9.0
+Glassdoor Lens                    9.0
+Glassdoor Video Testimonials      5.0
+Noble House von Teplitz           4.0
+Connections                       4.0
+I Like Money, But I Hate Math     4.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+DIRE straits                      3.0
+Gatekeeper/Key master             3.0
+GlassSage                         2.0
+Chatties                          2.0
+AuthId - SAP                      2.0
+r8offers                          2.0
+Discover Career Transitions       2.0
+ML-Company Recommendation         2.0
+ML - Fraud Job Detection          1.0
+DOS Dash                          1.0
+#noteamname                       1.0
+Team Fault tolerant               1.0
+GD Task Manager                   1.0
+Vulcan                            1.0
+EC App Team                       1.0
+404 Hack Project Not Found        1.0
+Mobile Company Compare            1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,292 | INFO  | No winner found
+2020-06-22 20:16:10,293 | INFO  | Removing Mobile Company Compare
+2020-06-22 20:16:10,298 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   10.0
+INSIGHT                           9.0
+Glassdoor Lens                    9.0
+Glassdoor Video Testimonials      5.0
+I Like Money, But I Hate Math     4.0
+Noble House von Teplitz           4.0
+Connections                       4.0
+FAQ Your Jobs                     3.0
+DIRE straits                      3.0
+Gatekeeper/Key master             3.0
+F.A.S.T                           3.0
+AuthId - SAP                      2.0
+EC App Team                       2.0
+GlassSage                         2.0
+Chatties                          2.0
+r8offers                          2.0
+ML-Company Recommendation         2.0
+Discover Career Transitions       2.0
+#noteamname                       1.0
+DOS Dash                          1.0
+ML - Fraud Job Detection          1.0
+Team Fault tolerant               1.0
+GD Task Manager                   1.0
+Vulcan                            1.0
+404 Hack Project Not Found        1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,299 | INFO  | No winner found
+2020-06-22 20:16:10,299 | INFO  | Removing ML - Fraud Job Detection
+2020-06-22 20:16:10,304 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   10.0
+Glassdoor Lens                    9.0
+INSIGHT                           9.0
+Glassdoor Video Testimonials      5.0
+Noble House von Teplitz           4.0
+Connections                       4.0
+I Like Money, But I Hate Math     4.0
+r8offers                          3.0
+FAQ Your Jobs                     3.0
+DIRE straits                      3.0
+Gatekeeper/Key master             3.0
+F.A.S.T                           3.0
+AuthId - SAP                      2.0
+EC App Team                       2.0
+Chatties                          2.0
+GlassSage                         2.0
+Discover Career Transitions       2.0
+ML-Company Recommendation         2.0
+#noteamname                       1.0
+DOS Dash                          1.0
+Team Fault tolerant               1.0
+GD Task Manager                   1.0
+Vulcan                            1.0
+404 Hack Project Not Found        1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,305 | INFO  | No winner found
+2020-06-22 20:16:10,305 | INFO  | Removing 404 Hack Project Not Found
+2020-06-22 20:16:10,310 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   10.0
+Glassdoor Lens                    9.0
+INSIGHT                           9.0
+Connections                       5.0
+Glassdoor Video Testimonials      5.0
+Noble House von Teplitz           4.0
+I Like Money, But I Hate Math     4.0
+r8offers                          3.0
+FAQ Your Jobs                     3.0
+DIRE straits                      3.0
+Gatekeeper/Key master             3.0
+F.A.S.T                           3.0
+EC App Team                       2.0
+AuthId - SAP                      2.0
+GlassSage                         2.0
+Chatties                          2.0
+ML-Company Recommendation         2.0
+Discover Career Transitions       2.0
+#noteamname                       1.0
+DOS Dash                          1.0
+Team Fault tolerant               1.0
+GD Task Manager                   1.0
+Vulcan                            1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,311 | INFO  | No winner found
+2020-06-22 20:16:10,311 | INFO  | Removing DOS Dash
+2020-06-22 20:16:10,316 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   10.0
+Glassdoor Lens                    9.0
+INSIGHT                           9.0
+Glassdoor Video Testimonials      5.0
+Connections                       5.0
+Noble House von Teplitz           4.0
+I Like Money, But I Hate Math     4.0
+r8offers                          3.0
+FAQ Your Jobs                     3.0
+DIRE straits                      3.0
+Gatekeeper/Key master             3.0
+F.A.S.T                           3.0
+EC App Team                       2.0
+Chatties                          2.0
+GlassSage                         2.0
+Discover Career Transitions       2.0
+ML-Company Recommendation         2.0
+AuthId - SAP                      2.0
+#noteamname                       1.0
+Team Fault tolerant               1.0
+GD Task Manager                   1.0
+Vulcan                            1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,317 | INFO  | No winner found
+2020-06-22 20:16:10,317 | INFO  | Removing #noteamname
+2020-06-22 20:16:10,322 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+INSIGHT                           9.0
+Glassdoor Video Testimonials      5.0
+Connections                       5.0
+Noble House von Teplitz           4.0
+I Like Money, But I Hate Math     4.0
+r8offers                          3.0
+F.A.S.T                           3.0
+Gatekeeper/Key master             3.0
+DIRE straits                      3.0
+FAQ Your Jobs                     3.0
+Discover Career Transitions       2.0
+GlassSage                         2.0
+EC App Team                       2.0
+ML-Company Recommendation         2.0
+AuthId - SAP                      2.0
+Chatties                          2.0
+Team Fault tolerant               1.0
+GD Task Manager                   1.0
+Vulcan                            1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,323 | INFO  | No winner found
+2020-06-22 20:16:10,323 | INFO  | Removing GD Task Manager
+2020-06-22 20:16:10,329 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+INSIGHT                           9.0
+Glassdoor Video Testimonials      5.0
+Connections                       5.0
+I Like Money, But I Hate Math     4.0
+Noble House von Teplitz           4.0
+DIRE straits                      3.0
+r8offers                          3.0
+FAQ Your Jobs                     3.0
+F.A.S.T                           3.0
+Gatekeeper/Key master             3.0
+Discover Career Transitions       2.0
+Chatties                          2.0
+GlassSage                         2.0
+ML-Company Recommendation         2.0
+EC App Team                       2.0
+AuthId - SAP                      2.0
+Team Fault tolerant               1.0
+Vulcan                            1.0
+Helen & the Heartbreakers         1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,329 | INFO  | No winner found
+2020-06-22 20:16:10,330 | INFO  | Removing Helen & the Heartbreakers
+2020-06-22 20:16:10,335 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+INSIGHT                           9.0
+Connections                       5.0
+Glassdoor Video Testimonials      5.0
+Noble House von Teplitz           4.0
+DIRE straits                      4.0
+I Like Money, But I Hate Math     4.0
+r8offers                          3.0
+Gatekeeper/Key master             3.0
+FAQ Your Jobs                     3.0
+F.A.S.T                           3.0
+EC App Team                       2.0
+Chatties                          2.0
+GlassSage                         2.0
+AuthId - SAP                      2.0
+ML-Company Recommendation         2.0
+Discover Career Transitions       2.0
+Team Fault tolerant               1.0
+Vulcan                            1.0
+Dependency Purgatory              1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,335 | INFO  | No winner found
+2020-06-22 20:16:10,336 | INFO  | Removing Dependency Purgatory
+2020-06-22 20:16:10,341 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   11.0
+INSIGHT                          10.0
+Glassdoor Lens                   10.0
+Connections                       5.0
+Glassdoor Video Testimonials      5.0
+I Like Money, But I Hate Math     4.0
+Noble House von Teplitz           4.0
+DIRE straits                      4.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+r8offers                          3.0
+Gatekeeper/Key master             3.0
+Chatties                          2.0
+GlassSage                         2.0
+EC App Team                       2.0
+ML-Company Recommendation         2.0
+Discover Career Transitions       2.0
+AuthId - SAP                      2.0
+Vulcan                            1.0
+Team Fault tolerant               1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,342 | INFO  | No winner found
+2020-06-22 20:16:10,342 | INFO  | Removing Vulcan
+2020-06-22 20:16:10,347 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+INSIGHT                          10.0
+Glassdoor Video Testimonials      5.0
+Connections                       5.0
+I Like Money, But I Hate Math     4.0
+Noble House von Teplitz           4.0
+DIRE straits                      4.0
+r8offers                          4.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+Gatekeeper/Key master             3.0
+GlassSage                         2.0
+Chatties                          2.0
+EC App Team                       2.0
+ML-Company Recommendation         2.0
+Discover Career Transitions       2.0
+AuthId - SAP                      2.0
+Team Fault tolerant               1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,348 | INFO  | No winner found
+2020-06-22 20:16:10,348 | INFO  | Removing Team Fault tolerant
+2020-06-22 20:16:10,353 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   11.0
+INSIGHT                          10.0
+Glassdoor Lens                   10.0
+Connections                       5.0
+Glassdoor Video Testimonials      5.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+I Like Money, But I Hate Math     4.0
+DIRE straits                      4.0
+Gatekeeper/Key master             3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+ML-Company Recommendation         2.0
+Chatties                          2.0
+GlassSage                         2.0
+EC App Team                       2.0
+Discover Career Transitions       2.0
+AuthId - SAP                      2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,354 | INFO  | No winner found
+2020-06-22 20:16:10,354 | INFO  | Removing Discover Career Transitions
+2020-06-22 20:16:10,360 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   11.0
+INSIGHT                          10.0
+Glassdoor Lens                   10.0
+Glassdoor Video Testimonials      5.0
+I Like Money, But I Hate Math     5.0
+Connections                       5.0
+r8offers                          4.0
+DIRE straits                      4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+GlassSage                         3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+ML-Company Recommendation         2.0
+Chatties                          2.0
+EC App Team                       2.0
+AuthId - SAP                      2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,361 | INFO  | No winner found
+2020-06-22 20:16:10,361 | INFO  | Removing Chatties
+2020-06-22 20:16:10,366 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   12.0
+INSIGHT                          10.0
+Glassdoor Lens                   10.0
+I Like Money, But I Hate Math     5.0
+Connections                       5.0
+Glassdoor Video Testimonials      5.0
+Noble House von Teplitz           4.0
+r8offers                          4.0
+DIRE straits                      4.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+ML-Company Recommendation         2.0
+EC App Team                       2.0
+AuthId - SAP                      2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,367 | INFO  | No winner found
+2020-06-22 20:16:10,367 | INFO  | Removing EC App Team
+2020-06-22 20:16:10,372 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   12.0
+INSIGHT                          10.0
+Glassdoor Lens                   10.0
+Connections                       5.0
+I Like Money, But I Hate Math     5.0
+Glassdoor Video Testimonials      5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+GlassSage                         3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+ML-Company Recommendation         2.0
+AuthId - SAP                      2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,373 | INFO  | No winner found
+2020-06-22 20:16:10,373 | INFO  | Removing AuthId - SAP
+2020-06-22 20:16:10,378 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   12.0
+INSIGHT                          10.0
+Glassdoor Lens                   10.0
+Connections                       5.0
+I Like Money, But I Hate Math     5.0
+Glassdoor Video Testimonials      5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+GlassSage                         3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+ML-Company Recommendation         2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,379 | INFO  | No winner found
+2020-06-22 20:16:10,379 | INFO  | Removing ML-Company Recommendation
+2020-06-22 20:16:10,384 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   12.0
+INSIGHT                          11.0
+Glassdoor Lens                   11.0
+Connections                       5.0
+I Like Money, But I Hate Math     5.0
+Glassdoor Video Testimonials      5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+GlassSage                         3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,384 | INFO  | No winner found
+2020-06-22 20:16:10,385 | INFO  | Removing Gatekeeper/Key master
+2020-06-22 20:16:10,390 | INFO  | candidate
+Jobs With Friends                13.0
+#diversityhack                   12.0
+INSIGHT                          11.0
+Glassdoor Lens                   11.0
+I Like Money, But I Hate Math     6.0
+Glassdoor Video Testimonials      6.0
+Connections                       5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+GlassSage                         3.0
+F.A.S.T                           3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,390 | INFO  | No winner found
+2020-06-22 20:16:10,391 | INFO  | Removing F.A.S.T
+2020-06-22 20:16:10,396 | INFO  | candidate
+#diversityhack                   13.0
+Jobs With Friends                13.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math     7.0
+Glassdoor Video Testimonials      6.0
+Connections                       5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+GlassSage                         3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,396 | INFO  | No winner found
+2020-06-22 20:16:10,397 | INFO  | Removing GlassSage
+2020-06-22 20:16:10,402 | INFO  | candidate
+#diversityhack                   14.0
+Jobs With Friends                13.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math     7.0
+Glassdoor Video Testimonials      6.0
+Connections                       5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,402 | INFO  | No winner found
+2020-06-22 20:16:10,403 | INFO  | Removing FAQ Your Jobs
+2020-06-22 20:16:10,407 | INFO  | candidate
+#diversityhack                   14.0
+Jobs With Friends                13.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math     7.0
+Glassdoor Video Testimonials      7.0
+Connections                       5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Noble House von Teplitz           4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,408 | INFO  | No winner found
+2020-06-22 20:16:10,408 | INFO  | Removing Noble House von Teplitz
+2020-06-22 20:16:10,413 | INFO  | candidate
+#diversityhack                   14.0
+Jobs With Friends                13.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math    10.0
+Glassdoor Video Testimonials      7.0
+Connections                       5.0
+DIRE straits                      4.0
+r8offers                          4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,414 | INFO  | No winner found
+2020-06-22 20:16:10,414 | INFO  | Removing r8offers
+2020-06-22 20:16:10,419 | INFO  | candidate
+#diversityhack                   14.0
+Jobs With Friends                13.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math    10.0
+Glassdoor Video Testimonials      7.0
+Connections                       5.0
+DIRE straits                      4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,420 | INFO  | No winner found
+2020-06-22 20:16:10,421 | INFO  | Removing DIRE straits
+2020-06-22 20:16:10,426 | INFO  | candidate
+#diversityhack                   17.0
+Jobs With Friends                13.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math    10.0
+Glassdoor Video Testimonials      7.0
+Connections                       5.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,427 | INFO  | No winner found
+2020-06-22 20:16:10,427 | INFO  | Removing Connections
+2020-06-22 20:16:10,432 | INFO  | candidate
+#diversityhack                   17.0
+Jobs With Friends                15.0
+Glassdoor Lens                   12.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math    10.0
+Glassdoor Video Testimonials      8.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,432 | INFO  | No winner found
+2020-06-22 20:16:10,433 | INFO  | Removing Glassdoor Video Testimonials
+2020-06-22 20:16:10,437 | INFO  | candidate
+#diversityhack                   18.0
+Jobs With Friends                16.0
+Glassdoor Lens                   14.0
+INSIGHT                          11.0
+I Like Money, But I Hate Math    10.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,438 | INFO  | No winner found
+2020-06-22 20:16:10,438 | INFO  | Removing I Like Money, But I Hate Math
+2020-06-22 20:16:10,443 | INFO  | candidate
+#diversityhack       18.0
+Jobs With Friends    17.0
+Glassdoor Lens       14.0
+INSIGHT              12.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,444 | INFO  | No winner found
+2020-06-22 20:16:10,444 | INFO  | Removing INSIGHT
+2020-06-22 20:16:10,449 | INFO  | candidate
+#diversityhack       18.0
+Jobs With Friends    17.0
+Glassdoor Lens       15.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,450 | INFO  | No winner found
+2020-06-22 20:16:10,450 | INFO  | Removing Glassdoor Lens
+2020-06-22 20:16:10,455 | INFO  | candidate
+#diversityhack       18.0
+Jobs With Friends    18.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,455 | INFO  | No winner found
+2020-06-22 20:16:10,456 | INFO  | Removing Jobs With Friends
+2020-06-22 20:16:10,461 | INFO  | candidate
+#diversityhack    19.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,462 | WARNI | Winner declared: #diversityhack with 19.0
+2020-06-22 20:16:10,462 | INFO  | candidate
+#diversityhack    19.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,462 | WARNI | Election complete: #diversityhack declared winner for Core StrengthAwa
+2020-06-22 20:16:10,462 | WARNI | Initializing election Baby Come BackAw
+2020-06-22 20:16:10,466 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+r8offers                           4.0
+Noble House von Teplitz            4.0
+404 Hack Project Not Found         4.0
+I Like Money, But I Hate Math      4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+Vulcan                             2.0
+Glassdoor Video Testimonials       2.0
+AuthId                             1.0
+Chatties                           1.0
+ML - Fraud Job Detection           1.0
+ML Life                            1.0
+Props V3                           1.0
+GD Task Manager                    0.0
+AuthId - SAP                       0.0
+DOS Dash                           0.0
+ML-Generated Role Descriptions     0.0
+Mobile Company Compare             0.0
+Benchmark Breakdown                0.0
+F.A.S.T                            0.0
+Helen & the Heartbreakers          0.0
+DIRE straits                       0.0
+ML-Company Recommendation          0.0
+Corporate Accountability           0.0
+Localized Locations                0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,467 | INFO  | No winner found
+2020-06-22 20:16:10,467 | INFO  | Removing Helen & the Heartbreakers
+2020-06-22 20:16:10,472 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+r8offers                           4.0
+Noble House von Teplitz            4.0
+404 Hack Project Not Found         4.0
+I Like Money, But I Hate Math      4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+Vulcan                             2.0
+Glassdoor Video Testimonials       2.0
+Props V3                           1.0
+AuthId                             1.0
+ML - Fraud Job Detection           1.0
+ML Life                            1.0
+Chatties                           1.0
+F.A.S.T                            0.0
+DIRE straits                       0.0
+Benchmark Breakdown                0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+DOS Dash                           0.0
+Corporate Accountability           0.0
+ML-Company Recommendation          0.0
+AuthId - SAP                       0.0
+Localized Locations                0.0
+Mobile Company Compare             0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,473 | INFO  | No winner found
+2020-06-22 20:16:10,473 | INFO  | Removing Benchmark Breakdown
+2020-06-22 20:16:10,478 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+404 Hack Project Not Found         4.0
+r8offers                           4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Chatties                           1.0
+AuthId                             1.0
+Props V3                           1.0
+ML - Fraud Job Detection           1.0
+ML Life                            1.0
+ML-Generated Role Descriptions     0.0
+AuthId - SAP                       0.0
+DOS Dash                           0.0
+Mobile Company Compare             0.0
+GD Task Manager                    0.0
+Localized Locations                0.0
+F.A.S.T                            0.0
+Corporate Accountability           0.0
+ML-Company Recommendation          0.0
+DIRE straits                       0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,479 | INFO  | No winner found
+2020-06-22 20:16:10,480 | INFO  | Removing Mobile Company Compare
+2020-06-22 20:16:10,484 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+I Like Money, But I Hate Math      4.0
+Noble House von Teplitz            4.0
+404 Hack Project Not Found         4.0
+r8offers                           4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+Gatekeeper/Key master              3.0
+FAQ Your Jobs                      3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Chatties                           1.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+ML-Company Recommendation          0.0
+Corporate Accountability           0.0
+F.A.S.T                            0.0
+Localized Locations                0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+DOS Dash                           0.0
+AuthId - SAP                       0.0
+DIRE straits                       0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,485 | INFO  | No winner found
+2020-06-22 20:16:10,486 | INFO  | Removing F.A.S.T
+2020-06-22 20:16:10,498 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+404 Hack Project Not Found         4.0
+Noble House von Teplitz            4.0
+r8offers                           4.0
+I Like Money, But I Hate Math      4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+Chatties                           1.0
+Localized Locations                0.0
+ML-Company Recommendation          0.0
+Corporate Accountability           0.0
+DIRE straits                       0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+DOS Dash                           0.0
+AuthId - SAP                       0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,499 | INFO  | No winner found
+2020-06-22 20:16:10,500 | INFO  | Removing Corporate Accountability
+2020-06-22 20:16:10,506 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+404 Hack Project Not Found         4.0
+Noble House von Teplitz            4.0
+r8offers                           4.0
+I Like Money, But I Hate Math      4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+Gatekeeper/Key master              3.0
+FAQ Your Jobs                      3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Chatties                           1.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+Localized Locations                0.0
+ML-Company Recommendation          0.0
+DIRE straits                       0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+DOS Dash                           0.0
+AuthId - SAP                       0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,506 | INFO  | No winner found
+2020-06-22 20:16:10,507 | INFO  | Removing AuthId - SAP
+2020-06-22 20:16:10,512 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+Noble House von Teplitz            4.0
+r8offers                           4.0
+I Like Money, But I Hate Math      4.0
+404 Hack Project Not Found         4.0
+GlassSage                          3.0
+Discover Career Transitions        3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+Chatties                           1.0
+ML-Company Recommendation          0.0
+Localized Locations                0.0
+DIRE straits                       0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+DOS Dash                           0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,513 | INFO  | No winner found
+2020-06-22 20:16:10,513 | INFO  | Removing Localized Locations
+2020-06-22 20:16:10,518 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+404 Hack Project Not Found         4.0
+Noble House von Teplitz            4.0
+r8offers                           4.0
+I Like Money, But I Hate Math      4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+Gatekeeper/Key master              3.0
+FAQ Your Jobs                      3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Chatties                           1.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+ML-Company Recommendation          0.0
+DIRE straits                       0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+DOS Dash                           0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,520 | INFO  | No winner found
+2020-06-22 20:16:10,520 | INFO  | Removing DOS Dash
+2020-06-22 20:16:10,525 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+Noble House von Teplitz            4.0
+r8offers                           4.0
+I Like Money, But I Hate Math      4.0
+404 Hack Project Not Found         4.0
+GlassSage                          3.0
+Discover Career Transitions        3.0
+FAQ Your Jobs                      3.0
+Gatekeeper/Key master              3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+Chatties                           1.0
+ML-Company Recommendation          0.0
+DIRE straits                       0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,526 | INFO  | No winner found
+2020-06-22 20:16:10,526 | INFO  | Removing DIRE straits
+2020-06-22 20:16:10,531 | INFO  | candidate
+Jobs With Friends                 18.0
+Connections                       12.0
+Glassdoor Lens                     9.0
+#diversityhack                     8.0
+INSIGHT                            5.0
+EC App Team                        5.0
+Noble House von Teplitz            4.0
+r8offers                           4.0
+I Like Money, But I Hate Math      4.0
+404 Hack Project Not Found         4.0
+Discover Career Transitions        3.0
+GlassSage                          3.0
+Gatekeeper/Key master              3.0
+FAQ Your Jobs                      3.0
+Glassdoor Video Testimonials       2.0
+Vulcan                             2.0
+Chatties                           1.0
+Props V3                           1.0
+ML Life                            1.0
+ML - Fraud Job Detection           1.0
+AuthId                             1.0
+ML-Company Recommendation          0.0
+GD Task Manager                    0.0
+ML-Generated Role Descriptions     0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,532 | INFO  | No winner found
+2020-06-22 20:16:10,533 | INFO  | Removing ML-Generated Role Descriptions
+2020-06-22 20:16:10,538 | INFO  | candidate
+Jobs With Friends                18.0
+Connections                      12.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Discover Career Transitions       3.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+FAQ Your Jobs                     3.0
+Glassdoor Video Testimonials      2.0
+Vulcan                            2.0
+Props V3                          1.0
+Chatties                          1.0
+ML Life                           1.0
+ML - Fraud Job Detection          1.0
+AuthId                            1.0
+ML-Company Recommendation         0.0
+GD Task Manager                   0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,538 | INFO  | No winner found
+2020-06-22 20:16:10,539 | INFO  | Removing ML-Company Recommendation
+2020-06-22 20:16:10,544 | INFO  | candidate
+Jobs With Friends                18.0
+Connections                      12.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+Vulcan                            2.0
+Glassdoor Video Testimonials      2.0
+Props V3                          1.0
+Chatties                          1.0
+ML Life                           1.0
+ML - Fraud Job Detection          1.0
+AuthId                            1.0
+GD Task Manager                   0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,545 | INFO  | No winner found
+2020-06-22 20:16:10,545 | INFO  | Removing GD Task Manager
+2020-06-22 20:16:10,550 | INFO  | candidate
+Jobs With Friends                18.0
+Connections                      12.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Discover Career Transitions       3.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+FAQ Your Jobs                     3.0
+Glassdoor Video Testimonials      2.0
+Vulcan                            2.0
+Props V3                          1.0
+Chatties                          1.0
+ML Life                           1.0
+ML - Fraud Job Detection          1.0
+AuthId                            1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,551 | INFO  | No winner found
+2020-06-22 20:16:10,551 | INFO  | Removing ML Life
+2020-06-22 20:16:10,556 | INFO  | candidate
+Jobs With Friends                18.0
+Connections                      12.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Discover Career Transitions       3.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+FAQ Your Jobs                     3.0
+Glassdoor Video Testimonials      2.0
+Vulcan                            2.0
+Chatties                          2.0
+Props V3                          1.0
+ML - Fraud Job Detection          1.0
+AuthId                            1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,557 | INFO  | No winner found
+2020-06-22 20:16:10,557 | INFO  | Removing Props V3
+2020-06-22 20:16:10,562 | INFO  | candidate
+Jobs With Friends                18.0
+Connections                      12.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+Glassdoor Video Testimonials      2.0
+Vulcan                            2.0
+Chatties                          2.0
+ML - Fraud Job Detection          1.0
+AuthId                            1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,563 | INFO  | No winner found
+2020-06-22 20:16:10,563 | INFO  | Removing ML - Fraud Job Detection
+2020-06-22 20:16:10,569 | INFO  | candidate
+Jobs With Friends                18.0
+Connections                      13.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+I Like Money, But I Hate Math     4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+Glassdoor Video Testimonials      2.0
+Vulcan                            2.0
+Chatties                          2.0
+AuthId                            1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,569 | INFO  | No winner found
+2020-06-22 20:16:10,570 | INFO  | Removing AuthId
+2020-06-22 20:16:10,575 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      13.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+EC App Team                       5.0
+Noble House von Teplitz           4.0
+404 Hack Project Not Found        4.0
+I Like Money, But I Hate Math     4.0
+r8offers                          4.0
+GlassSage                         3.0
+Gatekeeper/Key master             3.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+Chatties                          2.0
+Glassdoor Video Testimonials      2.0
+Vulcan                            2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,575 | INFO  | No winner found
+2020-06-22 20:16:10,576 | INFO  | Removing Vulcan
+2020-06-22 20:16:10,581 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      13.0
+Glassdoor Lens                    9.0
+#diversityhack                    8.0
+INSIGHT                           5.0
+I Like Money, But I Hate Math     5.0
+EC App Team                       5.0
+r8offers                          4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+Chatties                          3.0
+GlassSage                         3.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+Glassdoor Video Testimonials      2.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,582 | INFO  | No winner found
+2020-06-22 20:16:10,582 | INFO  | Removing Glassdoor Video Testimonials
+2020-06-22 20:16:10,588 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      13.0
+#diversityhack                   10.0
+Glassdoor Lens                    9.0
+INSIGHT                           5.0
+I Like Money, But I Hate Math     5.0
+EC App Team                       5.0
+r8offers                          4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+Chatties                          3.0
+GlassSage                         3.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,588 | INFO  | No winner found
+2020-06-22 20:16:10,589 | INFO  | Removing GlassSage
+2020-06-22 20:16:10,594 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      13.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+I Like Money, But I Hate Math     7.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+Chatties                          3.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,595 | INFO  | No winner found
+2020-06-22 20:16:10,595 | INFO  | Removing Chatties
+2020-06-22 20:16:10,600 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      14.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+I Like Money, But I Hate Math     7.0
+INSIGHT                           5.0
+EC App Team                       5.0
+r8offers                          4.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+Discover Career Transitions       3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,601 | INFO  | No winner found
+2020-06-22 20:16:10,601 | INFO  | Removing Discover Career Transitions
+2020-06-22 20:16:10,606 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      14.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+I Like Money, But I Hate Math     8.0
+EC App Team                       6.0
+INSIGHT                           5.0
+r8offers                          5.0
+404 Hack Project Not Found        4.0
+Noble House von Teplitz           4.0
+Gatekeeper/Key master             3.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,607 | INFO  | No winner found
+2020-06-22 20:16:10,607 | INFO  | Removing Gatekeeper/Key master
+2020-06-22 20:16:10,613 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      14.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+I Like Money, But I Hate Math     8.0
+INSIGHT                           6.0
+EC App Team                       6.0
+r8offers                          5.0
+404 Hack Project Not Found        5.0
+Noble House von Teplitz           4.0
+FAQ Your Jobs                     3.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,613 | INFO  | No winner found
+2020-06-22 20:16:10,614 | INFO  | Removing FAQ Your Jobs
+2020-06-22 20:16:10,619 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      14.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+I Like Money, But I Hate Math     8.0
+INSIGHT                           6.0
+EC App Team                       6.0
+r8offers                          5.0
+404 Hack Project Not Found        5.0
+Noble House von Teplitz           4.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,619 | INFO  | No winner found
+2020-06-22 20:16:10,620 | INFO  | Removing Noble House von Teplitz
+2020-06-22 20:16:10,625 | INFO  | candidate
+Jobs With Friends                19.0
+Connections                      15.0
+I Like Money, But I Hate Math    11.0
+#diversityhack                   10.0
+Glassdoor Lens                   10.0
+INSIGHT                           6.0
+EC App Team                       6.0
+r8offers                          5.0
+404 Hack Project Not Found        5.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,625 | INFO  | No winner found
+2020-06-22 20:16:10,626 | INFO  | Removing 404 Hack Project Not Found
+2020-06-22 20:16:10,631 | INFO  | candidate
+Jobs With Friends                20.0
+Connections                      15.0
+I Like Money, But I Hate Math    13.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+INSIGHT                           6.0
+EC App Team                       6.0
+r8offers                          5.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,632 | INFO  | No winner found
+2020-06-22 20:16:10,632 | INFO  | Removing r8offers
+2020-06-22 20:16:10,638 | INFO  | candidate
+Jobs With Friends                22.0
+Connections                      15.0
+I Like Money, But I Hate Math    13.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+INSIGHT                           6.0
+EC App Team                       6.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,638 | INFO  | No winner found
+2020-06-22 20:16:10,638 | INFO  | Removing INSIGHT
+2020-06-22 20:16:10,643 | INFO  | candidate
+Jobs With Friends                22.0
+Connections                      16.0
+I Like Money, But I Hate Math    13.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+EC App Team                       6.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,644 | INFO  | No winner found
+2020-06-22 20:16:10,644 | INFO  | Removing EC App Team
+2020-06-22 20:16:10,650 | INFO  | candidate
+Jobs With Friends                22.0
+Connections                      17.0
+I Like Money, But I Hate Math    14.0
+#diversityhack                   11.0
+Glassdoor Lens                   10.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,651 | INFO  | No winner found
+2020-06-22 20:16:10,651 | INFO  | Removing Glassdoor Lens
+2020-06-22 20:16:10,657 | INFO  | candidate
+Jobs With Friends                22.0
+Connections                      18.0
+I Like Money, But I Hate Math    15.0
+#diversityhack                   11.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,657 | INFO  | No winner found
+2020-06-22 20:16:10,658 | INFO  | Removing #diversityhack
+2020-06-22 20:16:10,662 | INFO  | candidate
+Jobs With Friends                25.0
+Connections                      18.0
+I Like Money, But I Hate Math    15.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,663 | INFO  | No winner found
+2020-06-22 20:16:10,663 | INFO  | Removing I Like Money, But I Hate Math
+2020-06-22 20:16:10,668 | INFO  | candidate
+Jobs With Friends    28.0
+Connections          19.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,669 | WARNI | Winner declared: Jobs With Friends with 28.0
+2020-06-22 20:16:10,669 | INFO  | candidate
+Jobs With Friends    28.0
+Connections          19.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,670 | WARNI | Election complete: Jobs With Friends declared winner for Baby Come BackAw
+2020-06-22 20:16:10,670 | WARNI | Initializing election Inclusion AwardT
+2020-06-22 20:16:10,673 | INFO  | candidate
+#diversityhack                    50.0
+DIRE straits                      11.0
+Helen & the Heartbreakers          7.0
+Glassdoor Lens                     4.0
+INSIGHT                            3.0
+Noble House von Teplitz            3.0
+Corporate Accountability           3.0
+Gatekeeper/Key master              2.0
+Glassdoor Video Testimonials       2.0
+DOS Dash                           1.0
+Props V3                           1.0
+AuthId                             1.0
+Jobs With Friends                  1.0
+Benchmark Breakdown                1.0
+ML-Company Recommendation          0.0
+Localized Locations                0.0
+Chatties                           0.0
+Connections                        0.0
+F.A.S.T                            0.0
+Vulcan                             0.0
+GD Task Manager                    0.0
+Discover Career Transitions        0.0
+ML-Generated Role Descriptions     0.0
+AuthId - SAP                       0.0
+I Like Money, But I Hate Math      0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,674 | WARNI | Winner declared: #diversityhack with 50.0
+2020-06-22 20:16:10,674 | INFO  | candidate
+#diversityhack                    50.0
+DIRE straits                      11.0
+Helen & the Heartbreakers          7.0
+Glassdoor Lens                     4.0
+INSIGHT                            3.0
+Noble House von Teplitz            3.0
+Corporate Accountability           3.0
+Gatekeeper/Key master              2.0
+Glassdoor Video Testimonials       2.0
+DOS Dash                           1.0
+Props V3                           1.0
+AuthId                             1.0
+Jobs With Friends                  1.0
+Benchmark Breakdown                1.0
+ML-Company Recommendation          0.0
+Localized Locations                0.0
+Chatties                           0.0
+Connections                        0.0
+F.A.S.T                            0.0
+Vulcan                             0.0
+GD Task Manager                    0.0
+Discover Career Transitions        0.0
+ML-Generated Role Descriptions     0.0
+AuthId - SAP                       0.0
+I Like Money, But I Hate Math      0.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,675 | WARNI | Election complete: #diversityhack declared winner for Inclusion AwardT
+2020-06-22 20:16:10,675 | WARNI | Initializing election OK Zoomer!Award 
+2020-06-22 20:16:10,678 | INFO  | candidate
+Connections                       55.0
+#diversityhack                     5.0
+INSIGHT                            5.0
+ML-Generated Role Descriptions     4.0
+Glassdoor Lens                     4.0
+I Like Money, But I Hate Math      2.0
+AuthId                             2.0
+DIRE straits                       2.0
+Gatekeeper/Key master              2.0
+404 Hack Project Not Found         2.0
+F.A.S.T                            1.0
+DOS Dash                           1.0
+GD Task Manager                    1.0
+Noble House von Teplitz            1.0
+Team Resilient                     1.0
+Props V3                           1.0
+EC App Team                        1.0
+r8offers                           1.0
+Helen & the Heartbreakers          1.0
+FAQ Your Jobs                      1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,679 | WARNI | Winner declared: Connections with 55.0
+2020-06-22 20:16:10,679 | INFO  | candidate
+Connections                       55.0
+#diversityhack                     5.0
+INSIGHT                            5.0
+ML-Generated Role Descriptions     4.0
+Glassdoor Lens                     4.0
+I Like Money, But I Hate Math      2.0
+AuthId                             2.0
+DIRE straits                       2.0
+Gatekeeper/Key master              2.0
+404 Hack Project Not Found         2.0
+F.A.S.T                            1.0
+DOS Dash                           1.0
+GD Task Manager                    1.0
+Noble House von Teplitz            1.0
+Team Resilient                     1.0
+Props V3                           1.0
+EC App Team                        1.0
+r8offers                           1.0
+Helen & the Heartbreakers          1.0
+FAQ Your Jobs                      1.0
+Name: respondent_id, dtype: float64
+2020-06-22 20:16:10,680 | WARNI | Election complete: Connections declared winner for OK Zoomer!Award 

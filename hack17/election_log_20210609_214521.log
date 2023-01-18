@@ -1,0 +1,1739 @@
+2021-06-09 21:45:21,499 | WARNI | Initializing election I <3 Engineering
+2021-06-09 21:45:21,504 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+EC Leaderboard                                                              1.0
+resumedoor                                                                  1.0
+LTV                                                                         1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+UnFraud Me                                                                  1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+GD Wall Street Features                                                     0.0
+EaSieR                                                                      0.0
+Smarter Feedback                                                            0.0
+Nice Review! Let's Get Embed Together.                                      0.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,505 | INFO  | No winner found
+2021-06-09 21:45:21,506 | INFO  | Removing Nice Review! Let's Get Embed Together.
+2021-06-09 21:45:21,514 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+resumedoor                                                                  1.0
+LTV                                                                         1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+EC Leaderboard                                                              1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+UnFraud Me                                                                  1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+GD Wall Street Features                                                     0.0
+EaSieR                                                                      0.0
+Smarter Feedback                                                            0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,515 | INFO  | No winner found
+2021-06-09 21:45:21,515 | INFO  | Removing Smarter Feedback
+2021-06-09 21:45:21,521 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+resumedoor                                                                  1.0
+LTV                                                                         1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+EC Leaderboard                                                              1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+UnFraud Me                                                                  1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+GD Wall Street Features                                                     0.0
+EaSieR                                                                      0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,522 | INFO  | No winner found
+2021-06-09 21:45:21,523 | INFO  | Removing Sales Tool for Prospect Competitor Comparison
+2021-06-09 21:45:21,528 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+Fast But Not Furious                                                        2.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+resumedoor                                                                  1.0
+LTV                                                                         1.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+EC Leaderboard                                                              1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+GD Wall Street Features                                                     0.0
+EaSieR                                                                      0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,529 | INFO  | No winner found
+2021-06-09 21:45:21,530 | INFO  | Removing EaSieR
+2021-06-09 21:45:21,536 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+Fast But Not Furious                                                        2.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+resumedoor                                                                  1.0
+LTV                                                                         1.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+EC Leaderboard                                                              1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+GD Wall Street Features                                                     0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,537 | INFO  | No winner found
+2021-06-09 21:45:21,537 | INFO  | Removing SNAP - Survey Nudges for Advanced Participation
+2021-06-09 21:45:21,543 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+Fast But Not Furious                                                        2.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+resumedoor                                                                  1.0
+LTV                                                                         1.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+EC Leaderboard                                                              1.0
+UnFraud Me                                                                  1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+GD Wall Street Features                                                     0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,544 | INFO  | No winner found
+2021-06-09 21:45:21,544 | INFO  | Removing GD Wall Street Features
+2021-06-09 21:45:21,550 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Rich gets Richer                                                            3.0
+The Gap Minders                                                             2.0
+The Better Bonus Bureau                                                     2.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+LTV                                                                         1.0
+resumedoor                                                                  1.0
+EC Leaderboard                                                              1.0
+UnFraud Me                                                                  1.0
+We see all                                                                  1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+ReX: Reviews eXpress                                                        1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,551 | INFO  | No winner found
+2021-06-09 21:45:21,552 | INFO  | Removing We see all
+2021-06-09 21:45:21,557 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Rich gets Richer                                                            3.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+The Gap Minders                                                             2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+The Better Bonus Bureau                                                     2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+resumedoor                                                                  1.0
+EC Leaderboard                                                              1.0
+LTV                                                                         1.0
+UnFraud Me                                                                  1.0
+ReX: Reviews eXpress                                                        1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,558 | INFO  | No winner found
+2021-06-09 21:45:21,559 | INFO  | Removing resumedoor
+2021-06-09 21:45:21,564 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+Rich gets Richer                                                            3.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+LTV                                                                         2.0
+The Better Bonus Bureau                                                     2.0
+The Gap Minders                                                             2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+UnFraud Me                                                                  1.0
+ReX: Reviews eXpress                                                        1.0
+EC Leaderboard                                                              1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,565 | INFO  | No winner found
+2021-06-09 21:45:21,566 | INFO  | Removing ReX: Reviews eXpress
+2021-06-09 21:45:21,571 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+Rich gets Richer                                                            3.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+LTV                                                                         2.0
+The Better Bonus Bureau                                                     2.0
+The Gap Minders                                                             2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+UnFraud Me                                                                  1.0
+EC Leaderboard                                                              1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,572 | INFO  | No winner found
+2021-06-09 21:45:21,573 | INFO  | Removing EC Leaderboard
+2021-06-09 21:45:21,578 | INFO  | candidate
+<>>                                                                         8.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+Rich gets Richer                                                            3.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+LTV                                                                         2.0
+The Better Bonus Bureau                                                     2.0
+The Gap Minders                                                             2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+UnFraud Me                                                                  1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,578 | INFO  | No winner found
+2021-06-09 21:45:21,579 | INFO  | Removing UnFraud Me
+2021-06-09 21:45:21,585 | INFO  | candidate
+<>>                                                                         9.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+Rich gets Richer                                                            3.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+LTV                                                                         2.0
+The Better Bonus Bureau                                                     2.0
+The Gap Minders                                                             2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,586 | INFO  | No winner found
+2021-06-09 21:45:21,586 | INFO  | Removing Team ELVIS - "Executive Leadership Voice Integrated Section"
+2021-06-09 21:45:21,591 | INFO  | candidate
+<>>                                                                         9.0
+Glassdoor's Next Top (Language) Model                                       5.0
+Be Positive                                                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+Rich gets Richer                                                            3.0
+Hot or Not? (Job Seeker Interest Score)                                     3.0
+Team Transformer                                                            2.0
+Fast But Not Furious                                                        2.0
+LTV                                                                         2.0
+The Better Bonus Bureau                                                     2.0
+The Gap Minders                                                             2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,592 | INFO  | No winner found
+2021-06-09 21:45:21,592 | INFO  | Removing The Better Bonus Bureau
+2021-06-09 21:45:21,597 | INFO  | candidate
+<>>                                                                         10.0
+Glassdoor's Next Top (Language) Model                                        5.0
+Be Positive                                                                  4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         3.0
+Team Transformer                                                             3.0
+Rich gets Richer                                                             3.0
+Hot or Not? (Job Seeker Interest Score)                                      3.0
+Fast But Not Furious                                                         2.0
+LTV                                                                          2.0
+The Gap Minders                                                              2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,597 | INFO  | No winner found
+2021-06-09 21:45:21,598 | INFO  | Removing LTV
+2021-06-09 21:45:21,604 | INFO  | candidate
+<>>                                                                         10.0
+Glassdoor's Next Top (Language) Model                                        5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         4.0
+Be Positive                                                                  4.0
+Team Transformer                                                             3.0
+Rich gets Richer                                                             3.0
+Hot or Not? (Job Seeker Interest Score)                                      3.0
+Fast But Not Furious                                                         2.0
+The Gap Minders                                                              2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,604 | INFO  | No winner found
+2021-06-09 21:45:21,605 | INFO  | Removing G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials
+2021-06-09 21:45:21,610 | INFO  | candidate
+<>>                                                                     10.0
+Glassdoor's Next Top (Language) Model                                    5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+Be Positive                                                              4.0
+Team Transformer                                                         3.0
+Rich gets Richer                                                         3.0
+Hot or Not? (Job Seeker Interest Score)                                  3.0
+Fast But Not Furious                                                     2.0
+The Gap Minders                                                          2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,611 | INFO  | No winner found
+2021-06-09 21:45:21,611 | INFO  | Removing The Gap Minders
+2021-06-09 21:45:21,617 | INFO  | candidate
+<>>                                                                     10.0
+Glassdoor's Next Top (Language) Model                                    5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+Be Positive                                                              4.0
+Team Transformer                                                         3.0
+Rich gets Richer                                                         3.0
+Hot or Not? (Job Seeker Interest Score)                                  3.0
+Fast But Not Furious                                                     2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,618 | INFO  | No winner found
+2021-06-09 21:45:21,618 | INFO  | Removing Fast But Not Furious
+2021-06-09 21:45:21,624 | INFO  | candidate
+<>>                                                                     11.0
+Glassdoor's Next Top (Language) Model                                    5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+Be Positive                                                              4.0
+Team Transformer                                                         3.0
+Rich gets Richer                                                         3.0
+Hot or Not? (Job Seeker Interest Score)                                  3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,625 | INFO  | No winner found
+2021-06-09 21:45:21,625 | INFO  | Removing Hot or Not? (Job Seeker Interest Score)
+2021-06-09 21:45:21,631 | INFO  | candidate
+<>>                                                                     12.0
+Glassdoor's Next Top (Language) Model                                    5.0
+Be Positive                                                              5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+Team Transformer                                                         3.0
+Rich gets Richer                                                         3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,631 | INFO  | No winner found
+2021-06-09 21:45:21,632 | INFO  | Removing Team Transformer
+2021-06-09 21:45:21,637 | INFO  | candidate
+<>>                                                                     12.0
+Glassdoor's Next Top (Language) Model                                    5.0
+Be Positive                                                              5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+Rich gets Richer                                                         4.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,638 | INFO  | No winner found
+2021-06-09 21:45:21,638 | INFO  | Removing RESULTS: Recommendation Enhanced Survey Using Learning To Specialize
+2021-06-09 21:45:21,643 | INFO  | candidate
+<>>                                      12.0
+Glassdoor's Next Top (Language) Model     5.0
+Be Positive                               5.0
+Rich gets Richer                          4.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,643 | INFO  | No winner found
+2021-06-09 21:45:21,644 | INFO  | Removing Rich gets Richer
+2021-06-09 21:45:21,649 | INFO  | candidate
+<>>                                      12.0
+Glassdoor's Next Top (Language) Model     7.0
+Be Positive                               5.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,649 | INFO  | No winner found
+2021-06-09 21:45:21,650 | INFO  | Removing Be Positive
+2021-06-09 21:45:21,655 | INFO  | candidate
+<>>                                      15.0
+Glassdoor's Next Top (Language) Model     7.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,655 | WARNI | Winner declared: <>> with 15.0
+2021-06-09 21:45:21,656 | INFO  | candidate
+<>>                                      15.0
+Glassdoor's Next Top (Language) Model     7.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,656 | WARNI | Election complete: <>> declared winner for I <3 Engineering
+2021-06-09 21:45:21,656 | WARNI | Initializing election Ambassador of Br
+2021-06-09 21:45:21,659 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+EC Leaderboard                                                              5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Rich gets Richer                                                            1.0
+LTV                                                                         1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+The Better Bonus Bureau                                                     1.0
+Glassdoor's Next Top (Language) Model                                       0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+resumedoor                                                                  0.0
+Smarter Feedback                                                            0.0
+ReX: Reviews eXpress                                                        0.0
+Team M^2                                                                    0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,660 | INFO  | No winner found
+2021-06-09 21:45:21,661 | INFO  | Removing Smarter Feedback
+2021-06-09 21:45:21,665 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+EC Leaderboard                                                              5.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+LTV                                                                         1.0
+Rich gets Richer                                                            1.0
+The Better Bonus Bureau                                                     1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Glassdoor's Next Top (Language) Model                                       0.0
+resumedoor                                                                  0.0
+ReX: Reviews eXpress                                                        0.0
+Team M^2                                                                    0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,666 | INFO  | No winner found
+2021-06-09 21:45:21,667 | INFO  | Removing resumedoor
+2021-06-09 21:45:21,672 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+EC Leaderboard                                                              5.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+LTV                                                                         1.0
+Rich gets Richer                                                            1.0
+The Better Bonus Bureau                                                     1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Glassdoor's Next Top (Language) Model                                       0.0
+ReX: Reviews eXpress                                                        0.0
+Team M^2                                                                    0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,673 | INFO  | No winner found
+2021-06-09 21:45:21,673 | INFO  | Removing ReX: Reviews eXpress
+2021-06-09 21:45:21,678 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              5.0
+Nice Review! Let's Get Embed Together.                                      5.0
+The Gap Minders                                                             3.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+LTV                                                                         1.0
+The Better Bonus Bureau                                                     1.0
+Rich gets Richer                                                            1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Glassdoor's Next Top (Language) Model                                       0.0
+Team M^2                                                                    0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,679 | INFO  | No winner found
+2021-06-09 21:45:21,679 | INFO  | Removing Glassdoor's Next Top (Language) Model
+2021-06-09 21:45:21,684 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              5.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+Rich gets Richer                                                            1.0
+LTV                                                                         1.0
+The Better Bonus Bureau                                                     1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Team M^2                                                                    0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,685 | INFO  | No winner found
+2021-06-09 21:45:21,685 | INFO  | Removing Team M^2
+2021-06-09 21:45:21,690 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              5.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+Rich gets Richer                                                            1.0
+LTV                                                                         1.0
+The Better Bonus Bureau                                                     1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Sales Tool for Prospect Competitor Comparison                               0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,691 | INFO  | No winner found
+2021-06-09 21:45:21,691 | INFO  | Removing Sales Tool for Prospect Competitor Comparison
+2021-06-09 21:45:21,696 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              5.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+Rich gets Richer                                                            1.0
+LTV                                                                         1.0
+The Better Bonus Bureau                                                     1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,697 | INFO  | No winner found
+2021-06-09 21:45:21,697 | INFO  | Removing SNAP - Survey Nudges for Advanced Participation
+2021-06-09 21:45:21,702 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              5.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+Rich gets Richer                                                            1.0
+LTV                                                                         1.0
+The Better Bonus Bureau                                                     1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,703 | INFO  | No winner found
+2021-06-09 21:45:21,703 | INFO  | Removing The Better Bonus Bureau
+2021-06-09 21:45:21,708 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+Rich gets Richer                                                            1.0
+LTV                                                                         1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,709 | INFO  | No winner found
+2021-06-09 21:45:21,709 | INFO  | Removing LTV
+2021-06-09 21:45:21,714 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  3.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        1.0
+Rich gets Richer                                                            1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,715 | INFO  | No winner found
+2021-06-09 21:45:21,715 | INFO  | Removing RESULTS: Recommendation Enhanced Survey Using Learning To Specialize
+2021-06-09 21:45:21,720 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+EC Leaderboard                                                              6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  4.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Rich gets Richer                                                            1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,721 | INFO  | No winner found
+2021-06-09 21:45:21,721 | INFO  | Removing Rich gets Richer
+2021-06-09 21:45:21,726 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     9.0
+EC Leaderboard                                                              7.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                6.0
+Nice Review! Let's Get Embed Together.                                      5.0
+We see all                                                                  4.0
+GD Wall Street Features                                                     3.0
+Fast But Not Furious                                                        3.0
+The Gap Minders                                                             3.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,727 | INFO  | No winner found
+2021-06-09 21:45:21,727 | INFO  | Removing G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials
+2021-06-09 21:45:21,732 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                         9.0
+EC Leaderboard                                                  7.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"    6.0
+Nice Review! Let's Get Embed Together.                          5.0
+We see all                                                      4.0
+GD Wall Street Features                                         3.0
+Fast But Not Furious                                            3.0
+The Gap Minders                                                 3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,733 | INFO  | No winner found
+2021-06-09 21:45:21,733 | INFO  | Removing The Gap Minders
+2021-06-09 21:45:21,738 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                         10.0
+EC Leaderboard                                                   8.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"     6.0
+Nice Review! Let's Get Embed Together.                           5.0
+We see all                                                       4.0
+GD Wall Street Features                                          3.0
+Fast But Not Furious                                             3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,739 | INFO  | No winner found
+2021-06-09 21:45:21,739 | INFO  | Removing GD Wall Street Features
+2021-06-09 21:45:21,744 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                         10.0
+EC Leaderboard                                                   8.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"     6.0
+We see all                                                       5.0
+Nice Review! Let's Get Embed Together.                           5.0
+Fast But Not Furious                                             3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,745 | INFO  | No winner found
+2021-06-09 21:45:21,745 | INFO  | Removing Fast But Not Furious
+2021-06-09 21:45:21,750 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                         11.0
+EC Leaderboard                                                  10.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"     6.0
+We see all                                                       5.0
+Nice Review! Let's Get Embed Together.                           5.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,751 | INFO  | No winner found
+2021-06-09 21:45:21,751 | INFO  | Removing Nice Review! Let's Get Embed Together.
+2021-06-09 21:45:21,756 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                         12.0
+EC Leaderboard                                                  10.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"     7.0
+We see all                                                       6.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,757 | INFO  | No winner found
+2021-06-09 21:45:21,757 | INFO  | Removing We see all
+2021-06-09 21:45:21,762 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                         12.0
+EC Leaderboard                                                  10.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"     9.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,762 | INFO  | No winner found
+2021-06-09 21:45:21,763 | INFO  | Removing Team ELVIS - "Executive Leadership Voice Integrated Section"
+2021-06-09 21:45:21,768 | INFO  | candidate
+EC Leaderboard                             12.0
+Hot or Not? (Job Seeker Interest Score)    12.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,769 | INFO  | No winner found
+2021-06-09 21:45:21,769 | INFO  | Removing Hot or Not? (Job Seeker Interest Score)
+2021-06-09 21:45:21,774 | INFO  | candidate
+EC Leaderboard    15.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,775 | WARNI | Winner declared: EC Leaderboard with 15.0
+2021-06-09 21:45:21,775 | INFO  | candidate
+EC Leaderboard    15.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,775 | WARNI | Election complete: EC Leaderboard declared winner for Ambassador of Br
+2021-06-09 21:45:21,775 | WARNI | Initializing election Core StrengthCon
+2021-06-09 21:45:21,779 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+We see all                                                                  3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+ReX: Reviews eXpress                                                        2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+Rich gets Richer                                                            2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+EC Leaderboard                                                              2.0
+LTV                                                                         1.0
+The Gap Minders                                                             1.0
+Smarter Feedback                                                            1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Be Positive                                                                 1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+Fast But Not Furious                                                        1.0
+Glassdoor's Next Top (Language) Model                                       1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+EaSieR                                                                      0.0
+Team M^2                                                                    0.0
+<>>                                                                         0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,780 | INFO  | No winner found
+2021-06-09 21:45:21,780 | INFO  | Removing EaSieR
+2021-06-09 21:45:21,785 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+EC Leaderboard                                                              2.0
+Rich gets Richer                                                            2.0
+ReX: Reviews eXpress                                                        2.0
+Fast But Not Furious                                                        1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+Glassdoor's Next Top (Language) Model                                       1.0
+Be Positive                                                                 1.0
+LTV                                                                         1.0
+Smarter Feedback                                                            1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+The Gap Minders                                                             1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+<>>                                                                         0.0
+Team M^2                                                                    0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,786 | INFO  | No winner found
+2021-06-09 21:45:21,786 | INFO  | Removing <>>
+2021-06-09 21:45:21,791 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+EC Leaderboard                                                              2.0
+Rich gets Richer                                                            2.0
+ReX: Reviews eXpress                                                        2.0
+Fast But Not Furious                                                        1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+Glassdoor's Next Top (Language) Model                                       1.0
+Be Positive                                                                 1.0
+LTV                                                                         1.0
+Smarter Feedback                                                            1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+The Gap Minders                                                             1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Team M^2                                                                    0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,792 | INFO  | No winner found
+2021-06-09 21:45:21,793 | INFO  | Removing Team M^2
+2021-06-09 21:45:21,798 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+resumedoor                                                                  3.0
+We see all                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+ReX: Reviews eXpress                                                        2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+Rich gets Richer                                                            2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+EC Leaderboard                                                              2.0
+The Gap Minders                                                             1.0
+Smarter Feedback                                                            1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+LTV                                                                         1.0
+Be Positive                                                                 1.0
+Fast But Not Furious                                                        1.0
+Glassdoor's Next Top (Language) Model                                       1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,799 | INFO  | No winner found
+2021-06-09 21:45:21,799 | INFO  | Removing Sales Tool for Prospect Competitor Comparison
+2021-06-09 21:45:21,805 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+EC Leaderboard                                                              2.0
+Rich gets Richer                                                            2.0
+ReX: Reviews eXpress                                                        2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Fast But Not Furious                                                        1.0
+Glassdoor's Next Top (Language) Model                                       1.0
+Be Positive                                                                 1.0
+LTV                                                                         1.0
+Smarter Feedback                                                            1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+The Gap Minders                                                             1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,806 | INFO  | No winner found
+2021-06-09 21:45:21,806 | INFO  | Removing Fast But Not Furious
+2021-06-09 21:45:21,812 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+EC Leaderboard                                                              2.0
+Rich gets Richer                                                            2.0
+ReX: Reviews eXpress                                                        2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Glassdoor's Next Top (Language) Model                                       1.0
+Be Positive                                                                 1.0
+LTV                                                                         1.0
+Smarter Feedback                                                            1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+The Gap Minders                                                             1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,812 | INFO  | No winner found
+2021-06-09 21:45:21,813 | INFO  | Removing Glassdoor's Next Top (Language) Model
+2021-06-09 21:45:21,818 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+LTV                                                                         2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+EC Leaderboard                                                              2.0
+Rich gets Richer                                                            2.0
+ReX: Reviews eXpress                                                        2.0
+Smarter Feedback                                                            1.0
+Team Transformer                                                            1.0
+UnFraud Me                                                                  1.0
+The Gap Minders                                                             1.0
+Be Positive                                                                 1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,819 | INFO  | No winner found
+2021-06-09 21:45:21,820 | INFO  | Removing UnFraud Me
+2021-06-09 21:45:21,825 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             8.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+LTV                                                                         2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+The Better Bonus Bureau                                                     2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+EC Leaderboard                                                              2.0
+Rich gets Richer                                                            2.0
+ReX: Reviews eXpress                                                        2.0
+Smarter Feedback                                                            1.0
+Team Transformer                                                            1.0
+The Gap Minders                                                             1.0
+Be Positive                                                                 1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,826 | INFO  | No winner found
+2021-06-09 21:45:21,826 | INFO  | Removing The Gap Minders
+2021-06-09 21:45:21,831 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             8.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+ReX: Reviews eXpress                                                        2.0
+Rich gets Richer                                                            2.0
+EC Leaderboard                                                              2.0
+LTV                                                                         2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+The Better Bonus Bureau                                                     2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Team Transformer                                                            1.0
+Be Positive                                                                 1.0
+Smarter Feedback                                                            1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,832 | INFO  | No winner found
+2021-06-09 21:45:21,832 | INFO  | Removing Be Positive
+2021-06-09 21:45:21,838 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             8.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+ReX: Reviews eXpress                                                        2.0
+Rich gets Richer                                                            2.0
+EC Leaderboard                                                              2.0
+LTV                                                                         2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+The Better Bonus Bureau                                                     2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Team Transformer                                                            1.0
+Smarter Feedback                                                            1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,839 | INFO  | No winner found
+2021-06-09 21:45:21,839 | INFO  | Removing Smarter Feedback
+2021-06-09 21:45:21,845 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             8.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+ReX: Reviews eXpress                                                        2.0
+Rich gets Richer                                                            2.0
+EC Leaderboard                                                              2.0
+LTV                                                                         2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+The Better Bonus Bureau                                                     2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Team Transformer                                                            1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,845 | INFO  | No winner found
+2021-06-09 21:45:21,846 | INFO  | Removing Team Transformer
+2021-06-09 21:45:21,851 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             8.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+ReX: Reviews eXpress                                                        3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Rich gets Richer                                                            2.0
+EC Leaderboard                                                              2.0
+LTV                                                                         2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+The Better Bonus Bureau                                                     2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,852 | INFO  | No winner found
+2021-06-09 21:45:21,852 | INFO  | Removing The Better Bonus Bureau
+2021-06-09 21:45:21,858 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             9.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+ReX: Reviews eXpress                                                        3.0
+EC Leaderboard                                                              3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Rich gets Richer                                                            2.0
+LTV                                                                         2.0
+Nice Review! Let's Get Embed Together.                                      2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,858 | INFO  | No winner found
+2021-06-09 21:45:21,859 | INFO  | Removing Nice Review! Let's Get Embed Together.
+2021-06-09 21:45:21,863 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             9.0
+ReX: Reviews eXpress                                                        4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+EC Leaderboard                                                              3.0
+resumedoor                                                                  3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Rich gets Richer                                                            2.0
+LTV                                                                         2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,864 | INFO  | No winner found
+2021-06-09 21:45:21,864 | INFO  | Removing LTV
+2021-06-09 21:45:21,870 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             9.0
+ReX: Reviews eXpress                                                        4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+We see all                                                                  4.0
+resumedoor                                                                  4.0
+EC Leaderboard                                                              3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Rich gets Richer                                                            2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,870 | INFO  | No winner found
+2021-06-09 21:45:21,871 | INFO  | Removing Team ELVIS - "Executive Leadership Voice Integrated Section"
+2021-06-09 21:45:21,876 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             9.0
+We see all                                                                  5.0
+ReX: Reviews eXpress                                                        4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        4.0
+resumedoor                                                                  4.0
+EC Leaderboard                                                              3.0
+Rich gets Richer                                                            2.0
+Hot or Not? (Job Seeker Interest Score)                                     2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,877 | INFO  | No winner found
+2021-06-09 21:45:21,877 | INFO  | Removing Hot or Not? (Job Seeker Interest Score)
+2021-06-09 21:45:21,883 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                             10.0
+ReX: Reviews eXpress                                                         5.0
+We see all                                                                   5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         4.0
+resumedoor                                                                   4.0
+EC Leaderboard                                                               3.0
+Rich gets Richer                                                             2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,883 | INFO  | No winner found
+2021-06-09 21:45:21,884 | INFO  | Removing G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials
+2021-06-09 21:45:21,888 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                         10.0
+ReX: Reviews eXpress                                                     5.0
+We see all                                                               5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+resumedoor                                                               4.0
+EC Leaderboard                                                           3.0
+Rich gets Richer                                                         2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,889 | INFO  | No winner found
+2021-06-09 21:45:21,890 | INFO  | Removing Rich gets Richer
+2021-06-09 21:45:21,895 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                         10.0
+ReX: Reviews eXpress                                                     6.0
+We see all                                                               5.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     4.0
+resumedoor                                                               4.0
+EC Leaderboard                                                           3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,895 | INFO  | No winner found
+2021-06-09 21:45:21,896 | INFO  | Removing EC Leaderboard
+2021-06-09 21:45:21,901 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                         10.0
+ReX: Reviews eXpress                                                     6.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     5.0
+We see all                                                               5.0
+resumedoor                                                               4.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,902 | INFO  | No winner found
+2021-06-09 21:45:21,902 | INFO  | Removing resumedoor
+2021-06-09 21:45:21,908 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                         10.0
+ReX: Reviews eXpress                                                     7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     5.0
+We see all                                                               5.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,908 | INFO  | No winner found
+2021-06-09 21:45:21,909 | INFO  | Removing We see all
+2021-06-09 21:45:21,913 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation                         10.0
+ReX: Reviews eXpress                                                     7.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     7.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,915 | INFO  | No winner found
+2021-06-09 21:45:21,915 | INFO  | Removing RESULTS: Recommendation Enhanced Survey Using Learning To Specialize
+2021-06-09 21:45:21,920 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation    11.0
+ReX: Reviews eXpress                                9.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,920 | WARNI | Winner declared: SNAP - Survey Nudges for Advanced Participation with 11.0
+2021-06-09 21:45:21,921 | INFO  | candidate
+SNAP - Survey Nudges for Advanced Participation    11.0
+ReX: Reviews eXpress                                9.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,921 | WARNI | Election complete: SNAP - Survey Nudges for Advanced Participation declared winner for Core StrengthCon
+2021-06-09 21:45:21,921 | WARNI | Initializing election Inclusion AwardT
+2021-06-09 21:45:21,925 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+Fast But Not Furious                                                         1.0
+The Better Bonus Bureau                                                      1.0
+EaSieR                                                                       1.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+EC Leaderboard                                                               1.0
+Rich gets Richer                                                             1.0
+GD Wall Street Features                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+Be Positive                                                                  0.0
+resumedoor                                                                   0.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Nice Review! Let's Get Embed Together.                                       0.0
+ReX: Reviews eXpress                                                         0.0
+Hot or Not? (Job Seeker Interest Score)                                      0.0
+UnFraud Me                                                                   0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,926 | INFO  | No winner found
+2021-06-09 21:45:21,927 | INFO  | Removing resumedoor
+2021-06-09 21:45:21,932 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+The Better Bonus Bureau                                                      1.0
+EaSieR                                                                       1.0
+EC Leaderboard                                                               1.0
+Fast But Not Furious                                                         1.0
+Rich gets Richer                                                             1.0
+GD Wall Street Features                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+Be Positive                                                                  0.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Nice Review! Let's Get Embed Together.                                       0.0
+ReX: Reviews eXpress                                                         0.0
+Hot or Not? (Job Seeker Interest Score)                                      0.0
+UnFraud Me                                                                   0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,933 | INFO  | No winner found
+2021-06-09 21:45:21,934 | INFO  | Removing ReX: Reviews eXpress
+2021-06-09 21:45:21,938 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+The Better Bonus Bureau                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+UnFraud Me                                                                   0.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Be Positive                                                                  0.0
+Nice Review! Let's Get Embed Together.                                       0.0
+Hot or Not? (Job Seeker Interest Score)                                      0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,940 | INFO  | No winner found
+2021-06-09 21:45:21,940 | INFO  | Removing UnFraud Me
+2021-06-09 21:45:21,945 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+The Better Bonus Bureau                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Be Positive                                                                  0.0
+Nice Review! Let's Get Embed Together.                                       0.0
+Hot or Not? (Job Seeker Interest Score)                                      0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,946 | INFO  | No winner found
+2021-06-09 21:45:21,946 | INFO  | Removing Be Positive
+2021-06-09 21:45:21,952 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+The Better Bonus Bureau                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Nice Review! Let's Get Embed Together.                                       0.0
+Hot or Not? (Job Seeker Interest Score)                                      0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,953 | INFO  | No winner found
+2021-06-09 21:45:21,953 | INFO  | Removing Hot or Not? (Job Seeker Interest Score)
+2021-06-09 21:45:21,958 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+The Better Bonus Bureau                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Nice Review! Let's Get Embed Together.                                       0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,959 | INFO  | No winner found
+2021-06-09 21:45:21,960 | INFO  | Removing Nice Review! Let's Get Embed Together.
+2021-06-09 21:45:21,965 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+The Better Bonus Bureau                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize         0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,966 | INFO  | No winner found
+2021-06-09 21:45:21,966 | INFO  | Removing RESULTS: Recommendation Enhanced Survey Using Learning To Specialize
+2021-06-09 21:45:21,971 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+The Better Bonus Bureau                                                      1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,972 | INFO  | No winner found
+2021-06-09 21:45:21,973 | INFO  | Removing The Better Bonus Bureau
+2021-06-09 21:45:21,977 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,978 | WARNI | Winner declared: The Gap Minders with 15.0
+2021-06-09 21:45:21,979 | INFO  | candidate
+The Gap Minders                                                             15.0
+We see all                                                                   5.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                 2.0
+SNAP - Survey Nudges for Advanced Participation                              1.0
+GD Wall Street Features                                                      1.0
+Rich gets Richer                                                             1.0
+Fast But Not Furious                                                         1.0
+EC Leaderboard                                                               1.0
+EaSieR                                                                       1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials     1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,979 | WARNI | Election complete: The Gap Minders declared winner for Inclusion AwardT
+2021-06-09 21:45:21,979 | WARNI | Initializing election Connect & Collab
+2021-06-09 21:45:21,983 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+We see all                                                                  3.0
+Fast But Not Furious                                                        3.0
+Smarter Feedback                                                            3.0
+EC Leaderboard                                                              3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+resumedoor                                                                  2.0
+Team M^2                                                                    2.0
+The Gap Minders                                                             2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Rich gets Richer                                                            2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+The Better Bonus Bureau                                                     1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+Be Positive                                                                 1.0
+GD Wall Street Features                                                     1.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+LTV                                                                         0.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+Nice Review! Let's Get Embed Together.                                      0.0
+Team Transformer                                                            0.0
+ReX: Reviews eXpress                                                        0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,984 | INFO  | No winner found
+2021-06-09 21:45:21,984 | INFO  | Removing ReX: Reviews eXpress
+2021-06-09 21:45:21,990 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+EC Leaderboard                                                              3.0
+Fast But Not Furious                                                        3.0
+We see all                                                                  3.0
+Smarter Feedback                                                            3.0
+Team M^2                                                                    2.0
+The Gap Minders                                                             2.0
+resumedoor                                                                  2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+Rich gets Richer                                                            2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+Be Positive                                                                 1.0
+GD Wall Street Features                                                     1.0
+The Better Bonus Bureau                                                     1.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+LTV                                                                         0.0
+Nice Review! Let's Get Embed Together.                                      0.0
+Team Transformer                                                            0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,990 | INFO  | No winner found
+2021-06-09 21:45:21,991 | INFO  | Removing Team Transformer
+2021-06-09 21:45:21,996 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+EC Leaderboard                                                              3.0
+Fast But Not Furious                                                        3.0
+We see all                                                                  3.0
+Smarter Feedback                                                            3.0
+Team M^2                                                                    2.0
+The Gap Minders                                                             2.0
+resumedoor                                                                  2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+Rich gets Richer                                                            2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+Be Positive                                                                 1.0
+The Better Bonus Bureau                                                     1.0
+GD Wall Street Features                                                     1.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+SNAP - Survey Nudges for Advanced Participation                             0.0
+LTV                                                                         0.0
+Nice Review! Let's Get Embed Together.                                      0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:21,997 | INFO  | No winner found
+2021-06-09 21:45:21,998 | INFO  | Removing SNAP - Survey Nudges for Advanced Participation
+2021-06-09 21:45:22,003 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+Smarter Feedback                                                            3.0
+We see all                                                                  3.0
+Fast But Not Furious                                                        3.0
+EC Leaderboard                                                              3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Team M^2                                                                    2.0
+Rich gets Richer                                                            2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+The Gap Minders                                                             2.0
+resumedoor                                                                  2.0
+The Better Bonus Bureau                                                     1.0
+Be Positive                                                                 1.0
+UnFraud Me                                                                  1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+GD Wall Street Features                                                     1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Nice Review! Let's Get Embed Together.                                      0.0
+LTV                                                                         0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,004 | INFO  | No winner found
+2021-06-09 21:45:22,004 | INFO  | Removing LTV
+2021-06-09 21:45:22,009 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+EC Leaderboard                                                              3.0
+We see all                                                                  3.0
+Smarter Feedback                                                            3.0
+Fast But Not Furious                                                        3.0
+resumedoor                                                                  2.0
+Team M^2                                                                    2.0
+The Gap Minders                                                             2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+Rich gets Richer                                                            2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+UnFraud Me                                                                  1.0
+Be Positive                                                                 1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+The Better Bonus Bureau                                                     1.0
+GD Wall Street Features                                                     1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Nice Review! Let's Get Embed Together.                                      0.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,010 | INFO  | No winner found
+2021-06-09 21:45:22,011 | INFO  | Removing Nice Review! Let's Get Embed Together.
+2021-06-09 21:45:22,016 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+EC Leaderboard                                                              3.0
+We see all                                                                  3.0
+Smarter Feedback                                                            3.0
+Fast But Not Furious                                                        3.0
+resumedoor                                                                  2.0
+Team M^2                                                                    2.0
+The Gap Minders                                                             2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+Rich gets Richer                                                            2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+UnFraud Me                                                                  1.0
+Be Positive                                                                 1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+The Better Bonus Bureau                                                     1.0
+GD Wall Street Features                                                     1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,017 | INFO  | No winner found
+2021-06-09 21:45:22,017 | INFO  | Removing GD Wall Street Features
+2021-06-09 21:45:22,023 | INFO  | candidate
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+Fast But Not Furious                                                        4.0
+EC Leaderboard                                                              3.0
+We see all                                                                  3.0
+Smarter Feedback                                                            3.0
+resumedoor                                                                  2.0
+Team M^2                                                                    2.0
+The Gap Minders                                                             2.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+Rich gets Richer                                                            2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Be Positive                                                                 1.0
+UnFraud Me                                                                  1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+The Better Bonus Bureau                                                     1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,024 | INFO  | No winner found
+2021-06-09 21:45:22,024 | INFO  | Removing Be Positive
+2021-06-09 21:45:22,029 | INFO  | candidate
+Fast But Not Furious                                                        4.0
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+We see all                                                                  3.0
+EC Leaderboard                                                              3.0
+Smarter Feedback                                                            3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Rich gets Richer                                                            2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+resumedoor                                                                  2.0
+The Gap Minders                                                             2.0
+Team M^2                                                                    2.0
+UnFraud Me                                                                  1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+The Better Bonus Bureau                                                     1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,030 | INFO  | No winner found
+2021-06-09 21:45:22,031 | INFO  | Removing The Better Bonus Bureau
+2021-06-09 21:45:22,035 | INFO  | candidate
+Fast But Not Furious                                                        4.0
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+We see all                                                                  3.0
+EC Leaderboard                                                              3.0
+Smarter Feedback                                                            3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        2.0
+Rich gets Richer                                                            2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+resumedoor                                                                  2.0
+The Gap Minders                                                             2.0
+Team M^2                                                                    2.0
+UnFraud Me                                                                  1.0
+Sales Tool for Prospect Competitor Comparison                               1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,036 | INFO  | No winner found
+2021-06-09 21:45:22,036 | INFO  | Removing Sales Tool for Prospect Competitor Comparison
+2021-06-09 21:45:22,042 | INFO  | candidate
+Fast But Not Furious                                                        4.0
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+We see all                                                                  3.0
+EC Leaderboard                                                              3.0
+Smarter Feedback                                                            3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Rich gets Richer                                                            2.0
+Glassdoor's Next Top (Language) Model                                       2.0
+resumedoor                                                                  2.0
+The Gap Minders                                                             2.0
+Team M^2                                                                    2.0
+UnFraud Me                                                                  1.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,043 | INFO  | No winner found
+2021-06-09 21:45:22,043 | INFO  | Removing UnFraud Me
+2021-06-09 21:45:22,048 | INFO  | candidate
+Fast But Not Furious                                                        4.0
+Hot or Not? (Job Seeker Interest Score)                                     4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize        3.0
+We see all                                                                  3.0
+Glassdoor's Next Top (Language) Model                                       3.0
+EC Leaderboard                                                              3.0
+Smarter Feedback                                                            3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"                2.0
+Rich gets Richer                                                            2.0
+resumedoor                                                                  2.0
+The Gap Minders                                                             2.0
+Team M^2                                                                    2.0
+G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials    1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,049 | INFO  | No winner found
+2021-06-09 21:45:22,049 | INFO  | Removing G.R.O.W.I.T. - Generate Revenue and Opportunities With In-product Trials
+2021-06-09 21:45:22,055 | INFO  | candidate
+Fast But Not Furious                                                    4.0
+Hot or Not? (Job Seeker Interest Score)                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize    3.0
+We see all                                                              3.0
+Glassdoor's Next Top (Language) Model                                   3.0
+EC Leaderboard                                                          3.0
+Smarter Feedback                                                        3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"            2.0
+Rich gets Richer                                                        2.0
+resumedoor                                                              2.0
+The Gap Minders                                                         2.0
+Team M^2                                                                2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,055 | INFO  | No winner found
+2021-06-09 21:45:22,056 | INFO  | Removing resumedoor
+2021-06-09 21:45:22,061 | INFO  | candidate
+Fast But Not Furious                                                    4.0
+Hot or Not? (Job Seeker Interest Score)                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize    3.0
+We see all                                                              3.0
+Glassdoor's Next Top (Language) Model                                   3.0
+EC Leaderboard                                                          3.0
+Smarter Feedback                                                        3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"            2.0
+Rich gets Richer                                                        2.0
+The Gap Minders                                                         2.0
+Team M^2                                                                2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,061 | INFO  | No winner found
+2021-06-09 21:45:22,062 | INFO  | Removing The Gap Minders
+2021-06-09 21:45:22,067 | INFO  | candidate
+We see all                                                              4.0
+Fast But Not Furious                                                    4.0
+Hot or Not? (Job Seeker Interest Score)                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize    3.0
+Glassdoor's Next Top (Language) Model                                   3.0
+EC Leaderboard                                                          3.0
+Smarter Feedback                                                        3.0
+Team ELVIS - "Executive Leadership Voice Integrated Section"            2.0
+Rich gets Richer                                                        2.0
+Team M^2                                                                2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,068 | INFO  | No winner found
+2021-06-09 21:45:22,068 | INFO  | Removing Team ELVIS - "Executive Leadership Voice Integrated Section"
+2021-06-09 21:45:22,073 | INFO  | candidate
+We see all                                                              5.0
+Fast But Not Furious                                                    4.0
+Hot or Not? (Job Seeker Interest Score)                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize    3.0
+Glassdoor's Next Top (Language) Model                                   3.0
+EC Leaderboard                                                          3.0
+Smarter Feedback                                                        3.0
+Team M^2                                                                3.0
+Rich gets Richer                                                        2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,074 | INFO  | No winner found
+2021-06-09 21:45:22,074 | INFO  | Removing Rich gets Richer
+2021-06-09 21:45:22,080 | INFO  | candidate
+We see all                                                              5.0
+Fast But Not Furious                                                    4.0
+EC Leaderboard                                                          4.0
+Hot or Not? (Job Seeker Interest Score)                                 4.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize    3.0
+Glassdoor's Next Top (Language) Model                                   3.0
+Smarter Feedback                                                        3.0
+Team M^2                                                                3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,080 | INFO  | No winner found
+2021-06-09 21:45:22,081 | INFO  | Removing RESULTS: Recommendation Enhanced Survey Using Learning To Specialize
+2021-06-09 21:45:22,086 | INFO  | candidate
+We see all                                 7.0
+Fast But Not Furious                       4.0
+EC Leaderboard                             4.0
+Hot or Not? (Job Seeker Interest Score)    4.0
+Team M^2                                   4.0
+Glassdoor's Next Top (Language) Model      3.0
+Smarter Feedback                           3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,087 | INFO  | No winner found
+2021-06-09 21:45:22,088 | INFO  | Removing Smarter Feedback
+2021-06-09 21:45:22,093 | INFO  | candidate
+We see all                                 7.0
+Hot or Not? (Job Seeker Interest Score)    5.0
+Team M^2                                   5.0
+Fast But Not Furious                       4.0
+EC Leaderboard                             4.0
+Glassdoor's Next Top (Language) Model      3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,094 | INFO  | No winner found
+2021-06-09 21:45:22,094 | INFO  | Removing Glassdoor's Next Top (Language) Model
+2021-06-09 21:45:22,099 | INFO  | candidate
+We see all                                 7.0
+Hot or Not? (Job Seeker Interest Score)    5.0
+Team M^2                                   5.0
+Fast But Not Furious                       4.0
+EC Leaderboard                             4.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,100 | INFO  | No winner found
+2021-06-09 21:45:22,100 | INFO  | Removing EC Leaderboard
+2021-06-09 21:45:22,106 | INFO  | candidate
+We see all                                 9.0
+Team M^2                                   6.0
+Hot or Not? (Job Seeker Interest Score)    5.0
+Fast But Not Furious                       4.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,106 | INFO  | No winner found
+2021-06-09 21:45:22,107 | INFO  | Removing Fast But Not Furious
+2021-06-09 21:45:22,111 | INFO  | candidate
+We see all                                 10.0
+Team M^2                                    6.0
+Hot or Not? (Job Seeker Interest Score)     5.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,112 | INFO  | No winner found
+2021-06-09 21:45:22,113 | INFO  | Removing Hot or Not? (Job Seeker Interest Score)
+2021-06-09 21:45:22,118 | INFO  | candidate
+We see all    10.0
+Team M^2       6.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,118 | WARNI | Winner declared: We see all with 10.0
+2021-06-09 21:45:22,119 | INFO  | candidate
+We see all    10.0
+Team M^2       6.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,119 | WARNI | Election complete: We see all declared winner for Connect & Collab
+2021-06-09 21:45:22,119 | WARNI | Initializing election OK Zoomer!Award 
+2021-06-09 21:45:22,123 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Rich gets Richer                                                         2.0
+resumedoor                                                               2.0
+UnFraud Me                                                               1.0
+EaSieR                                                                   1.0
+Nice Review! Let's Get Embed Together.                                   1.0
+The Gap Minders                                                          1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,124 | INFO  | No winner found
+2021-06-09 21:45:22,124 | INFO  | Removing Nice Review! Let's Get Embed Together.
+2021-06-09 21:45:22,129 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Rich gets Richer                                                         2.0
+resumedoor                                                               2.0
+UnFraud Me                                                               1.0
+EaSieR                                                                   1.0
+The Gap Minders                                                          1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,130 | INFO  | No winner found
+2021-06-09 21:45:22,130 | INFO  | Removing EaSieR
+2021-06-09 21:45:22,135 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Rich gets Richer                                                         2.0
+resumedoor                                                               2.0
+UnFraud Me                                                               1.0
+The Gap Minders                                                          1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,136 | INFO  | No winner found
+2021-06-09 21:45:22,136 | INFO  | Removing UnFraud Me
+2021-06-09 21:45:22,142 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Rich gets Richer                                                         2.0
+resumedoor                                                               2.0
+The Gap Minders                                                          1.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,142 | INFO  | No winner found
+2021-06-09 21:45:22,143 | INFO  | Removing The Gap Minders
+2021-06-09 21:45:22,148 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Rich gets Richer                                                         2.0
+resumedoor                                                               2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,149 | INFO  | No winner found
+2021-06-09 21:45:22,149 | INFO  | Removing resumedoor
+2021-06-09 21:45:22,154 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Rich gets Richer                                                         2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,155 | INFO  | No winner found
+2021-06-09 21:45:22,155 | INFO  | Removing Rich gets Richer
+2021-06-09 21:45:22,160 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"            12.0
+We see all                                                              11.0
+Hot or Not? (Job Seeker Interest Score)                                  4.0
+EC Leaderboard                                                           3.0
+RESULTS: Recommendation Enhanced Survey Using Learning To Specialize     2.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,161 | INFO  | No winner found
+2021-06-09 21:45:22,161 | INFO  | Removing RESULTS: Recommendation Enhanced Survey Using Learning To Specialize
+2021-06-09 21:45:22,166 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"    12.0
+We see all                                                      11.0
+Hot or Not? (Job Seeker Interest Score)                          4.0
+EC Leaderboard                                                   3.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,167 | INFO  | No winner found
+2021-06-09 21:45:22,167 | INFO  | Removing EC Leaderboard
+2021-06-09 21:45:22,173 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"    12.0
+We see all                                                      11.0
+Hot or Not? (Job Seeker Interest Score)                          4.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,173 | INFO  | No winner found
+2021-06-09 21:45:22,174 | INFO  | Removing Hot or Not? (Job Seeker Interest Score)
+2021-06-09 21:45:22,179 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"    12.0
+We see all                                                      11.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,180 | WARNI | Winner declared: Team ELVIS - "Executive Leadership Voice Integrated Section" with 12.0
+2021-06-09 21:45:22,180 | INFO  | candidate
+Team ELVIS - "Executive Leadership Voice Integrated Section"    12.0
+We see all                                                      11.0
+Name: respondent_id, dtype: float64
+2021-06-09 21:45:22,181 | WARNI | Election complete: Team ELVIS - "Executive Leadership Voice Integrated Section" declared winner for OK Zoomer!Award 
